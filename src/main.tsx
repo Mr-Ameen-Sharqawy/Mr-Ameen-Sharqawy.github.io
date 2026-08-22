@@ -40,7 +40,7 @@ function LessonExplorer({ grade, onBack }: { grade: Grade; onBack: () => void })
   const [meaningVisible, setMeaningVisible] = useState(false);
   const lesson = lessons[lessonIndex];
   const card: CourseCard = lesson.cards[cardIndex];
-  const lessonIllustration = `/course-images/${grade}-unit${lesson.unit}.png`;
+  const lessonIllustration = `/course-images/lessons/${grade}-lesson${String(lessonIndex + 1).padStart(2, "0")}.jpg`;
   const key = `vocflashcard-public-${grade}-${lesson.id}`;
   const [knownCards, setKnownCards] = useState<string[]>(() => JSON.parse(localStorage.getItem(key) ?? "[]"));
 
