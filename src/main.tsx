@@ -63,9 +63,30 @@ function LessonExplorer({ grade, onBack }: { grade: Grade; onBack: () => void })
   return <main className="course-shell"><header className="course-header"><button className="back-button" onClick={onBack}><Home size={17} /> الصفوف</button><div><span>VOCABULARY JOURNEY</span><strong>{gradeMeta[grade].title}</strong></div><button className="reset-button" onClick={() => setKnownCards([])}><RotateCcw size={16} /> تصفير مراجعة الدرس</button></header><section className="course-layout"><aside className="lesson-sidebar"><div className="sidebar-heading"><p>{gradeMeta[grade].english}</p><h1>الدروس</h1></div><div className="lesson-list">{lessons.map((item, index) => <button className={index === lessonIndex ? "active" : ""} onClick={() => setLessonIndex(index)} key={item.id}><span className="lesson-number">{item.unit}.{item.lesson}</span><span><strong>{item.title}</strong><small>{item.unitArabic}</small></span><ChevronRight size={16} /></button>)}</div></aside><section className="learning-area"><div className="lesson-banner"><div><p>{lesson.unitArabic} · Unit {lesson.unit}</p><h2>{lesson.title}</h2><span>{lesson.cards.length} بطاقة في هذا الدرس</span></div><div className="progress-box"><strong>{progress}%</strong><span>تمت مراجعته</span><div><i style={{ width: `${progress}%` }} /></div></div></div><article className="flashcard"><div className="card-image"><img src={lessonIllustration} alt={`صورة تعليمية للوحدة ${lesson.unit}`} /><span className="card-count">{cardIndex + 1} / {lesson.cards.length}</span></div><div className="card-copy"><span className="kind-label">{card.kind.replace(/-/g, " ")}</span><h3>{card.term}</h3><button className="listen-button" onClick={() => say(card.term)}><Volume2 size={18} /> استمع للنطق</button><div className="meaning"><p>المعنى بالعربية</p>{meaningVisible ? <strong>{card.arabic}</strong> : <button onClick={() => setMeaningVisible(true)}>أظهر المعنى</button>}</div><div className="example"><p>مثال</p><blockquote>{card.sentence}</blockquote></div><div className="card-actions"><button className={isKnown ? "known" : ""} onClick={toggleKnown}>{isKnown ? "تمت المراجعة" : "أتممت هذه البطاقة"}</button><div><button aria-label="البطاقة السابقة" onClick={() => nextCard(-1)}><ArrowRight size={19} /></button><button aria-label="البطاقة التالية" onClick={() => nextCard(1)}><ArrowLeft size={19} /></button></div></div></div></article><p className="public-course-note"><Headphones size={15} /> النطق يعمل من متصفحك، وتُحفظ مراجعتك لهذا الدرس على جهازك فقط.</p></section></section></main>;
 }
 
+function gradeFromHash(): Grade | null {
+  const grade = window.location.hash.replace("#", "") as Grade;
+  return grade in courses ? grade : null;
+}
+
 function App() {
-  const [grade, setGrade] = useState<Grade | null>(null);
-  return grade ? <LessonExplorer grade={grade} onBack={() => setGrade(null)} /> : <GradeHome onSelect={setGrade} />;
+  const [grade, setGrade] = useState<Grade | null>(() => gradeFromHash());
+
+  useEffect(() => {
+    const updateFromHash = () => setGrade(gradeFromHash());
+    window.addEventListener("hashchange", updateFromHash);
+    return () => window.removeEventListener("hashchange", updateFromHash);
+  }, []);
+
+  const selectGrade = (nextGrade: Grade) => {
+    window.location.hash = nextGrade;
+  };
+
+  const returnToGrades = () => {
+    window.history.pushState(null, "", window.location.pathname + window.location.search);
+    setGrade(null);
+  };
+
+  return grade ? <LessonExplorer grade={grade} onBack={returnToGrades} /> : <GradeHome onSelect={selectGrade} />;
 }
 
 createRoot(document.getElementById("root")!).render(<App />);
