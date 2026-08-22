@@ -1,0 +1,90 @@
+import type { CourseCard } from "./course";
+
+function normalizeGrade6Term(term: string) {
+  return term.toLowerCase().replace(/\([^)]*\)/g, "").replace(/[^a-z0-9]+/g, " ").trim();
+}
+
+/** Reviewed Grade 6 artwork only. Unmapped terms use their lesson fallback temporarily. */
+export const grade6CartoonImages: Record<string, string> = {
+  "activity": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade6-001-activity_0154e51c.png",
+  "bracelet": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade6-002-bracelet_e8268a4b.png",
+  "jewelry": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade6-002-bracelet_e8268a4b.png",
+  "egyptian": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade6-003-egyptian_40146aa5.png",
+  "gate": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade6-004-gate_e78bf264.png",
+  "entrance": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade6-004-gate_e78bf264.png",
+  "lamp": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade6-005-lamp_0013ec02.png",
+  "light": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade6-005-lamp_0013ec02.png",
+  "necklace": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade6-006-necklace_8284ed0f.png",
+  "skirt": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade6-007-skirt_7ef66df3.png",
+  "tool": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade6-008-tool_1100eb0e.png",
+  "tourist": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade6-009-tourist_7a9a70ca.png",
+  "do activities": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade6-010-do-activities_4490feae.png",
+  "for a few minutes": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade6-011-for-a-few-minutes_dab00a01.png",
+  "it is fun to": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade6-012-it-is-fun-to_20113848.png",
+  "play with drums": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade6-013-play-with-drums_57e2260a.png",
+  "spend time": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade6-014-spend-time_f68f3dcc.png",
+  "with arabic designs": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade6-015-with-arabic-designs_e5f26ada.png",
+  "buy souvenirs": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade6-016-buy-souvenirs_277bbce3.png",
+  "make furniture": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade6-017-make-furniture_17323615.png",
+  "play music": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade6-018-play-music_c4a218f2.png",
+  "take photos": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade6-019-take-photos_4f1f23fb.png",
+  "visit ancient sites": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade6-020-visit-ancient-sites_7a05147c.png",
+  "cactus": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/openclipart-cactus-274970_3343cd8d.png",
+  "sea turtles": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/openclipart-cartoon-turtle-17592_e3813a25.png",
+  "mountains": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/openclipart-mountains-310056_c783bed9.png",
+  "waterfall": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-cartoon-waterfall-search-result_aeff5237.png",
+  "coral reefs": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-angelfish-coral-reef-10374088_57a306d5.png",
+  "camera": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/openclipart-camera-189527_79378393.png",
+  "wind turbine": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-wind-turbine-7107364_5e04a487.jpg",
+  "clouds": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-wind-turbine-7107364_5e04a487.jpg",
+  "electricity": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-wind-turbine-7107364_5e04a487.jpg",
+  "energy": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-wind-turbine-7107364_5e04a487.jpg",
+  "make electricity": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-wind-turbine-7107364_5e04a487.jpg",
+  "suitcase": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-suitcase-8023523_1a68db00.png",
+  "luggage": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-suitcase-8023523_1a68db00.png",
+  "oasis": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-oasis-9018077_cfd3c121.jpg",
+  "desert": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-oasis-9018077_cfd3c121.jpg",
+  "loom": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-woman-weaving-10371190_b69348d2.jpg",
+  "dolphins": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/openclipart-dolphins-216002_fc282bf7.png",
+  "snorkel": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-snorkel-diver-147683_94ef5b99.png",
+  "factory": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-factory-3550551_d5604599.png",
+  "factories": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-factory-3550551_d5604599.png",
+  "crops": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-crops-farm-10119224_0ee9b42d.png",
+  "farms": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-crops-farm-10119224_0ee9b42d.png",
+  "grain": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-crops-farm-10119224_0ee9b42d.png",
+  "good soil": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-crops-farm-10119224_0ee9b42d.png",
+  "harvest": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-crops-farm-10119224_0ee9b42d.png",
+  "computer": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-computer-2026805_d8e0c4c8.png",
+  "fishermen": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-fisherman-3635221_577088ff.png",
+  "fisherman": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-fisherman-3635221_577088ff.png",
+  "repair": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-repair-mechanic-8265470_b49f61f0.jpg",
+  "wool": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-wool-yarn-7846455_5c811107.jpg",
+  "landscape": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/openclipart-rural-landscape-268296_a984fbac.png",
+  "bench": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-school-children-park-bench-9837892_dc2d32ca.png",
+  "coins": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-coins-gold-stacked-29516_91cd2b96.png",
+  "gold": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-coins-gold-stacked-29516_91cd2b96.png",
+  "beach": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-summer-beach-8618894_ea8cbb3d.jpg",
+  "water": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-summer-beach-8618894_ea8cbb3d.jpg",
+  "wooden": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-school-children-park-bench-9837892_dc2d32ca.png",
+  "furniture": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade6-017-make-furniture_17323615.png",
+  "garbage": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-garbage-container-157110_3bf4d38a.png",
+  "garbage bags": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-garbage-bag-10207886_badf2e30.png",
+  "hat": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-hat-ribbon-7605221_fb504d1c.png",
+  "kingfisher": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-kingfisher-nature-branch-2393409_f6cbacb0.png",
+  "hibiscus": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-hibiscus-blossom-leaf-306805_1e1ab8b2.png",
+  "tilapia": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/creazilla-tilapia-15568889_015c397d.png",
+  "mint": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/creazilla-peppermint-herb-15795_f3e82363.png",
+  "irrigation": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/creazilla-watering-can-78561_eaa385ec.png",
+  "insects": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-insects-bugs-cartoon-6809694_b9170ffb.png",
+  "heron": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/creazilla-great-blue-heron-15568959_4c174b3e.png",
+  "natural fertilizer": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/creazilla-compost-pit-7754655_4a40b1eb.png",
+  "jasmine": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/creazilla-jasmine-7937777_475e3787.png",
+};
+
+export function grade6CartoonImageForTerm(term: string, fallback: string) {
+  return grade6CartoonImages[normalizeGrade6Term(term)] ?? fallback;
+}
+
+export function grade6CartoonImageFor(card: CourseCard) {
+  return grade6CartoonImageForTerm(card.sourceTerm || card.term, card.image);
+}
