@@ -38,7 +38,7 @@ export const courseLessons: CourseLesson[] = [
     "color": "#f4c84a",
     "title": "What are the Five Senses?",
     "sourceFile": "Prim 4 U 1 L 1.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg",
+    "image": "/course-images/grade4-learning-illustration.png",
     "cards": [
       {
         "id": "1-1-1",
@@ -49,7 +49,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We taste with our tongue.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-1-2",
@@ -60,7 +60,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We touch with our hands.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-1-3",
@@ -71,7 +71,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Our hearing helps us hear the birds.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-1-4",
@@ -82,7 +82,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "My sight lets me see the colorful butterflies.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-1-5",
@@ -93,7 +93,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We smell with our nose.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-1-6",
@@ -104,7 +104,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "If we smell smoke, we know there's a fire.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-1-7",
@@ -115,7 +115,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "If we smell smoke, we know there's a fire.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-1-8",
@@ -126,7 +126,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I can hear my friends' voices at recess.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-1-9",
@@ -137,7 +137,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We taste with our tongue.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-1-10",
@@ -148,7 +148,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The kitten's fur is very soft and warm.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-1-11",
@@ -159,7 +159,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I can smell the flowers and see the colorful butterflies!",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-1-12",
@@ -170,7 +170,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Excellent work, you learned about the five senses.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-1-13",
@@ -181,7 +181,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I can smell the flowers and see the colorful butterflies!",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-1-14",
@@ -192,7 +192,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The rock is hard when I touch it.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-1-15",
@@ -203,7 +203,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "A loud noise made everyone cover their ears.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-1-16",
@@ -214,7 +214,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Today, we'll learn about our amazing senses.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-1-17",
@@ -225,7 +225,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Senses help us stay safe.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-1-18",
@@ -236,7 +236,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Good morning, children! What a beautiful day!",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-1-19",
@@ -247,7 +247,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Let's talk about our five senses today.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-1-20",
@@ -258,7 +258,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "used",
         "sentence": "We use our sense of hearing to hear birds singing.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-1-21",
@@ -269,7 +269,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "use",
         "sentence": "Last week we used our senses on a walk.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-1-22",
@@ -280,7 +280,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "tasted",
         "sentence": "We taste with our tongue.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-1-23",
@@ -291,7 +291,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "taste",
         "sentence": "She tasted the soup and smiled because it was good.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-1-24",
@@ -302,7 +302,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "touched",
         "sentence": "We touch with our hands.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-1-25",
@@ -313,7 +313,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "touch",
         "sentence": "He touched the cool water with his hand.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-1-26",
@@ -324,7 +324,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "heard",
         "sentence": "We hear with our ears.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-1-27",
@@ -335,7 +335,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "hear",
         "sentence": "I heard a loud noise near the school.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-1-28",
@@ -346,7 +346,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "sang",
         "sentence": "We sing a happy song in music class.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-1-29",
@@ -357,7 +357,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "sing",
         "sentence": "Yesterday the class sang a song together.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-1-30",
@@ -368,7 +368,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "understood",
         "sentence": "Senses help us understand the world around us.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-1-31",
@@ -379,7 +379,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "understand",
         "sentence": "After the lesson, the students understood the idea.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       }
     ]
   },
@@ -392,7 +392,7 @@ export const courseLessons: CourseLesson[] = [
     "color": "#f4c84a",
     "title": "Healthy Habits",
     "sourceFile": "Prim 4 U 1 L 2.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg",
+    "image": "/course-images/grade4-learning-illustration.png",
     "cards": [
       {
         "id": "1-2-1",
@@ -403,7 +403,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I brush teeth every morning after breakfast.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-2",
@@ -414,7 +414,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I wash face with cool water every morning.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-3",
@@ -425,7 +425,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We wake up early for school on weekdays.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-4",
@@ -436,7 +436,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "My friends and I play sports after school.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-5",
@@ -447,7 +447,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We drink plenty of water to stay hydrated.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-6",
@@ -458,7 +458,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "He likes to take a shower in the morning.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-7",
@@ -469,7 +469,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "They do exercises in the school playground.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-8",
@@ -480,7 +480,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Students eat snacks during break time at school.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-9",
@@ -491,7 +491,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Healthy food gives me energy for class.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-10",
@@ -502,7 +502,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Good sleep helps me stay sharp in lessons.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-11",
@@ -513,7 +513,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Vitamins and fruits help children become strong.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-12",
@@ -524,7 +524,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I like brown bread with cheese for breakfast.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-13",
@@ -535,7 +535,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "She drinks orange juice with her breakfast.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-14",
@@ -546,7 +546,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Playing puzzles helps keep your mind active.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-15",
@@ -557,7 +557,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Fruits and vegetables give us natural vitamins daily.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-16",
@@ -568,7 +568,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Sarah eats lots of vegetables and fruits for dinner.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-17",
@@ -579,7 +579,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I eat fresh fruit as a healthy snack.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-18",
@@ -590,7 +590,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Too many sweets can make your teeth hurt.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-19",
@@ -601,7 +601,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "A simple meal can be healthy and tasty.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-20",
@@ -612,7 +612,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "A 10-year-old girl takes a shower every night.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-21",
@@ -623,7 +623,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "She eats eggs and cheese for breakfast every day.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-22",
@@ -634,7 +634,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Sarah drinks plenty of water between classes.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-23",
@@ -645,7 +645,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Sarah's healthy habits help her feel good and do well at school.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-24",
@@ -656,7 +656,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Eat breakfast to stay sharp in morning lessons.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-25",
@@ -667,7 +667,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Getting enough sleep helps children focus at school.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-26",
@@ -678,7 +678,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Children make friends when they play together.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-27",
@@ -689,7 +689,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Turn off the lights at night before sleeping.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-28",
@@ -700,7 +700,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "followed",
         "sentence": "Students follow the teacher's healthy routine every day.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-29",
@@ -711,7 +711,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "follow",
         "sentence": "He followed a good sleep schedule last week.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-30",
@@ -722,7 +722,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "enjoyed",
         "sentence": "We enjoy playing games during break time.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-31",
@@ -733,7 +733,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "enjoy",
         "sentence": "They enjoyed the fresh orange juice yesterday.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-32",
@@ -744,7 +744,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "drank",
         "sentence": "I drink water after I play football.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-33",
@@ -755,7 +755,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "drink",
         "sentence": "She drank warm milk before she slept.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-34",
@@ -766,7 +766,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "grew",
         "sentence": "We grow plants in the school garden each year.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-35",
@@ -777,7 +777,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "grow",
         "sentence": "The little seed grew into a big plant.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-36",
@@ -788,7 +788,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "slept",
         "sentence": "Children need eight hours of sleep every night.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-37",
@@ -799,7 +799,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "sleep",
         "sentence": "He slept early and woke up full of energy.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-38",
@@ -810,7 +810,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "took",
         "sentence": "I take my vitamins with breakfast each morning.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-2-39",
@@ -821,7 +821,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "take",
         "sentence": "Yesterday she took a short walk after school.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       }
     ]
   },
@@ -834,7 +834,7 @@ export const courseLessons: CourseLesson[] = [
     "color": "#f4c84a",
     "title": "Goha's Great Meal",
     "sourceFile": "Prim 4 U 1 L 3.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg",
+    "image": "/course-images/grade4-learning-illustration.png",
     "cards": [
       {
         "id": "1-3-1",
@@ -845,7 +845,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Goha offered to pay for the smell with the sound of his coins.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-2",
@@ -856,7 +856,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We walk to the market every Saturday morning.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-3",
@@ -867,7 +867,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "He sat outside the restaurant, enjoying the smell of the soup.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-4",
@@ -878,7 +878,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The owner asked Goha to pay for the smell.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-5",
@@ -889,7 +889,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Goha was hungry, but he didn't have enough money to buy food.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-6",
@@ -900,7 +900,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "He smelled delicious soup from a restaurant.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-7",
@@ -911,7 +911,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The small bell made a soft jingling sound.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-8",
@@ -922,7 +922,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The greedy boy wanted all the food for himself.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-9",
@@ -933,7 +933,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "She took a deep breath before eating the soup.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-10",
@@ -944,7 +944,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "He sat outside the restaurant, enjoying the smell of the soup.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-11",
@@ -955,7 +955,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The bag was light and easy to carry.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-12",
@@ -966,7 +966,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Suddenly the cat jumped onto the table.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-13",
@@ -977,7 +977,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The soup tasted yummy and made Goha smile.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-14",
@@ -988,7 +988,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The meal looked wonderful on the clean table.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-15",
@@ -999,7 +999,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "He put his hand in his pocket.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-16",
@@ -1010,7 +1010,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The owner was impressed by Goha's kindness.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-17",
@@ -1021,7 +1021,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The owner gave him soup for free that day.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-18",
@@ -1032,7 +1032,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Please take out .... from the bag.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-19",
@@ -1043,7 +1043,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The owner asked Goha to come inside and eat.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-20",
@@ -1054,7 +1054,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We walk through the small market every day.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-21",
@@ -1065,7 +1065,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The owner did not laugh at Goha's idea.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-22",
@@ -1076,7 +1076,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Goha agreed to share with the owner.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-23",
@@ -1087,7 +1087,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The soup will taste better with salt.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-24",
@@ -1098,7 +1098,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "invited",
         "sentence": "They invite friends to eat on special days.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-25",
@@ -1109,7 +1109,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "invite",
         "sentence": "The owner laughed and invited Goha in the restaurant to share the soup.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-26",
@@ -1120,7 +1120,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "offered",
         "sentence": "I offer my sandwich to my friend.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-27",
@@ -1131,7 +1131,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "offer",
         "sentence": "Goha offered to pay for the smell with the sound of his coins.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-28",
@@ -1142,7 +1142,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "said",
         "sentence": "They say the soup smells very good today.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-29",
@@ -1153,7 +1153,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "say",
         "sentence": "Goha said he had no money for the meal.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-30",
@@ -1164,7 +1164,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "paid for",
         "sentence": "I will pay for the lunch today.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-31",
@@ -1175,7 +1175,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "pay for",
         "sentence": "She paid for the ice cream with a smile.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-32",
@@ -1186,7 +1186,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "shook",
         "sentence": "Please do not shake the bowl, it is hot.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-3-33",
@@ -1197,7 +1197,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "shake",
         "sentence": "He shook the bottle before drinking.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       }
     ]
   },
@@ -1210,7 +1210,7 @@ export const courseLessons: CourseLesson[] = [
     "color": "#f4c84a",
     "title": "Writing / Think and Create",
     "sourceFile": "Prim 4 U 1 L 4&5.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg",
+    "image": "/course-images/grade4-learning-illustration.png",
     "cards": [
       {
         "id": "1-4&5-1",
@@ -1221,7 +1221,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Having a daily routine is important.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-4&5-2",
@@ -1232,7 +1232,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "During break time, I eat my healthy snack and drink water.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-4&5-3",
@@ -1243,7 +1243,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "My sister and I wear the same shoes.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-4&5-4",
@@ -1254,7 +1254,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I wash my face and get dressed for school.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-4&5-5",
@@ -1265,7 +1265,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We eat lunch together at school every day.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-4&5-6",
@@ -1276,7 +1276,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I eat breakfast before I go to school.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-4&5-7",
@@ -1287,7 +1287,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Good eating habits help me grow healthy and strong.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-4&5-8",
@@ -1298,7 +1298,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "During break time, I eat my healthy snack and drink water.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-4&5-9",
@@ -1309,7 +1309,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I take a shower and have dinner in the evening.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-4&5-10",
@@ -1320,7 +1320,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The box has toys including a ball and a kite.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-4&5-11",
@@ -1331,7 +1331,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "studied",
         "sentence": "I study English after school every day.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-4&5-12",
@@ -1342,7 +1342,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "study",
         "sentence": "Yesterday I studied for the math test.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-4&5-13",
@@ -1353,7 +1353,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "prepared",
         "sentence": "I prepare my bag before I leave home.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-4&5-14",
@@ -1364,7 +1364,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "prepare",
         "sentence": "My mother prepared a healthy lunch for me.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-4&5-15",
@@ -1375,7 +1375,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "let",
         "sentence": "My parents let me read before bed.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-4&5-16",
@@ -1386,7 +1386,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "let",
         "sentence": "Yesterday my teacher let me answer the question.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-4&5-17",
@@ -1397,7 +1397,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "told",
         "sentence": "Please tell me the homework for today.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "1-4&5-18",
@@ -1408,7 +1408,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "tell",
         "sentence": "My father told me to finish my homework.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-1-senses-health_31f52044.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       }
     ]
   },
@@ -1421,7 +1421,7 @@ export const courseLessons: CourseLesson[] = [
     "color": "#70c6b5",
     "title": "Helping the Community",
     "sourceFile": "Prim 4 U 2 L 1.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg",
+    "image": "/course-images/grade4-learning-illustration.png",
     "cards": [
       {
         "id": "2-1-1",
@@ -1432,7 +1432,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I clean trash from the streets with my friends.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-1-2",
@@ -1443,7 +1443,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Do you plant trees in the park?",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-1-3",
@@ -1454,7 +1454,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I collect clothes and give them to people.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-1-4",
@@ -1465,7 +1465,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Amira and Adam help their community together.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-1-5",
@@ -1476,7 +1476,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Sometimes, I feed the dogs and cats.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-1-6",
@@ -1487,7 +1487,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I volunteer at the community park on Sundays.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-1-7",
@@ -1498,7 +1498,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Adam and friends pick up trash on Saturdays.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-1-8",
@@ -1509,7 +1509,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Adam's sister helps her neighbors.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-1-9",
@@ -1520,7 +1520,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Adam's sister volunteers at the community park.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-1-10",
@@ -1531,7 +1531,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We collect bottles and put them in the bin.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-1-11",
@@ -1542,7 +1542,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Amira collects clothes and gives them to people.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-1-12",
@@ -1553,7 +1553,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "They walk to school down our street.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-1-13",
@@ -1564,7 +1564,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "It's fun to plant trees with my friends.",
         "sentenceSource": "template-override",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-1-14",
@@ -1575,7 +1575,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "You both do a great job!",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-1-15",
@@ -1586,7 +1586,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "That's cool! Do you plant trees?",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-1-16",
@@ -1597,7 +1597,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Helping hands make our community stronger every day.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-1-17",
@@ -1608,7 +1608,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "needed",
         "sentence": "People need clean water and safe food.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-1-18",
@@ -1619,7 +1619,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "need",
         "sentence": "The park needed more flowers last spring.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-1-19",
@@ -1630,7 +1630,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "volunteered",
         "sentence": "Many students volunteer to clean the beach.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-1-20",
@@ -1641,7 +1641,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "volunteer",
         "sentence": "She volunteered at the shelter last weekend.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-1-21",
@@ -1652,7 +1652,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "felt",
         "sentence": "I feel so happy when I help animals.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-1-22",
@@ -1663,7 +1663,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "feel",
         "sentence": "I felt proud after we finished cleaning.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-1-23",
@@ -1674,7 +1674,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "gave",
         "sentence": "I give clothes to people who need them.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-1-24",
@@ -1685,7 +1685,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "give",
         "sentence": "Yesterday, I gave food to a hungry dog.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       }
     ]
   },
@@ -1698,7 +1698,7 @@ export const courseLessons: CourseLesson[] = [
     "color": "#70c6b5",
     "title": "Community Problems and Solutions",
     "sourceFile": "Prim 4 U 2 L 2.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg",
+    "image": "/course-images/grade4-learning-illustration.png",
     "cards": [
       {
         "id": "2-2-1",
@@ -1709,7 +1709,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Mona and Ali have good solutions to some problems in their community.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-2-2",
@@ -1720,7 +1720,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The first problem is traffic.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-2-3",
@@ -1731,7 +1731,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Drop your snack wrapper in the bin now.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-2-4",
@@ -1742,7 +1742,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Mona and Ali have good solutions to some problems in their community.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-2-5",
@@ -1753,7 +1753,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Some people don't put trash in bins, so the streets look dirty.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-2-6",
@@ -1764,7 +1764,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Our neighbors don't throw trash on the ground.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-2-7",
@@ -1775,7 +1775,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "There will be fewer cars on the road.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-2-8",
@@ -1786,7 +1786,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Cars don't move quickly in the morning, especially near schools.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-2-9",
@@ -1797,7 +1797,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We put new bins everywhere.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-2-10",
@@ -1808,7 +1808,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Small acts can make a difference in town.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-2-11",
@@ -1819,7 +1819,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Some people don't put trash in bins, so the streets look dirty.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-2-12",
@@ -1830,7 +1830,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "There will be fewer cars on the road.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-2-13",
@@ -1841,7 +1841,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Use the bike instead of the car today.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-2-14",
@@ -1852,7 +1852,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Many students take the bus to school.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-2-15",
@@ -1863,7 +1863,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "reduced",
         "sentence": "We reduce plastic use to help our community.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-2-16",
@@ -1874,7 +1874,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "reduce",
         "sentence": "Traffic was reduced after more students took buses.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-2-17",
@@ -1885,7 +1885,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "fixed",
         "sentence": "Volunteers can fix broken playground fences this week.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-2-18",
@@ -1896,7 +1896,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "fix",
         "sentence": "The school fixed the broken bench yesterday.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-2-19",
@@ -1907,7 +1907,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "moved",
         "sentence": "Cars don't move quickly in the morning, especially near schools.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-2-20",
@@ -1918,7 +1918,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "move",
         "sentence": "The cars moved slowly because of the rain.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-2-21",
@@ -1929,7 +1929,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "solved",
         "sentence": "Do you know how to solve this problem?",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-2-22",
@@ -1940,7 +1940,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "solve",
         "sentence": "The students solved the trash problem with new bins.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-2-23",
@@ -1951,7 +1951,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "discussed",
         "sentence": "OK! Let's also discuss solutions to fix them.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-2-24",
@@ -1962,7 +1962,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "discuss",
         "sentence": "We discussed community problems in our class today.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-2-25",
@@ -1973,7 +1973,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "left",
         "sentence": "Please do not leave trash on the street.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-2-26",
@@ -1984,7 +1984,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "leave",
         "sentence": "He left his bag near the new bin.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-2-27",
@@ -1995,7 +1995,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "threw",
         "sentence": "Our neighbors don't throw trash on the ground.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-2-28",
@@ -2006,7 +2006,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "throw",
         "sentence": "Yesterday, someone threw plastic into the bin.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-2-29",
@@ -2017,7 +2017,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "knew",
         "sentence": "Do you know how to solve this problem?",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-2-30",
@@ -2028,7 +2028,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "know",
         "sentence": "I knew a good solution for traffic.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-2-31",
@@ -2039,7 +2039,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "put",
         "sentence": "Mona says that people don't put trash in bins and that is a problem.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-2-32",
@@ -2050,7 +2050,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "put",
         "sentence": "We put new bins everywhere.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       }
     ]
   },
@@ -2063,7 +2063,7 @@ export const courseLessons: CourseLesson[] = [
     "color": "#70c6b5",
     "title": "Egypt - My Culture",
     "sourceFile": "Prim 4 U 2 L 3.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg",
+    "image": "/course-images/grade4-learning-illustration.png",
     "cards": [
       {
         "id": "2-3-1",
@@ -2074,7 +2074,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Egypt has two special regions: the Delta and Upper Egypt.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-2",
@@ -2085,7 +2085,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Egypt has two special regions: the Delta and Upper Egypt.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-3",
@@ -2096,7 +2096,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This region grows many green plants.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-4",
@@ -2107,7 +2107,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Our school learns about Egypt's culture and music.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-5",
@@ -2118,7 +2118,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "They hang bright decorations for the festival.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-6",
@@ -2129,7 +2129,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "My friend wore a colorful outfit yesterday.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-7",
@@ -2140,7 +2140,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "In the Delta, they celebrate the Spring Festival.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-8",
@@ -2151,7 +2151,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The man tied his white turban carefully.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-9",
@@ -2162,7 +2162,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "In the Delta, many people work in factories and make beautiful crafts.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-10",
@@ -2173,7 +2173,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The whole village joined the big celebration.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-11",
@@ -2184,7 +2184,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Upper Egypt and the Delta share many of the same traditions.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-12",
@@ -2195,7 +2195,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "In Nubia, houses are painted in bright colors and have special designs.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-13",
@@ -2206,7 +2206,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The Delta is in the north of Egypt.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-14",
@@ -2217,7 +2217,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "In Upper Egypt, they make pottery and weave colorful carpets by hand.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-15",
@@ -2228,7 +2228,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "In Upper Egypt, people celebrate the sugar cane harvest with big festivals.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-16",
@@ -2239,7 +2239,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Nubia is in the south of Egypt.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-17",
@@ -2250,7 +2250,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "They wore traditional clothes at the festival.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-18",
@@ -2261,7 +2261,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "In the Delta, men wear modern clothes like pants and shirts.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-19",
@@ -2272,7 +2272,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "In Nubia, houses are painted in bright colors and have special designs.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-20",
@@ -2283,7 +2283,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "In Upper Egypt, they make pottery and weave colorful carpets by hand.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-21",
@@ -2294,7 +2294,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Her new dress looks very stylish and bright.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-22",
@@ -2305,7 +2305,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "In Upper Egypt, people celebrate the sugar cane harvest with big festivals.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-23",
@@ -2316,7 +2316,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "My uncle wears a white galabeya at home.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-24",
@@ -2327,7 +2327,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The Nile is known for its long river.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-25",
@@ -2338,7 +2338,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "In Upper Egypt, they make pottery and weave colorful carpets by hand.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-26",
@@ -2349,7 +2349,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "In Nubia, houses are painted in bright colors and have special designs.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-27",
@@ -2360,7 +2360,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Elders tell stories about old family adventures.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-28",
@@ -2371,7 +2371,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We keep the best clothes for special events.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-29",
@@ -2382,7 +2382,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "celebrated",
         "sentence": "In the Delta, they celebrate the Spring Festival.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-30",
@@ -2393,7 +2393,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "celebrate",
         "sentence": "They celebrated the harvest with dancing.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-31",
@@ -2404,7 +2404,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "painted",
         "sentence": "Artists paint bright houses in Nubia every year.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-32",
@@ -2415,7 +2415,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "paint",
         "sentence": "In Nubia, houses are painted in bright colors and have special designs.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-33",
@@ -2426,7 +2426,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "wove",
         "sentence": "In Upper Egypt, they make pottery and weave colorful carpets by hand.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-34",
@@ -2437,7 +2437,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "weave",
         "sentence": "She wove a small red carpet last summer.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-35",
@@ -2448,7 +2448,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "wore",
         "sentence": "In the Delta, men wear modern clothes like pants and shirts.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-3-36",
@@ -2459,7 +2459,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "wear",
         "sentence": "He wore his galabeya to the celebration.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       }
     ]
   },
@@ -2472,7 +2472,7 @@ export const courseLessons: CourseLesson[] = [
     "color": "#70c6b5",
     "title": "Our Community's History",
     "sourceFile": "Prim 4 U 2 L 4&5.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg",
+    "image": "/course-images/grade4-learning-illustration.png",
     "cards": [
       {
         "id": "2-4&5-1",
@@ -2483,7 +2483,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "March 15, 2025. Dear diary,",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-4&5-2",
@@ -2494,7 +2494,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Their neighborhood had an old market with wooden stalls.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-4&5-3",
@@ -2505,7 +2505,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "There are many ways to stop air pollution.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-4&5-4",
@@ -2516,7 +2516,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Fifty years ago, our neighborhood was very different!",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-4&5-5",
@@ -2527,7 +2527,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Their neighborhood had an old market with wooden stalls.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-4&5-6",
@@ -2538,7 +2538,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Children played safely in the streets.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-4&5-7",
@@ -2549,7 +2549,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Today, Grandpa told me amazing stories about our community's history.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-4&5-8",
@@ -2560,7 +2560,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "There was even a small train station where our park is now!",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-4&5-9",
@@ -2571,7 +2571,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "It makes me proud to know our community has such a rich history.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-4&5-10",
@@ -2582,7 +2582,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Grandpa told Hana amazing stories about their community's history.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-4&5-11",
@@ -2593,7 +2593,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Where our big supermarket stands now, there was a beautiful old market with wooden stalls.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-4&5-12",
@@ -2604,7 +2604,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "People sold fresh fruits and vegetables every morning.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-4&5-13",
@@ -2615,7 +2615,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Where our big supermarket stands now, there was a beautiful old market with wooden stalls.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-4&5-14",
@@ -2626,7 +2626,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "A new building stands near the old school.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-4&5-15",
@@ -2637,7 +2637,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Grandpa showed me old photos.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-4&5-16",
@@ -2648,7 +2648,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Many old houses still stand near the school.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-4&5-17",
@@ -2659,7 +2659,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I am proud to help my community.",
         "sentenceSource": "template-override",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-4&5-18",
@@ -2670,7 +2670,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Yours truly, Hana.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-4&5-19",
@@ -2681,7 +2681,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "walked",
         "sentence": "Walk or cycle to school and plant trees in your community.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-4&5-20",
@@ -2692,7 +2692,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "walk",
         "sentence": "Last year, I walked to school with friends.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-4&5-21",
@@ -2703,7 +2703,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "cycled",
         "sentence": "Walk or cycle to school and plant trees in your community.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-4&5-22",
@@ -2714,7 +2714,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "cycle",
         "sentence": "My brother cycled around the neighborhood on Sunday.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-4&5-23",
@@ -2725,7 +2725,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "sold",
         "sentence": "People sell fruits at the old market every morning.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-4&5-24",
@@ -2736,7 +2736,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "sell",
         "sentence": "People sold fresh fruits and vegetables every morning.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-4&5-25",
@@ -2747,7 +2747,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "kept",
         "sentence": "Use less plastic and keep your community clean.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-4&5-26",
@@ -2758,7 +2758,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "keep",
         "sentence": "They kept the old photos in a box.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-4&5-27",
@@ -2769,7 +2769,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "built",
         "sentence": "People helped to build the school that still stands today.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "2-4&5-28",
@@ -2780,7 +2780,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "build",
         "sentence": "They built the school many years ago.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-2-community-culture_81c52bc7.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       }
     ]
   },
@@ -2793,7 +2793,7 @@ export const courseLessons: CourseLesson[] = [
     "color": "#ef8a75",
     "title": "Let's Meet the Animals!",
     "sourceFile": "Prim 4 U 3 L 1.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg",
+    "image": "/course-images/grade4-learning-illustration.png",
     "cards": [
       {
         "id": "3-1-1",
@@ -2804,7 +2804,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The lion sleeps under a warm tree.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-2",
@@ -2815,7 +2815,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "A monkey swings from the tall branch.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-3",
@@ -2826,7 +2826,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The elephant drinks water with its trunk.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-4",
@@ -2837,7 +2837,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "A giraffe eats leaves from tall trees.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-5",
@@ -2848,7 +2848,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The zebra runs fast across the field.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-6",
@@ -2859,7 +2859,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "A bear likes to eat honey and fruit.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-7",
@@ -2870,7 +2870,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The forest guide shows the visitors the animals at the forest park.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-8",
@@ -2881,7 +2881,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The bear's fur is thick in winter.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-9",
@@ -2892,7 +2892,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The cat uses its claws to climb.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-10",
@@ -2903,7 +2903,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The forest guide shows the visitors the animals at the forest park.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-11",
@@ -2914,7 +2914,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The animal's coat helps it stay warm.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-12",
@@ -2925,7 +2925,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The elephant sprays water from its long trunk.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-13",
@@ -2936,7 +2936,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The forest guide shows the visitors the animals at the forest park.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-14",
@@ -2947,7 +2947,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We watch a TV program about friendly animals.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-15",
@@ -2958,7 +2958,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The monkey waved its long tail happily.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-16",
@@ -2969,7 +2969,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Giraffes eat leaves from tall trees.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-17",
@@ -2980,7 +2980,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The giraffe's neck is very long and strong.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-18",
@@ -2991,7 +2991,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The lion is the king of the jungle land.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-19",
@@ -3002,7 +3002,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The zebras walk in groups across the plain.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-20",
@@ -3013,7 +3013,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Monkeys eat bananas as well as fruit.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-21",
@@ -3024,7 +3024,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "My aunt may work as a forest guide.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-22",
@@ -3035,7 +3035,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Students come to see ... up close the animals.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-23",
@@ -3046,7 +3046,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Many animals are active during the day.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-24",
@@ -3057,7 +3057,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "hunted",
         "sentence": "Lions often hunt at night.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-25",
@@ -3068,7 +3068,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "hunt",
         "sentence": "The tiger hunted quietly in the tall grass.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-26",
@@ -3079,7 +3079,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "climbed",
         "sentence": "Monkeys climb trees to find ripe fruit.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-27",
@@ -3090,7 +3090,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "climb",
         "sentence": "Yesterday the monkey climbed up the tall tree.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-28",
@@ -3101,7 +3101,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "sprayed",
         "sentence": "The elephant can spray water with force.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-29",
@@ -3112,7 +3112,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "spray",
         "sentence": "The elephant sprayed water on the hot day.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-30",
@@ -3123,7 +3123,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "caught",
         "sentence": "The bear can catch fish from the river.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-31",
@@ -3134,7 +3134,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "catch",
         "sentence": "He caught a small fish for his lunch.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-32",
@@ -3145,7 +3145,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "ran",
         "sentence": "Zebras run quickly when they are scared.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-33",
@@ -3156,7 +3156,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "run",
         "sentence": "The lion ran fast after the antelope.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-34",
@@ -3167,7 +3167,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "drank",
         "sentence": "Elephants drink water at the big pond.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-1-35",
@@ -3178,7 +3178,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "drink",
         "sentence": "The giraffe drank water from the tall pond.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       }
     ]
   },
@@ -3191,7 +3191,7 @@ export const courseLessons: CourseLesson[] = [
     "color": "#ef8a75",
     "title": "Taking Care of Animals",
     "sourceFile": "Prim 4 U 3 L 2.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg",
+    "image": "/course-images/grade4-learning-illustration.png",
     "cards": [
       {
         "id": "3-2-1",
@@ -3202,7 +3202,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "My pet likes to play in the yard.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-2",
@@ -3213,7 +3213,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The dog needs attention every morning from Ali.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-3",
@@ -3224,7 +3224,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Taking care of animals brings small challenges sometimes.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-4",
@@ -3235,7 +3235,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We visited the vet when the cat was sick.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-5",
@@ -3246,7 +3246,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The owner fed the kitten with fresh food.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-6",
@@ -3257,7 +3257,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Wild animals' homes are getting smaller because of new cities.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-7",
@@ -3268,7 +3268,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The forest officer helps protect animals in the park.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-8",
@@ -3279,7 +3279,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The bird stayed in a clean small cage.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-9",
@@ -3290,7 +3290,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Each animal needs special care to live well.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-10",
@@ -3301,7 +3301,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We check the rabbit's health every week.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-11",
@@ -3312,7 +3312,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Parks give animals safe spaces to live.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-12",
@@ -3323,7 +3323,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Wild animals need big spaces to live safely.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-13",
@@ -3334,7 +3334,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The turtle found a new home near the pond.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-14",
@@ -3345,7 +3345,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Give pets fresh water every day for health.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-15",
@@ -3356,7 +3356,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Animals need our help to stay healthy and safe.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-16",
@@ -3367,7 +3367,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "A simple cage can be clean and safe.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-17",
@@ -3378,7 +3378,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Keep your pet's bowl clean every day.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-18",
@@ -3389,7 +3389,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Each animal needs special care to live well.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-19",
@@ -3400,7 +3400,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Pets need daily care from their owners.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-20",
@@ -3411,7 +3411,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Acts of kindness help animals feel safe.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-21",
@@ -3422,7 +3422,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Free puppies need space to move around happily.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-22",
@@ -3433,7 +3433,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "My cousin wants to keep a rabbit this summer.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-23",
@@ -3444,7 +3444,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Please care for = take care of your pet every day.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-24",
@@ -3455,7 +3455,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "reached",
         "sentence": "I reach the shelter before school every morning.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-25",
@@ -3466,7 +3466,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "reach",
         "sentence": "We reached the field to rescue the lamb.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-26",
@@ -3477,7 +3477,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "checked",
         "sentence": "Please check the bird's water every day.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-27",
@@ -3488,7 +3488,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "check",
         "sentence": "Mona checked the dog's paw after it hurt.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-28",
@@ -3499,7 +3499,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "faced",
         "sentence": "Animals sometimes face problems with no food.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-29",
@@ -3510,7 +3510,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "face",
         "sentence": "The farmer faced many challenges when saving chicks.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-30",
@@ -3521,7 +3521,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "protected",
         "sentence": "Everyone can help protect animals by showing kindness for them.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-31",
@@ -3532,7 +3532,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "protect",
         "sentence": "The trees were protected by the forest officer.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-32",
@@ -3543,7 +3543,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "created",
         "sentence": "We create small homes for lost animals.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-2-33",
@@ -3554,7 +3554,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "create",
         "sentence": "Students created a poster to help stray cats.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       }
     ]
   },
@@ -3567,7 +3567,7 @@ export const courseLessons: CourseLesson[] = [
     "color": "#ef8a75",
     "title": "Story Time - The Old Lion and The Fox",
     "sourceFile": "Prim 4 U 3 L 3.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg",
+    "image": "/course-images/grade4-learning-illustration.png",
     "cards": [
       {
         "id": "3-3-1",
@@ -3578,7 +3578,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "A wise fox noticed the one-way footprints.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-3-2",
@@ -3589,7 +3589,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The rabbit wiggled its fluffy tail in the sun.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-3-3",
@@ -3600,7 +3600,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The old lion pretended to be sick in his cave.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-3-4",
@@ -3611,7 +3611,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The fox used a clever trick to save himself.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-3-5",
@@ -3622,7 +3622,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "A wise fox noticed the one-way footprints.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-3-6",
@@ -3633,7 +3633,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We learn from our mistakes every single day.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-3-7",
@@ -3644,7 +3644,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We climbed the small mountain near our village today.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-3-8",
@@ -3655,7 +3655,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The rain left tiny marks on the ground.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-3-9",
@@ -3666,7 +3666,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The old lion pretended to be sick in his cave.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-3-10",
@@ -3677,7 +3677,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The lake surface looked calm under the blue sky.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-3-11",
@@ -3688,7 +3688,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "After the long run the kitten felt weak and sleepy.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-3-12",
@@ -3699,7 +3699,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "A wise fox noticed the one-way footprints.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-3-13",
@@ -3710,7 +3710,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "When he was lost, he had to call out for help.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-3-14",
@@ -3721,7 +3721,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The mice left the cave one by one quietly.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-3-15",
@@ -3732,7 +3732,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The small bird will come out when it is safe.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-3-16",
@@ -3743,7 +3743,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The rabbit had to run away from the barking dog.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-3-17",
@@ -3754,7 +3754,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The fox warned that the animals were in danger.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-3-18",
@@ -3765,7 +3765,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "pretended",
         "sentence": "He will pretend to be sick at home.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-3-19",
@@ -3776,7 +3776,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "pretend",
         "sentence": "The old lion pretended to be sick in his cave.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-3-20",
@@ -3787,7 +3787,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "died",
         "sentence": "If the plant has no water, it may die soon.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-3-21",
@@ -3798,7 +3798,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "die",
         "sentence": "The brave bird died after the long, cold winter.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-3-22",
@@ -3809,7 +3809,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "entered",
         "sentence": "Do not enter the cave without your family.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-3-23",
@@ -3820,7 +3820,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "enter",
         "sentence": "Many animals entered the lion's cave and never returned.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-3-24",
@@ -3831,7 +3831,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "noticed",
         "sentence": "Please notice the wet marks near the door.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-3-25",
@@ -3842,7 +3842,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "notice",
         "sentence": "A wise fox noticed the one-way footprints.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-3-26",
@@ -3853,7 +3853,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "stood",
         "sentence": "Please stand next to your friend in a line.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-3-27",
@@ -3864,7 +3864,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "stand",
         "sentence": "He stood very still when the lion roared.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-3-28",
@@ -3875,7 +3875,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "understood",
         "sentence": "Do you understand the story we read today?",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-3-29",
@@ -3886,7 +3886,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "understand",
         "sentence": "She understood the lesson after the teacher explained it.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-3-30",
@@ -3897,7 +3897,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "caught",
         "sentence": "Can you catch the ball I will throw?",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-3-31",
@@ -3908,7 +3908,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": "catch",
         "sentence": "The cat caught a small mouse behind the house.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       }
     ]
   },
@@ -3921,7 +3921,7 @@ export const courseLessons: CourseLesson[] = [
     "color": "#ef8a75",
     "title": "Writing - Think and Create",
     "sourceFile": "Prim 4 U 3 L 4&5.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg",
+    "image": "/course-images/grade4-learning-illustration.png",
     "cards": [
       {
         "id": "3-4&5-1",
@@ -3932,7 +3932,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The turtle is endangered because people harm its home.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-4&5-2",
@@ -3943,7 +3943,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The sea grass is disappearing near our beach.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-4&5-3",
@@ -3954,7 +3954,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Sea grass grows where water is clean.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-4&5-4",
@@ -3965,7 +3965,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The school learned about the Arabian Leopard yesterday.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-4&5-5",
@@ -3976,7 +3976,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We saw a picture of the Red Sea Dugong.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-4&5-6",
@@ -3987,7 +3987,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Many species live in the warm coral reef.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-4&5-7",
@@ -3998,7 +3998,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Polluted water destroys many fish habitats along coasts.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-4&5-8",
@@ -4009,7 +4009,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "A lost fishing net can trap a small turtle.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-4&5-9",
@@ -4020,7 +4020,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Children painted posters of happy sea animals today.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-4&5-10",
@@ -4031,7 +4031,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We must learn to avoid danger in the sea.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-4&5-11",
@@ -4042,7 +4042,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We want to protect the ocean forever and always.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-4&5-12",
@@ -4053,7 +4053,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Can you give one good reason for saving coral?",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-4&5-13",
@@ -4064,7 +4064,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Some coastal areas need cleaning by volunteers.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-4&5-14",
@@ -4075,7 +4075,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Maps show the Middle East and its many countries.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-4&5-15",
@@ -4086,7 +4086,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Oil and trash cause pollution in our bay.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-4&5-16",
@@ -4097,7 +4097,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "A local organization planted trees near the shore.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-4&5-17",
@@ -4108,7 +4108,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Write three fun facts about sea animals.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-4&5-18",
@@ -4119,7 +4119,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Students made a colorful collage of ocean animals.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "3-4&5-19",
@@ -4130,7 +4130,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Be gentle when you touch a small fish.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-3-animals_f39e0b34.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       }
     ]
   },
@@ -4143,7 +4143,7 @@ export const courseLessons: CourseLesson[] = [
     "color": "#9cb8e6",
     "title": "Exploring Egypt with Ali!",
     "sourceFile": "Prim 4 U 4 L 1.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg",
+    "image": "/course-images/grade4-learning-illustration.png",
     "cards": [
       {
         "id": "4-1-1",
@@ -4154,7 +4154,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We climbed near the Pyramids on the sand.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-1-2",
@@ -4165,7 +4165,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The Nile River flows past many green farms.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-1-3",
@@ -4176,7 +4176,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We saw the Cairo Tower from our hotel.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-1-4",
@@ -4187,7 +4187,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Our family visited the Siwa Oasis last weekend.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-1-5",
@@ -4198,7 +4198,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The Egyptian Museum has old mummies and statues.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-1-6",
@@ -4209,7 +4209,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We bought small souvenirs at Khan Al-Khalili Bazaar.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-1-7",
@@ -4220,7 +4220,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Our tour guide told us many stories.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-1-8",
@@ -4231,7 +4231,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The old chest held bright treasures for us.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-1-9",
@@ -4242,7 +4242,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "She gave small gifts to her new friends.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-1-10",
@@ -4253,7 +4253,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The children collected colorful stones by the river.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-1-11",
@@ -4264,7 +4264,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Egypt is my favorite country to study.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-1-12",
@@ -4275,7 +4275,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Many tourists took photos near the museum.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-1-13",
@@ -4286,7 +4286,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "A busy market smells of spices and bread.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-1-14",
@@ -4297,7 +4297,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We sat near the river and fed ducks.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-1-15",
@@ -4308,7 +4308,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This is my first time visiting the museum.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       }
     ]
   },
@@ -4321,7 +4321,7 @@ export const courseLessons: CourseLesson[] = [
     "color": "#9cb8e6",
     "title": "The Places We Go in Our City",
     "sourceFile": "Prim 4 U 4 L 2.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg",
+    "image": "/course-images/grade4-learning-illustration.png",
     "cards": [
       {
         "id": "4-2-1",
@@ -4332,7 +4332,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I read books at the library.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-2-2",
@@ -4343,7 +4343,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "My friends and I walk to school.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-2-3",
@@ -4354,7 +4354,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The ambulance took him to the hospital.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-2-4",
@@ -4365,7 +4365,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We sent packages from the post office.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-2-5",
@@ -4376,7 +4376,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The class visited the old museum today.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-2-6",
@@ -4387,7 +4387,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "My family goes to the shopping mall.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-2-7",
@@ -4398,7 +4398,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The mail carrier delivered three packages today.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-2-8",
@@ -4409,7 +4409,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We buy school supplies from small stores.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-2-9",
@@ -4420,7 +4420,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The students studied quietly in the classroom.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-2-10",
@@ -4431,7 +4431,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Our city has parks and tall buildings.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-2-11",
@@ -4442,7 +4442,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Doctors help sick people feel better.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-2-12",
@@ -4453,7 +4453,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Our teacher explains the new lesson clearly.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-2-13",
@@ -4464,7 +4464,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We ate pizza together at the restaurant.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-2-14",
@@ -4475,7 +4475,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "A nurse gave medicine to the patient.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-2-15",
@@ -4486,7 +4486,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I found three old letters in the drawer.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       }
     ]
   },
@@ -4499,7 +4499,7 @@ export const courseLessons: CourseLesson[] = [
     "color": "#9cb8e6",
     "title": "Writing - Think and Create",
     "sourceFile": "Prim 4 U 4 L 4&5.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg",
+    "image": "/course-images/grade4-learning-illustration.png",
     "cards": [
       {
         "id": "4-4&5-1",
@@ -4510,7 +4510,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We hiked up St. Catherine Mountain last week.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-4&5-2",
@@ -4521,7 +4521,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The children climbed the big rocks near the path.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-4&5-3",
@@ -4532,7 +4532,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We walked around the salt lake at noon.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-4&5-4",
@@ -4543,7 +4543,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The small monastery is beside the old trail.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-4&5-5",
@@ -4554,7 +4554,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Our school trip was a fun adventure in Sinai.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-4&5-6",
@@ -4565,7 +4565,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I like to draw pictures of nature and animals.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-4&5-7",
@@ -4576,7 +4576,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "My grandmother cooks with olive oil every day.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-4&5-8",
@@ -4587,7 +4587,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We packed warm clothes for the cold night.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-4&5-9",
@@ -4598,7 +4598,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Many families visit South Sinai during the holidays.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-4&5-10",
@@ -4609,7 +4609,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Please check the price before you buy souvenirs.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-4&5-11",
@@ -4620,7 +4620,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We tried tasty local food at the market.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-4&5-12",
@@ -4631,7 +4631,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "That popular path leads to a small waterfall.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-4&5-13",
@@ -4642,7 +4642,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The guide showed us a natural salt pool.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-4&5-14",
@@ -4653,7 +4653,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We saw a colorful market with bright fabrics.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-4&5-15",
@@ -4664,7 +4664,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The children shared sweet dates after the hike.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-4&5-16",
@@ -4675,7 +4675,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Tall palm trees lined the road to the village.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "4-4&5-17",
@@ -4686,7 +4686,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We explored during daytime when it was warm.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-4-egypt-places_f2e501cd.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       }
     ]
   },
@@ -4699,7 +4699,7 @@ export const courseLessons: CourseLesson[] = [
     "color": "#d9a7d0",
     "title": "Different Jobs",
     "sourceFile": "Prim 4 U 5 L 1.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg",
+    "image": "/course-images/grade4-learning-illustration.png",
     "cards": [
       {
         "id": "5-1-1",
@@ -4710,7 +4710,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The doctor helps people feel better at school.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-1-2",
@@ -4721,7 +4721,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The nurse bandages the child's hurt knee.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-1-3",
@@ -4732,7 +4732,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Our teacher reads a story to the class.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-1-4",
@@ -4743,7 +4743,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "An engineer designs strong bridges for our city.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-1-5",
@@ -4754,7 +4754,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "A firefighter wears a yellow coat and helmet.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-1-6",
@@ -4765,7 +4765,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The police officer helps children cross the street.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-1-7",
@@ -4776,7 +4776,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "He puts on a bright safety vest before work.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-1-8",
@@ -4787,7 +4787,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "She wears a colorful costume for the school play.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-1-9",
@@ -4798,7 +4798,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The helmet keeps the rider's head safe.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-1-10",
@@ -4809,7 +4809,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "He buttoned his warm coat on the cold day.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-1-11",
@@ -4820,7 +4820,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The hospital cares for many sick people every day.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-1-12",
@@ -4831,7 +4831,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The patients waited quietly for their turn.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-1-13",
@@ -4842,7 +4842,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "He wears a white cap while working outside.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-1-14",
@@ -4853,7 +4853,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Good food and rest help my health grow.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-1-15",
@@ -4864,7 +4864,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Students wear a neat uniform to the school.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       }
     ]
   },
@@ -4877,7 +4877,7 @@ export const courseLessons: CourseLesson[] = [
     "color": "#d9a7d0",
     "title": "Jobs I Love!",
     "sourceFile": "Prim 4 U 5 L 2.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg",
+    "image": "/course-images/grade4-learning-illustration.png",
     "cards": [
       {
         "id": "5-2-1",
@@ -4888,7 +4888,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "My mentor helps me with my school projects.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-2-2",
@@ -4899,7 +4899,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The voice-over actor practices funny lines in the studio.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-2-3",
@@ -4910,7 +4910,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "A wildlife photographer waits quietly to take photos.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-2-4",
@@ -4921,7 +4921,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The shy girl raised her hand slowly.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-2-5",
@@ -4932,7 +4932,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We made a puppet and gave it a name.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-2-6",
@@ -4943,7 +4943,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "He always laughs when the clown dances.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-2-7",
@@ -4954,7 +4954,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "My smart brother reads books every night.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-2-8",
@@ -4965,7 +4965,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The children watch cartoons after dinner together.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-2-9",
@@ -4976,7 +4976,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "She drew a funny character for the play.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-2-10",
@@ -4987,7 +4987,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "They dream of visiting a faraway island.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-2-11",
@@ -4998,7 +4998,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The loud drum woke me up early.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-2-12",
@@ -5009,7 +5009,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The brave boy helped his friend cross the street.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-2-13",
@@ -5020,7 +5020,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The kite flew high above the trees.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-2-14",
@@ -5031,7 +5031,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The low bell rang three times today.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-2-15",
@@ -5042,7 +5042,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I heard a kind voice from the doorway.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-2-16",
@@ -5053,7 +5053,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Please give me a big warm smile.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-2-17",
@@ -5064,7 +5064,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The school trip was very exciting for everyone.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-2-18",
@@ -5075,7 +5075,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The dog looks like a real friend.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       }
     ]
   },
@@ -5088,7 +5088,7 @@ export const courseLessons: CourseLesson[] = [
     "color": "#d9a7d0",
     "title": "Story Time - \"The Last House\"",
     "sourceFile": "Prim 4 U 5 L 3.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg",
+    "image": "/course-images/grade4-learning-illustration.png",
     "cards": [
       {
         "id": "5-3-1",
@@ -5099,7 +5099,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The carpenter fixed the last house roof today.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-3-2",
@@ -5110,7 +5110,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The new door did not fit the frame.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-3-3",
@@ -5121,7 +5121,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "She is a skilled helper in the workshop.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-3-4",
@@ -5132,7 +5132,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "His sudden shout gave everyone a big shock.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-3-5",
@@ -5143,7 +5143,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "They moved the furniture into the empty room.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-3-6",
@@ -5154,7 +5154,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "He placed a long board across the small gap.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-3-7",
@@ -5165,7 +5165,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The picture hung crooked on the old wall.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-3-8",
@@ -5176,7 +5176,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I will regret breaking my promise to you.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-3-9",
@@ -5187,7 +5187,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "She kept the wooden box on the shelf.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-3-10",
@@ -5198,7 +5198,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "He opened the paint can carelessly and spilled some.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-3-11",
@@ -5209,7 +5209,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The nail held the small shelf to the wall.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-3-12",
@@ -5220,7 +5220,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "It was not our usual quiet afternoon at home.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-3-13",
@@ -5231,7 +5231,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This is the final page of the story.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-3-14",
@@ -5242,7 +5242,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The neighbor made a kind request for help.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       }
     ]
   },
@@ -5255,7 +5255,7 @@ export const courseLessons: CourseLesson[] = [
     "color": "#d9a7d0",
     "title": "Writing - Think and Create",
     "sourceFile": "Prim 4 U 5 L 4&5.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg",
+    "image": "/course-images/grade4-learning-illustration.png",
     "cards": [
       {
         "id": "5-4&5-1",
@@ -5266,7 +5266,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The fire station is near our school.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-4&5-2",
@@ -5277,7 +5277,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Firefighters pull long water hoses during a fire.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-4&5-3",
@@ -5288,7 +5288,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The loud alarm woke everyone in the building.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-4&5-4",
@@ -5299,7 +5299,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The thick smoke made the room hard to see.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-4&5-5",
@@ -5310,7 +5310,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "They wear protective clothes when they fight fires.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-4&5-6",
@@ -5321,7 +5321,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "A firefighter climbed the ladder to save the cat.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-4&5-7",
@@ -5332,7 +5332,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The bright stripes make the jacket easy to see.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-4&5-8",
@@ -5343,7 +5343,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "They check each piece of equipment before the shift.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-4&5-9",
@@ -5354,7 +5354,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The heavy doors were hard to open quickly.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-4&5-10",
@@ -5365,7 +5365,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Brave teams save many lives during city fires.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-4&5-11",
@@ -5376,7 +5376,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The little boy called the firefighter a hero.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-4&5-12",
@@ -5387,7 +5387,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "A red truck raced to the burning building.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-4&5-13",
@@ -5398,7 +5398,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "He carried heavy tools to fix the broken pipe.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-4&5-14",
@@ -5409,7 +5409,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Our local team trains together every Saturday morning.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-4&5-15",
@@ -5420,7 +5420,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The tall ladder reached the third floor window.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-4&5-16",
@@ -5431,7 +5431,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "She folded bright paper to make origami birds.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-4&5-17",
@@ -5442,7 +5442,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The paramedic carried an oxygen tank for the patient.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "5-4&5-18",
@@ -5453,7 +5453,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We made fire-safe posters in art class today.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-5-jobs-home_8c5f535a.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       }
     ]
   },
@@ -5466,7 +5466,7 @@ export const courseLessons: CourseLesson[] = [
     "color": "#f0a24b",
     "title": "Story Time - The Hundred Dresses",
     "sourceFile": "Prim 4 U 6 Story.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-6-hundred-dresses_054b709c.jpg",
+    "image": "/course-images/grade4-learning-illustration.png",
     "cards": [
       {
         "id": "6-Story-1",
@@ -5477,7 +5477,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "She wore a blue dress to school today.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-6-hundred-dresses_054b709c.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "6-Story-2",
@@ -5488,7 +5488,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Her shoes are in the closet by the door.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-6-hundred-dresses_054b709c.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "6-Story-3",
@@ -5499,7 +5499,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We play games at the playground every day.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-6-hundred-dresses_054b709c.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "6-Story-4",
@@ -5510,7 +5510,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The drawing competition starts after lunch today.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-6-hundred-dresses_054b709c.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "6-Story-5",
@@ -5521,7 +5521,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The teacher will announce the winner after recess.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-6-hundred-dresses_054b709c.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "6-Story-6",
@@ -5532,7 +5532,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Her colorful drawings are on the classroom wall.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-6-hundred-dresses_054b709c.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "6-Story-7",
@@ -5543,7 +5543,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Please sign your name at the top.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-6-hundred-dresses_054b709c.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "6-Story-8",
@@ -5554,7 +5554,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "He wrote a kind letter to his friend.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-6-hundred-dresses_054b709c.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "6-Story-9",
@@ -5565,7 +5565,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The winner smiled and waved to the class.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-6-hundred-dresses_054b709c.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "6-Story-10",
@@ -5576,7 +5576,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "She received a shiny medal for her painting.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-6-hundred-dresses_054b709c.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "6-Story-11",
@@ -5587,7 +5587,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "They laugh together during the funny story.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-6-hundred-dresses_054b709c.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "6-Story-12",
@@ -5598,7 +5598,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Please be quiet while the teacher reads.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-6-hundred-dresses_054b709c.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "6-Story-13",
@@ -5609,7 +5609,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The red shirt looked faded after many washes.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-6-hundred-dresses_054b709c.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "6-Story-14",
@@ -5620,7 +5620,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The book became popular with all the students.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-6-hundred-dresses_054b709c.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "6-Story-15",
@@ -5631,7 +5631,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The buzzing fly was annoying to everyone.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-6-hundred-dresses_054b709c.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "6-Story-16",
@@ -5642,7 +5642,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Sara was absent from school last Tuesday.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-6-hundred-dresses_054b709c.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "6-Story-17",
@@ -5653,7 +5653,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I did not notice the blue mark.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-6-hundred-dresses_054b709c.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "6-Story-18",
@@ -5664,7 +5664,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "His behavior in class made the teacher smile.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-6-hundred-dresses_054b709c.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "6-Story-19",
@@ -5675,7 +5675,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The shiny doll looked expensive in the shop.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-6-hundred-dresses_054b709c.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "6-Story-20",
@@ -5686,7 +5686,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Our school has rules to stop bullying every day.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-6-hundred-dresses_054b709c.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "6-Story-21",
@@ -5697,7 +5697,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "He will apologize to her after school.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-6-hundred-dresses_054b709c.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "6-Story-22",
@@ -5708,7 +5708,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We enjoy the annual book fair at school.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-6-hundred-dresses_054b709c.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "6-Story-23",
@@ -5719,7 +5719,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The old painting was covered with dust.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-6-hundred-dresses_054b709c.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "6-Story-24",
@@ -5730,7 +5730,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "He felt terrible when he saw the mess.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-6-hundred-dresses_054b709c.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "6-Story-25",
@@ -5741,7 +5741,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The students learned about unkindness and kindness.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-6-hundred-dresses_054b709c.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       },
       {
         "id": "6-Story-26",
@@ -5752,7 +5752,7 @@ export const courseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "She had a happy experience at the school play.",
         "sentenceSource": "curriculum-guided",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/unit-6-hundred-dresses_054b709c.jpg"
+        "image": "/course-images/grade4-learning-illustration.png"
       }
     ]
   }

@@ -12,11 +12,11 @@ type Grade6Record = {
 };
 
 const unitMeta: Record<number, { color: string; fallbackImage: string }> = {
-  1: { color: "#4d9ac6", fallbackImage: "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade6-003-egyptian_40146aa5.png" },
-  2: { color: "#65a97d", fallbackImage: "https://vocflashcard-frqdsfoi.manus.space/manus-storage/openclipart-cactus-274970_3343cd8d.png" },
-  3: { color: "#d79762", fallbackImage: "https://vocflashcard-frqdsfoi.manus.space/manus-storage/pixabay-wind-turbine-7107364_5e04a487.jpg" },
-  4: { color: "#7d8fca", fallbackImage: "https://vocflashcard-frqdsfoi.manus.space/manus-storage/openclipart-camera-189527_79378393.png" },
-  5: { color: "#b981a9", fallbackImage: "https://vocflashcard-frqdsfoi.manus.space/manus-storage/openclipart-rural-landscape-268296_a984fbac.png" },
+  1: { color: "#4d9ac6", fallbackImage: "/course-images/grade6-learning-illustration.png" },
+  2: { color: "#65a97d", fallbackImage: "/course-images/grade6-learning-illustration.png" },
+  3: { color: "#d79762", fallbackImage: "/course-images/grade6-learning-illustration.png" },
+  4: { color: "#7d8fca", fallbackImage: "/course-images/grade6-learning-illustration.png" },
+  5: { color: "#b981a9", fallbackImage: "/course-images/grade6-learning-illustration.png" },
 };
 
 const records = rawGrade6Data.records as Grade6Record[];

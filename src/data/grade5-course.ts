@@ -14,7 +14,7 @@ export const grade5CourseLessons: CourseLesson[] = [
     "color": "#55a8d9",
     "title": "Life Along the Nile",
     "sourceFile": "Prim 5 U1 L1.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg",
+    "image": "/course-images/grade5-learning-illustration.png",
     "cards": [
       {
         "id": "g5-1-1-1",
@@ -25,7 +25,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The small fish eat water weeds.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-2",
@@ -36,7 +36,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Huge crocodiles are scary! Do any animals hunt them?",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-3",
@@ -47,7 +47,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The small fish in the Nile River are so colorful.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-4",
@@ -58,7 +58,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Birds eat small fish, insects, and even plants near the river.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-5",
@@ -69,7 +69,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Crocodiles are the kings of the Nile.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-6",
@@ -80,7 +80,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Crocodiles are very strong and scary.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-7",
@@ -91,7 +91,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The small fish in the Nile River are so colorful.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-8",
@@ -102,7 +102,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Crocodiles are very strong and scary.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-9",
@@ -113,7 +113,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Big fish eat smaller fish, insects and tiny creatures in the water.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-10",
@@ -124,7 +124,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "They eat fish, birds, and sometimes larger animals that come near the water.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-11",
@@ -135,7 +135,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about different (adj).",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-12",
@@ -146,7 +146,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Big fish eat smaller fish, insects and tiny creatures in the water.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-13",
@@ -157,7 +157,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Each animal plays an important role - that's why we must protect the river.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-14",
@@ -168,7 +168,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about humans.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-15",
@@ -179,7 +179,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Birds eat small fish, insects, and even plants near the river.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-16",
@@ -190,7 +190,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Birds eat small fish, insects, and even plants near the river.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-17",
@@ -201,7 +201,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about home to.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-18",
@@ -212,7 +212,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about play an important role.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-19",
@@ -223,7 +223,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Crocodiles are the kings of the Nile.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-20",
@@ -234,7 +234,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about along the Nile.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-21",
@@ -245,7 +245,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about What about ... ?.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-22",
@@ -256,7 +256,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "survived",
         "sentence": "It's amazing how all animals in the river find food to survive.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-23",
@@ -267,7 +267,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "survive",
         "sentence": "This lesson helps us learn about survived.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-24",
@@ -278,7 +278,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "affected",
         "sentence": "This lesson helps us learn about affect.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-25",
@@ -289,7 +289,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "affect",
         "sentence": "This lesson helps us learn about affected.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-26",
@@ -300,7 +300,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "protected",
         "sentence": "Each animal plays an important role - that's why we must protect the river.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-27",
@@ -311,7 +311,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "protect",
         "sentence": "This lesson helps us learn about protected.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-28",
@@ -322,7 +322,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "flowed",
         "sentence": "This lesson helps us learn about flow.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-29",
@@ -333,7 +333,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "flow",
         "sentence": "This lesson helps us learn about flowed.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-30",
@@ -344,7 +344,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "came",
         "sentence": "They eat fish, birds, and sometimes larger animals that come near the water.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-31",
@@ -355,7 +355,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "come",
         "sentence": "This lesson helps us learn about came.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-32",
@@ -366,7 +366,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "found",
         "sentence": "It's amazing how all animals in the river find food to survive.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-33",
@@ -377,7 +377,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "find",
         "sentence": "This lesson helps us learn about found.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-34",
@@ -388,7 +388,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "kept",
         "sentence": "This lesson helps us learn about keep.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-35",
@@ -399,7 +399,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "keep",
         "sentence": "This lesson helps us learn about kept.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-36",
@@ -410,7 +410,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "knew",
         "sentence": "Yes! Do you know that small fish eat plants in the water? These are called water weeds.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-1-37",
@@ -421,7 +421,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "know",
         "sentence": "This lesson helps us learn about knew.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       }
     ]
   },
@@ -434,7 +434,7 @@ export const grade5CourseLessons: CourseLesson[] = [
     "color": "#55a8d9",
     "title": "Food in the Hot Desert",
     "sourceFile": "Prim 5 U1 L2.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg",
+    "image": "/course-images/grade5-learning-illustration.png",
     "cards": [
       {
         "id": "g5-1-2-1",
@@ -445,7 +445,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Camels, snakes, and foxes live in the desert.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-2-2",
@@ -456,7 +456,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Camels, snakes, and foxes live in the desert.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-2-3",
@@ -467,7 +467,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Camels, snakes, and foxes live in the desert.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-2-4",
@@ -478,7 +478,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Snakes often eat small animals like rats or lizards.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-2-5",
@@ -489,7 +489,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Others, like owls, come out at night when it is cooler.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-2-6",
@@ -500,7 +500,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about hard (adj).",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-2-7",
@@ -511,7 +511,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The desert is hot and dry, but many animals live there.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-2-8",
@@ -522,7 +522,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about simple (adj).",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-2-9",
@@ -533,7 +533,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about turtle.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-2-10",
@@ -544,7 +544,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "They help nature stay in balance.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-2-11",
@@ -555,7 +555,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "They help nature stay in balance.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-2-12",
@@ -566,7 +566,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about hippo.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-2-13",
@@ -577,7 +577,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Lizards eat insects which give them energy.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-2-14",
@@ -588,7 +588,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Snakes often eat small animals like rats or lizards.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-2-15",
@@ -599,7 +599,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Others, like owls, come out at night when it is cooler.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-2-16",
@@ -610,7 +610,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Some animals hide under rocks to stay cool during the day.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-2-17",
@@ -621,7 +621,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "They help nature stay in balance.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-2-18",
@@ -632,7 +632,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Some animals hide under rocks to stay cool during the day.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-2-19",
@@ -643,7 +643,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "lived",
         "sentence": "Camels, snakes, and foxes live in the desert.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-2-20",
@@ -654,7 +654,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "live",
         "sentence": "This lesson helps us learn about lived.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-2-21",
@@ -665,7 +665,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "stored",
         "sentence": "This lesson helps us learn about store.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-2-22",
@@ -676,7 +676,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "store",
         "sentence": "This lesson helps us learn about stored.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-2-23",
@@ -687,7 +687,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "gave",
         "sentence": "Lizards eat insects which give them energy.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-2-24",
@@ -698,7 +698,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "give",
         "sentence": "This lesson helps us learn about gave.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-2-25",
@@ -709,7 +709,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "hid",
         "sentence": "Some animals hide under rocks to stay cool during the day.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-2-26",
@@ -720,7 +720,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "hide",
         "sentence": "Some animals hide under rocks to stay cool during the day.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       }
     ]
   },
@@ -733,7 +733,7 @@ export const grade5CourseLessons: CourseLesson[] = [
     "color": "#55a8d9",
     "title": "Story Time: The Giving Tree",
     "sourceFile": "Prim 5 U1 L3.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg",
+    "image": "/course-images/grade5-learning-illustration.png",
     "cards": [
       {
         "id": "g5-1-3-1",
@@ -744,7 +744,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "He rested in its shade and climbed its trunk with his friends.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-2",
@@ -755,7 +755,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Tom traveled away and when he came back, the tree branches were weak.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-3",
@@ -766,7 +766,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "He rested in its shade and climbed its trunk with his friends.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-4",
@@ -777,7 +777,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Tom realized that he had been selfish.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-5",
@@ -788,7 +788,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "He made crowns from its leaves and ate its delicious apples.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-6",
@@ -799,7 +799,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "He made crowns from its leaves and ate its delicious apples.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-7",
@@ -810,7 +810,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "But Tom never thought about the tree's feelings or needs.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-8",
@@ -821,7 +821,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Tom traveled away and when he came back, the tree branches were weak.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-9",
@@ -832,7 +832,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about sunlight.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-10",
@@ -843,7 +843,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about shadow.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-11",
@@ -854,7 +854,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Tom ate the tree's delicious apples.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-12",
@@ -865,7 +865,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "But Tom never thought about the tree's feelings or needs.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-13",
@@ -876,7 +876,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about shiny.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-14",
@@ -887,7 +887,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about gold.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-15",
@@ -898,7 +898,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Tom started to care for the tree, watering it, and protecting it from the sun.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-16",
@@ -909,7 +909,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about come back home.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-17",
@@ -920,7 +920,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about blocked by.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-18",
@@ -931,7 +931,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Once upon a time, there was a boy named Tom who loved a big, strong apple tree in his garden.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-19",
@@ -942,7 +942,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Tom learned that taking care of something meant giving back, and he and the tree became the best of friends.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-20",
@@ -953,7 +953,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Tom learned that taking care of something meant giving back, and he and the tree became the best of friends.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-21",
@@ -964,7 +964,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "rested",
         "sentence": "He rested in its shade and climbed its trunk with his friends.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-22",
@@ -975,7 +975,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "rest",
         "sentence": "He rested in its shade and climbed its trunk with his friends.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-23",
@@ -986,7 +986,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "appreciated",
         "sentence": "This lesson helps us learn about appreciate.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-24",
@@ -997,7 +997,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "appreciate",
         "sentence": "This lesson helps us learn about appreciated.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-25",
@@ -1008,7 +1008,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "realized",
         "sentence": "Tom realized that he had been selfish.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-26",
@@ -1019,7 +1019,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "realize",
         "sentence": "Tom realized that he had been selfish.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-27",
@@ -1030,7 +1030,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "watered",
         "sentence": "He rarely gave it food or water.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-28",
@@ -1041,7 +1041,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "water",
         "sentence": "This lesson helps us learn about watered.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-29",
@@ -1052,7 +1052,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "bent",
         "sentence": "This lesson helps us learn about bend.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-30",
@@ -1063,7 +1063,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "bend",
         "sentence": "Its leaves bent, and its branches were weak.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-31",
@@ -1074,7 +1074,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "began",
         "sentence": "This lesson helps us learn about begin.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-32",
@@ -1085,7 +1085,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "begin",
         "sentence": "The tree began to become better.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-33",
@@ -1096,7 +1096,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "meant",
         "sentence": "Tom learned that taking care of something meant giving back, and he and the tree became the best of friends.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-34",
@@ -1107,7 +1107,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "mean",
         "sentence": "Tom learned that taking care of something meant giving back, and he and the tree became the best of friends.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-35",
@@ -1118,7 +1118,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "became",
         "sentence": "The tree began to become better.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-3-36",
@@ -1129,7 +1129,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "become",
         "sentence": "Tom learned that taking care of something meant giving back, and he and the tree became the best of friends.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       }
     ]
   },
@@ -1142,7 +1142,7 @@ export const grade5CourseLessons: CourseLesson[] = [
     "color": "#55a8d9",
     "title": "Lessons 4 & 5: Writing - Think and Create",
     "sourceFile": "Prim 5 U1 L4&5.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg",
+    "image": "/course-images/grade5-learning-illustration.png",
     "cards": [
       {
         "id": "g5-1-4-1",
@@ -1153,7 +1153,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I like to put lentils and tomato sauce on it.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-2",
@@ -1164,7 +1164,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "For the red sauce, fry some chopped garlic in oil, add tomato sauce, vinegar, and some spices.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-3",
@@ -1175,7 +1175,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Koshari is a tasty Egyptian meal with many simple ingredients.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-4",
@@ -1186,7 +1186,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Then, add some chickpeas.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-5",
@@ -1197,7 +1197,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about recipe.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-6",
@@ -1208,7 +1208,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "For the red sauce, fry some chopped garlic in oil, add tomato sauce, vinegar, and some spices.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-7",
@@ -1219,7 +1219,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Koshari is a tasty Egyptian meal with many simple ingredients.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-8",
@@ -1230,7 +1230,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Koshari is a tasty Egyptian meal with many simple ingredients.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-9",
@@ -1241,7 +1241,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I like to put lentils and tomato sauce on it.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-10",
@@ -1252,7 +1252,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "For the red sauce, fry some chopped garlic in oil, add tomato sauce, vinegar, and some spices.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-11",
@@ -1263,7 +1263,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about grilled.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-12",
@@ -1274,7 +1274,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "You can add more sauces for more flavor and crispy onions on koshari.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-13",
@@ -1285,7 +1285,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "First, cut them into thin slices.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-14",
@@ -1296,7 +1296,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about cooked.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-15",
@@ -1307,7 +1307,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about sea food.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-16",
@@ -1318,7 +1318,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "One is a spicy tomato sauce, and the other is Dakka which is made with garlic and vinegar.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-17",
@@ -1329,7 +1329,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about crunchy / crispy.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-18",
@@ -1340,7 +1340,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about vegetable oil.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-19",
@@ -1351,7 +1351,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about dakka sauce.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-20",
@@ -1362,7 +1362,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about fried.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-21",
@@ -1373,7 +1373,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Koshari is a traditional Egyptian food.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-22",
@@ -1384,7 +1384,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about put on top.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-23",
@@ -1395,7 +1395,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Next, fry them in oil until they turn brown and crunchy.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-24",
@@ -1406,7 +1406,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This mix of foods makes koshari very yummy.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-25",
@@ -1417,7 +1417,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "First, you need to cook rice in a pot with water.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-26",
@@ -1428,7 +1428,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about cut ... into.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-27",
@@ -1439,7 +1439,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "fried",
         "sentence": "For the red sauce, fry some chopped garlic in oil, add tomato sauce, vinegar, and some spices.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-28",
@@ -1450,7 +1450,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "prepared",
         "sentence": "In another pot, prepare small pasta.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-29",
@@ -1461,7 +1461,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "prepare",
         "sentence": "This lesson helps us learn about prepared.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-30",
@@ -1472,7 +1472,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "added",
         "sentence": "You can add more sauces for more flavor and crispy onions on koshari.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-31",
@@ -1483,7 +1483,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "add",
         "sentence": "This lesson helps us learn about added.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-32",
@@ -1494,7 +1494,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "poured",
         "sentence": "Finally, pour the red sauce all over it, and put the crispy onions on top.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-33",
@@ -1505,7 +1505,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "pour",
         "sentence": "This lesson helps us learn about poured.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-34",
@@ -1516,7 +1516,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "boiled",
         "sentence": "Then, boil lentils in water.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-1-4-35",
@@ -1527,7 +1527,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "boil",
         "sentence": "This lesson helps us learn about boiled.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-011-a6710a0fb6_7ae8e007.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       }
     ]
   },
@@ -1540,7 +1540,7 @@ export const grade5CourseLessons: CourseLesson[] = [
     "color": "#70c6b5",
     "title": "Sports for Better Health",
     "sourceFile": "Prim 5 U2 L1.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg",
+    "image": "/course-images/grade5-learning-illustration.png",
     "cards": [
       {
         "id": "g5-2-1-1",
@@ -1551,7 +1551,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Football makes our heart strong, and helps our muscles grow.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-2",
@@ -1562,7 +1562,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Swimming makes our lungs strong.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-3",
@@ -1573,7 +1573,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Alright. Sports make us fit too, right?",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-4",
@@ -1584,7 +1584,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about stressed.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-5",
@@ -1595,7 +1595,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Football makes our heart strong, and helps our muscles grow.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-6",
@@ -1606,7 +1606,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Exactly! Exercise helps you lose weight and makes your bones stronger.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-7",
@@ -1617,7 +1617,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Sports help us stay healthy and make our bodies stronger.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-8",
@@ -1628,7 +1628,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Swimming makes our lungs strong.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-9",
@@ -1639,7 +1639,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about chest.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-10",
@@ -1650,7 +1650,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "What about our mental health? Can sports help us with that?",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-11",
@@ -1661,7 +1661,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "That's normal. Try eating some fruit before you exercise to give you more energy.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-12",
@@ -1672,7 +1672,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about organ.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-13",
@@ -1683,7 +1683,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Absolutely! Exercising regularly helps you sleep better and reduces stress.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-14",
@@ -1694,7 +1694,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Exercising regularly reduces stress.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-15",
@@ -1705,7 +1705,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Exercising regularly reduces stress.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-16",
@@ -1716,7 +1716,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Exercising regularly reduces stress.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-17",
@@ -1727,7 +1727,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about mind.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-18",
@@ -1738,7 +1738,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about go for a walk.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-19",
@@ -1749,7 +1749,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Swimming is very good, too! It makes your lungs strong. In fact, it helps your whole body.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-20",
@@ -1760,7 +1760,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Exercise helps us lose weight.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-21",
@@ -1771,7 +1771,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Good, but sometimes I get tired when I play sports.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-22",
@@ -1782,7 +1782,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Sports help us stay healthy and make our bodies stronger.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-23",
@@ -1793,7 +1793,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Sports help us stay healthy and make our bodies stronger.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-24",
@@ -1804,7 +1804,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "increased",
         "sentence": "Yes, it makes your heart strong and helps your muscles grow. It also increases energy.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-25",
@@ -1815,7 +1815,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "increase",
         "sentence": "This lesson helps us learn about increased.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-26",
@@ -1826,7 +1826,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "tried",
         "sentence": "That's normal. Try eating some fruit before you exercise to give you more energy.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-27",
@@ -1837,7 +1837,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "try",
         "sentence": "This lesson helps us learn about tried.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-28",
@@ -1848,7 +1848,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "reduced",
         "sentence": "Exercising regularly reduces stress.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-29",
@@ -1859,7 +1859,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "reduce",
         "sentence": "This lesson helps us learn about reduced.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-30",
@@ -1870,7 +1870,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "exercised",
         "sentence": "Exercise helps us lose weight.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-31",
@@ -1881,7 +1881,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "exercise",
         "sentence": "This lesson helps us learn about exercised.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-32",
@@ -1892,7 +1892,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "lost",
         "sentence": "Exercise helps us lose weight.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-33",
@@ -1903,7 +1903,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "lose",
         "sentence": "This lesson helps us learn about lost.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-34",
@@ -1914,7 +1914,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "slept",
         "sentence": "Absolutely! Exercising regularly helps you sleep better and reduces stress.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-1-35",
@@ -1925,7 +1925,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "sleep",
         "sentence": "This lesson helps us learn about slept.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       }
     ]
   },
@@ -1938,7 +1938,7 @@ export const grade5CourseLessons: CourseLesson[] = [
     "color": "#70c6b5",
     "title": "My Habits: Then and Now",
     "sourceFile": "Prim 5 U2 L2.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg",
+    "image": "/course-images/grade5-learning-illustration.png",
     "cards": [
       {
         "id": "g5-2-2-1",
@@ -1949,7 +1949,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about journey.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-2-2",
@@ -1960,7 +1960,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Healthy habits are important for our bodies and minds.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-2-3",
@@ -1971,7 +1971,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Fruits and vegetables give us important vitamins.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-2-4",
@@ -1982,7 +1982,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "These changes give me more energy and help me feel better.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-2-5",
@@ -1993,7 +1993,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Before, I loved chips, burgers, and sweets.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-2-6",
@@ -2004,7 +2004,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about healthier.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-2-7",
@@ -2015,7 +2015,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Adam drinks a lot of water instead of soda.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-2-8",
@@ -2026,7 +2026,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Fruits and vegetables give us important vitamins.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-2-9",
@@ -2037,7 +2037,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Fruits and vegetables give us important vitamins.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-2-10",
@@ -2048,7 +2048,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "My family's habits changed too - we grill or bake food instead of frying like we used to do in the past, and we eat dinner early, followed by a walk.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-2-11",
@@ -2059,7 +2059,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Before, I loved chips, burgers, and sweets.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-2-12",
@@ -2070,7 +2070,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Before, I loved chips, burgers, and sweets.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-2-13",
@@ -2081,7 +2081,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "My family's habits changed too - we grill or bake food instead of frying like we used to do in the past, and we eat dinner early, followed by a walk.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-2-14",
@@ -2092,7 +2092,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about the best way to.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-2-15",
@@ -2103,7 +2103,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "My family's habits changed too - we grill or bake food instead of frying like we used to do in the past, and we eat dinner early, followed by a walk.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-2-16",
@@ -2114,7 +2114,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I used to watch TV all day, but now I play football with friends every Saturday.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-2-17",
@@ -2125,7 +2125,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Adam drinks a lot of water instead of soda.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-2-18",
@@ -2136,7 +2136,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about then and now.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-2-19",
@@ -2147,7 +2147,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I used to watch TV all day, but now I play football with friends every Saturday.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-2-20",
@@ -2158,7 +2158,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "changed",
         "sentence": "Hello! I'm Adam, and I'd like to share how my habits have changed.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-2-21",
@@ -2169,7 +2169,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "change",
         "sentence": "Hello! I'm Adam, and I'd like to share how my habits have changed.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-2-22",
@@ -2180,7 +2180,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "baked",
         "sentence": "My family's habits changed too - we grill or bake food instead of frying like we used to do in the past, and we eat dinner early, followed by a walk.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-2-23",
@@ -2191,7 +2191,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "bake",
         "sentence": "This lesson helps us learn about baked.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-2-24",
@@ -2202,7 +2202,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "grilled",
         "sentence": "My family's habits changed too - we grill or bake food instead of frying like we used to do in the past, and we eat dinner early, followed by a walk.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-2-25",
@@ -2213,7 +2213,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "grill",
         "sentence": "This lesson helps us learn about grilled.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-2-26",
@@ -2224,7 +2224,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "replaced",
         "sentence": "This lesson helps us learn about replace.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-2-27",
@@ -2235,7 +2235,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "replace",
         "sentence": "This lesson helps us learn about replaced.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       }
     ]
   },
@@ -2248,7 +2248,7 @@ export const grade5CourseLessons: CourseLesson[] = [
     "color": "#70c6b5",
     "title": "Heart and Blood",
     "sourceFile": "Prim 5 U2 L3.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg",
+    "image": "/course-images/grade5-learning-illustration.png",
     "cards": [
       {
         "id": "g5-2-3-1",
@@ -2259,7 +2259,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The heart is one of the most important organs of our body.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-3-2",
@@ -2270,7 +2270,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Blood carries oxygen and nutrients to every cell.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-3-3",
@@ -2281,7 +2281,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Blood carries oxygen and nutrients to every cell.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-3-4",
@@ -2292,7 +2292,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The heart's job is to pump blood to all parts of the body.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-3-5",
@@ -2303,7 +2303,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The heart pumps blood through blood vessels.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-3-6",
@@ -2314,7 +2314,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Blood carries oxygen and nutrients to every cell.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-3-7",
@@ -2325,7 +2325,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "It is about the size of your fist.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-3-8",
@@ -2336,7 +2336,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "It may be small, but it is very powerful!",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-3-9",
@@ -2347,7 +2347,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The heart pumps blood through blood vessels, which are like small tubes.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-3-10",
@@ -2358,7 +2358,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The heart is a strong muscle that keeps us alive.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-3-11",
@@ -2369,7 +2369,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "It also takes away waste like carbon dioxide.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-3-12",
@@ -2380,7 +2380,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "If you follow these tips, your heart will stay strong.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-3-13",
@@ -2391,7 +2391,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "It is about the size of your fist.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-3-14",
@@ -2402,7 +2402,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about gas.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-3-15",
@@ -2413,7 +2413,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "It also takes away waste like carbon dioxide.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-3-16",
@@ -2424,7 +2424,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The heart's job is to pump blood to all parts of the body.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-3-17",
@@ -2435,7 +2435,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about get sick.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-3-18",
@@ -2446,7 +2446,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about take away.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-3-19",
@@ -2457,7 +2457,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about tightly closed.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-3-20",
@@ -2468,7 +2468,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about keep ... from.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-3-21",
@@ -2479,7 +2479,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "pump",
         "sentence": "This lesson helps us learn about pumped.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-3-22",
@@ -2490,7 +2490,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "followed",
         "sentence": "If you follow these tips, your heart will stay strong.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-3-23",
@@ -2501,7 +2501,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "follow",
         "sentence": "This lesson helps us learn about followed.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-3-24",
@@ -2512,7 +2512,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "hurt",
         "sentence": "Too much stress can hurt your heart, so it's important to keep it healthy.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-3-25",
@@ -2523,7 +2523,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "beat",
         "sentence": "This lesson helps us learn about beat.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       }
     ]
   },
@@ -2536,7 +2536,7 @@ export const grade5CourseLessons: CourseLesson[] = [
     "color": "#70c6b5",
     "title": "Lessons 4 & 5: Writing - Think and Create",
     "sourceFile": "Prim 5 U2 L4&5.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg",
+    "image": "/course-images/grade5-learning-illustration.png",
     "cards": [
       {
         "id": "g5-2-4-1",
@@ -2547,7 +2547,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Paramedics respond quickly in emergencies.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-2",
@@ -2558,7 +2558,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Doctors use their knowledge and skills to check patients, diagnose diseases, and provide treatments.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-3",
@@ -2569,7 +2569,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Doctors use their knowledge and skills to check patients, diagnose diseases, and provide treatments.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-4",
@@ -2580,7 +2580,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Healthcare workers are real-life heroes.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-5",
@@ -2591,7 +2591,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Paramedics give help on the spot and take patients safely to hospitals.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-6",
@@ -2602,7 +2602,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Pharmacists make sure patients receive the correct medicine.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-7",
@@ -2613,7 +2613,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Pharmacists make sure patients receive the correct medicine.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-8",
@@ -2624,7 +2624,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Doctors use their knowledge and skills to check patients, diagnose diseases, and provide treatments.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-9",
@@ -2635,7 +2635,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "They work day and night to keep people healthy and treat illnesses.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-10",
@@ -2646,7 +2646,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about neighbor.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-11",
@@ -2657,7 +2657,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Doctors use their knowledge and skills to check patients, diagnose diseases, and provide treatments.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-12",
@@ -2668,7 +2668,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Doctors use their knowledge to check patients.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-13",
@@ -2679,7 +2679,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Healthcare workers also help us live healthier lives as they encourage us to eat healthy meals, stay active, play sports, and stop harmful habits.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-14",
@@ -2690,7 +2690,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about toothpaste.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-15",
@@ -2701,7 +2701,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Doctors use their knowledge to check patients.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-16",
@@ -2712,7 +2712,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Healthcare workers are real-life heroes.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-17",
@@ -2723,7 +2723,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about stethoscope.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-18",
@@ -2734,7 +2734,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Nurses work around the clock to give care and support to patients.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-19",
@@ -2745,7 +2745,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about life saver.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-20",
@@ -2756,7 +2756,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "These heroes work long hours with kindness.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-21",
@@ -2767,7 +2767,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Healthcare workers are real-life heroes.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-22",
@@ -2778,7 +2778,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Healthcare workers are real-life heroes.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-23",
@@ -2789,7 +2789,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Paramedics give help on the spot and take patients safely to hospitals.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-24",
@@ -2800,7 +2800,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Healthcare workers work day and night to keep people healthy.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-25",
@@ -2811,7 +2811,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Nurses work around the clock to give care and support to patients.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-26",
@@ -2822,7 +2822,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Healthcare workers also help us live healthier lives as they encourage us to eat healthy meals, stay active, play sports, and stop harmful habits.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-27",
@@ -2833,7 +2833,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about show respect.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-28",
@@ -2844,7 +2844,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "They make sure patients receive the correct medicine and give advice on how to use it safely.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-29",
@@ -2855,7 +2855,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "provided",
         "sentence": "Doctors use their knowledge and skills to check patients, diagnose diseases, and provide treatments.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-30",
@@ -2866,7 +2866,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "provide",
         "sentence": "This lesson helps us learn about provided.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-31",
@@ -2877,7 +2877,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "received",
         "sentence": "Pharmacists make sure patients receive the correct medicine.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-32",
@@ -2888,7 +2888,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "receive",
         "sentence": "This lesson helps us learn about received.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-33",
@@ -2899,7 +2899,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "treated",
         "sentence": "They work day and night to keep people healthy and treat illnesses.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-34",
@@ -2910,7 +2910,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "treat",
         "sentence": "This lesson helps us learn about treated.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-35",
@@ -2921,7 +2921,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "responded",
         "sentence": "Paramedics respond quickly in emergencies.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-36",
@@ -2932,7 +2932,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "respond",
         "sentence": "This lesson helps us learn about responded.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-37",
@@ -2943,7 +2943,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "diagnose",
         "sentence": "This lesson helps us learn about diagnosed.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-38",
@@ -2954,7 +2954,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "encouraged",
         "sentence": "Healthcare workers also help us live healthier lives as they encourage us to eat healthy meals, stay active, play sports, and stop harmful habits.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-2-4-39",
@@ -2965,7 +2965,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "encourage",
         "sentence": "This lesson helps us learn about encouraged.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-056-3278c88d2e_5a9943a3.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       }
     ]
   },
@@ -2978,7 +2978,7 @@ export const grade5CourseLessons: CourseLesson[] = [
     "color": "#9cb8e6",
     "title": "Weather Wonders and Warnings!",
     "sourceFile": "Prim 5 U3 L1.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg",
+    "image": "/course-images/grade5-learning-illustration.png",
     "cards": [
       {
         "id": "g5-3-1-1",
@@ -2989,7 +2989,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about thunderstorm.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-2",
@@ -3000,7 +3000,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about sandstorm.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-3",
@@ -3011,7 +3011,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "There was a flood in Mazen's city.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-4",
@@ -3022,7 +3022,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "There's a drought in China for months.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-5",
@@ -3033,7 +3033,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "A wildfire is spreading in the forest in the U.S.A.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-6",
@@ -3044,7 +3044,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about heat wave.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-7",
@@ -3055,7 +3055,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Yes, my uncle's house was damaged. The water flooded his living room, and he had to stay with us for a few days.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-8",
@@ -3066,7 +3066,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about lightning.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-9",
@@ -3077,7 +3077,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about severe/extreme.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-10",
@@ -3088,7 +3088,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about warnings.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-11",
@@ -3099,7 +3099,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about wonders.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-12",
@@ -3110,7 +3110,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Oh no! Is it close to the mountains?",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-13",
@@ -3121,7 +3121,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Yes, and it spreads quickly because it's dry there, and the winds are so strong. Sadly, many trees burned down, and animals lost their homes.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-14",
@@ -3132,7 +3132,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "What a pity! Let's learn more about how we can stay safe and help our planet.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-15",
@@ -3143,7 +3143,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about temperature.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-16",
@@ -3154,7 +3154,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about dust.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-17",
@@ -3165,7 +3165,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "A wildfire is spreading in the forest in the U.S.A.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-18",
@@ -3176,7 +3176,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about weather changes.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-19",
@@ -3187,7 +3187,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about awful / terrible.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-20",
@@ -3198,7 +3198,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The water covered the streets, and many cars got stuck.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-21",
@@ -3209,7 +3209,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The land gets so dry that animals can't find water.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-22",
@@ -3220,7 +3220,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "What a pity! Let's learn more about how we can stay safe and help our planet.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-23",
@@ -3231,7 +3231,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Yes, Mazen! I saw it on the news. The water covered the streets, and many cars got stuck. It looked scary.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-24",
@@ -3242,7 +3242,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about get stuck.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-25",
@@ -3253,7 +3253,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Oh no! Is it close to the mountains?",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-26",
@@ -3264,7 +3264,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about burn down.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-27",
@@ -3275,7 +3275,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about prevent ... from.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-28",
@@ -3286,7 +3286,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "prevented",
         "sentence": "This lesson helps us learn about prevent.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-29",
@@ -3297,7 +3297,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "prevent",
         "sentence": "This lesson helps us learn about prevented.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-30",
@@ -3308,7 +3308,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "covered",
         "sentence": "The water covered the streets, and many cars got stuck.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-31",
@@ -3319,7 +3319,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "cover",
         "sentence": "The water covered the streets, and many cars got stuck.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-32",
@@ -3330,7 +3330,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "affected",
         "sentence": "This lesson helps us learn about affect.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-33",
@@ -3341,7 +3341,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "affect",
         "sentence": "This lesson helps us learn about affected.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-34",
@@ -3352,7 +3352,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "spread",
         "sentence": "A wildfire is spreading in the forest in the U.S.A.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-35",
@@ -3363,7 +3363,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "hit",
         "sentence": "This lesson helps us learn about hit.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-36",
@@ -3374,7 +3374,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "struck",
         "sentence": "This lesson helps us learn about strike.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-1-37",
@@ -3385,7 +3385,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "strike",
         "sentence": "This lesson helps us learn about struck.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       }
     ]
   },
@@ -3398,7 +3398,7 @@ export const grade5CourseLessons: CourseLesson[] = [
     "color": "#9cb8e6",
     "title": "Extreme Weather in Ancient Egypt",
     "sourceFile": "Prim 5 U3 L2.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg",
+    "image": "/course-images/grade5-learning-illustration.png",
     "cards": [
       {
         "id": "g5-3-2-1",
@@ -3409,7 +3409,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "They built their homes with thick mud bricks to protect themselves from the wind and sand.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-2-2",
@@ -3420,7 +3420,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The Ancient Egyptians built canals and basins to control the water.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-2-3",
@@ -3431,7 +3431,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The Nile River brought water and rich soil to the land.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-2-4",
@@ -3442,7 +3442,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "To solve this, the Ancient Egyptians made irrigation systems to bring water to their fields.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-2-5",
@@ -3453,7 +3453,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The Ancient Egyptians built canals and basins to control the water.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-2-6",
@@ -3464,7 +3464,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "They worked hard, used simple tools, and protected themselves from heat, sand, and floods.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-2-7",
@@ -3475,7 +3475,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "They built their homes with thick mud bricks to protect themselves from the wind and sand.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-2-8",
@@ -3486,7 +3486,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The Ancient Egyptians didn't have modern machines, but they found smart ways to survive.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-2-9",
@@ -3497,7 +3497,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The Ancient Egyptians found smart ways to survive.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-2-10",
@@ -3508,7 +3508,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The Nile's water became low, and the land became dry.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-2-11",
@@ -3519,7 +3519,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The Ancient Egyptians built canals and basins to control the water.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-2-12",
@@ -3530,7 +3530,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "They worked hard, used simple tools, and protected themselves from heat, sand, and floods.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-2-13",
@@ -3541,7 +3541,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Ancient Egypt had weather that made farming possible.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-2-14",
@@ -3552,7 +3552,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Ancient Egypt had weather that made farming possible.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-2-15",
@@ -3563,7 +3563,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The Ancient Egyptians didn't have modern machines, but they found smart ways to survive.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-2-16",
@@ -3574,7 +3574,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Sandstorms, called Khamsin, brought strong, hot winds with sand.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-2-17",
@@ -3585,7 +3585,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Ancient Egypt had weather that made farming possible, even in the desert.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-2-18",
@@ -3596,7 +3596,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about It was hard to + inf..",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-2-19",
@@ -3607,7 +3607,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "To stop this, the Ancient Egyptians built canals and basins to control the water and spread it over their fields.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-2-20",
@@ -3618,7 +3618,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Sandstorms, called Khamsin, brought strong, hot winds with sand.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-2-21",
@@ -3629,7 +3629,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "controlled",
         "sentence": "The Ancient Egyptians built canals and basins to control the water.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-2-22",
@@ -3640,7 +3640,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "control",
         "sentence": "This lesson helps us learn about controlled.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-2-23",
@@ -3651,7 +3651,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "survived",
         "sentence": "The Ancient Egyptians found smart ways to survive.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-2-24",
@@ -3662,7 +3662,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "survive",
         "sentence": "This lesson helps us learn about survived.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-2-25",
@@ -3673,7 +3673,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "damaged",
         "sentence": "But sometimes, the floods were too strong and damaged farms.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-2-26",
@@ -3684,7 +3684,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "damage",
         "sentence": "But sometimes, the floods were too strong and damaged farms.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-2-27",
@@ -3695,7 +3695,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "brought",
         "sentence": "To solve this, the Ancient Egyptians made irrigation systems to bring water to their fields.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-2-28",
@@ -3706,7 +3706,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "bring",
         "sentence": "The Nile River brought water and rich soil to the land.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-2-29",
@@ -3717,7 +3717,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "became",
         "sentence": "This lesson helps us learn about become.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-2-30",
@@ -3728,7 +3728,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "become",
         "sentence": "The Nile's water became low, and the land became dry.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-2-31",
@@ -3739,7 +3739,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "built",
         "sentence": "This lesson helps us learn about build.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-2-32",
@@ -3750,7 +3750,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "build",
         "sentence": "The Ancient Egyptians built canals and basins to control the water.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       }
     ]
   },
@@ -3763,7 +3763,7 @@ export const grade5CourseLessons: CourseLesson[] = [
     "color": "#9cb8e6",
     "title": "The Two Frogs",
     "sourceFile": "Prim 5 U3 L3.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg",
+    "image": "/course-images/grade5-learning-illustration.png",
     "cards": [
       {
         "id": "g5-3-3-1",
@@ -3774,7 +3774,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The two frogs lived together in a small pond.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-3-2",
@@ -3785,7 +3785,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "After a long time, they saw a deep well.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-3-3",
@@ -3796,7 +3796,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Every day, they had fun catching flies, swimming in the cool water, and resting under the warm sun.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-3-4",
@@ -3807,7 +3807,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Once upon a time, in a small and quiet village, there were two frogs who were best friends.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-3-5",
@@ -3818,7 +3818,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about movement.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-3-6",
@@ -3829,7 +3829,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about hole.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-3-7",
@@ -3840,7 +3840,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "After a long time, they saw a deep well.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-3-8",
@@ -3851,7 +3851,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about choice.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-3-9",
@@ -3862,7 +3862,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about danger.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-3-10",
@@ -3873,7 +3873,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "They decided to leave the pond and look for a new home where they could live safely.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-3-11",
@@ -3884,7 +3884,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "They kept leaping and searching for a safe home.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-3-12",
@@ -3895,7 +3895,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "They lived together in a small pond near the edge of the village.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-3-13",
@@ -3906,7 +3906,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Once upon a time, in a small and quiet village, there were two frogs who were best friends.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-3-14",
@@ -3917,7 +3917,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about [be] able to.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-3-15",
@@ -3928,7 +3928,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "One summer, the pond started to dry up.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-3-16",
@@ -3939,7 +3939,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "They knew they couldn't stay in the pond any longer because there wasn't enough water for them.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-3-17",
@@ -3950,7 +3950,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about think for a moment.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-3-18",
@@ -3961,7 +3961,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about at the bottom of.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-3-19",
@@ -3972,7 +3972,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "They lived together in a small pond near the edge of the village.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-3-20",
@@ -3983,7 +3983,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about make a decision.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-3-21",
@@ -3994,7 +3994,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "decided",
         "sentence": "The two frogs decided to leave the pond.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-3-22",
@@ -4005,7 +4005,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "decide",
         "sentence": "The two frogs decided to leave the pond.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-3-23",
@@ -4016,7 +4016,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "agreed",
         "sentence": "The first frog thought about what his friend said, then agreed.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-3-24",
@@ -4027,7 +4027,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "agree",
         "sentence": "The first frog thought about what his friend said, then agreed.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-3-25",
@@ -4038,7 +4038,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "searched",
         "sentence": "They kept leaping and searching for a safe home.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-3-26",
@@ -4049,7 +4049,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "search",
         "sentence": "This lesson helps us learn about searched.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-3-27",
@@ -4060,7 +4060,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "caught",
         "sentence": "Every day, they had fun catching flies, swimming in the cool water, and resting under the warm sun.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-3-28",
@@ -4071,7 +4071,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "catch",
         "sentence": "This lesson helps us learn about caught.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-3-29",
@@ -4082,7 +4082,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "swam",
         "sentence": "Every day, they had fun catching flies, swimming in the cool water, and resting under the warm sun.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-3-30",
@@ -4093,7 +4093,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "swim",
         "sentence": "This lesson helps us learn about swam.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-3-31",
@@ -4104,7 +4104,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "left",
         "sentence": "The two frogs decided to leave the pond.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-3-32",
@@ -4115,7 +4115,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "leave",
         "sentence": "This lesson helps us learn about left.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       }
     ]
   },
@@ -4128,7 +4128,7 @@ export const grade5CourseLessons: CourseLesson[] = [
     "color": "#9cb8e6",
     "title": "Lessons 4 & 5: Lily's flowers get sunshine!",
     "sourceFile": "Prim 5 U3 L4&5.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg",
+    "image": "/course-images/grade5-learning-illustration.png",
     "cards": [
       {
         "id": "g5-3-4-1",
@@ -4139,7 +4139,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Lily lived in a cozy little house.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-2",
@@ -4150,7 +4150,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Lily's grandma said that a gentle whisper could fix things.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-3",
@@ -4161,7 +4161,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Lily clapped her hands with joy.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-4",
@@ -4172,7 +4172,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Even big problems could be solved with a little bit of kindness.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-5",
@@ -4183,7 +4183,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Lily's grandma said that a gentle whisper could fix things.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-6",
@@ -4194,7 +4194,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Lily saw big, fluffy clouds floating upside down.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-7",
@@ -4205,7 +4205,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Lily saw big, fluffy clouds floating upside down.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-8",
@@ -4216,7 +4216,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about imagination.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-9",
@@ -4227,7 +4227,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about sunshine.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-10",
@@ -4238,7 +4238,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Slowly and magically, the clouds began to flip.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-11",
@@ -4249,7 +4249,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about weather conditions.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-12",
@@ -4260,7 +4260,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "One sunny morning, Lily looked out her window and saw something strange.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-13",
@@ -4271,7 +4271,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The sun shone brightly, and the flowers smiled.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-14",
@@ -4282,7 +4282,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about collage.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-15",
@@ -4293,7 +4293,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Lily saw big, fluffy clouds floating upside down.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-16",
@@ -4304,7 +4304,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "One by one, they turned over, showing their bright, sunny sides.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-17",
@@ -4315,7 +4315,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Even big problems could be solved with a little bit of kindness.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-18",
@@ -4326,7 +4326,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about think hard.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-19",
@@ -4337,7 +4337,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Lily saw big, fluffy clouds floating upside down.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-20",
@@ -4348,7 +4348,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Lily whispered to the clouds and asked them to turn right side up.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-21",
@@ -4359,7 +4359,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about turn over.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-22",
@@ -4370,7 +4370,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "flipped",
         "sentence": "Slowly and magically, the clouds began to flip.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-23",
@@ -4381,7 +4381,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "flip",
         "sentence": "This lesson helps us learn about flipped.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-24",
@@ -4392,7 +4392,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "floated",
         "sentence": "Lily saw big, fluffy clouds floating upside down.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-25",
@@ -4403,7 +4403,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "float",
         "sentence": "This lesson helps us learn about floated.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-26",
@@ -4414,7 +4414,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "clapped",
         "sentence": "Lily clapped her hands with joy.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-27",
@@ -4425,7 +4425,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "clap",
         "sentence": "Lily clapped her hands with joy.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-28",
@@ -4436,7 +4436,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "whisper",
         "sentence": "Lily whispered to the clouds and asked them to turn right side up.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-29",
@@ -4447,7 +4447,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "seemed",
         "sentence": "This lesson helps us learn about seem.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-30",
@@ -4458,7 +4458,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "seem",
         "sentence": "This lesson helps us learn about seemed.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-31",
@@ -4469,7 +4469,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "shone",
         "sentence": "This lesson helps us learn about shine.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-32",
@@ -4480,7 +4480,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "shine",
         "sentence": "The sun shone brightly, and the flowers smiled.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-33",
@@ -4491,7 +4491,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "thought",
         "sentence": "This lesson helps us learn about think.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-34",
@@ -4502,7 +4502,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "think",
         "sentence": "Lily thought hard.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-35",
@@ -4513,7 +4513,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "began",
         "sentence": "This lesson helps us learn about begin.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-3-4-36",
@@ -4524,7 +4524,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "begin",
         "sentence": "Slowly and magically, the clouds began to flip.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-023-a160d69d05_912ada51.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       }
     ]
   },
@@ -4537,7 +4537,7 @@ export const grade5CourseLessons: CourseLesson[] = [
     "color": "#ef8a75",
     "title": "Places in Our Community",
     "sourceFile": "Prim 5 U4 L1.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg",
+    "image": "/course-images/grade5-learning-illustration.png",
     "cards": [
       {
         "id": "g5-4-1-1",
@@ -4548,7 +4548,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We can eat dinner at a restaurant.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-1-2",
@@ -4559,7 +4559,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Adel likes going to the coffee shop for coffee and cake.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-1-3",
@@ -4570,7 +4570,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Tamer wants to get some fresh bread from the bakery.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-1-4",
@@ -4581,7 +4581,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Tamer enjoys picking out groceries from the supermarket with his family.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-1-5",
@@ -4592,7 +4592,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We can go on rides at a theme park.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-1-6",
@@ -4603,7 +4603,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Adel likes going to the club to play sports with his friends.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-1-7",
@@ -4614,7 +4614,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We can go on rides at a theme park.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-1-8",
@@ -4625,7 +4625,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Tamer enjoys picking out groceries from the supermarket with his family.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-1-9",
@@ -4636,7 +4636,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Tamer wants to get some fresh bread from the bakery.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-1-10",
@@ -4647,7 +4647,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about loaf / loaves.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-1-11",
@@ -4658,7 +4658,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Tamer and Adel talk about places in their neighborhood.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-1-12",
@@ -4669,7 +4669,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about waiter.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-1-13",
@@ -4680,7 +4680,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We can go on rides at a theme park.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-1-14",
@@ -4691,7 +4691,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about community.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-1-15",
@@ -4702,7 +4702,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "That's cool! Personally, I like going to the coffee shop for coffee and cake. It's so relaxing.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-1-16",
@@ -4713,7 +4713,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "That's cool! Personally, I like going to the coffee shop for coffee and cake. It's so relaxing.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-1-17",
@@ -4724,7 +4724,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I like going to the club to play sports, video games, and hang out with my friends. What about you?",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-1-18",
@@ -4735,7 +4735,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about pass by.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-1-19",
@@ -4746,7 +4746,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Listen, I want to get some fresh bread from the bakery near the park. Do you want to come with me?",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-1-20",
@@ -4757,7 +4757,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about pick out.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       }
     ]
   },
@@ -4770,7 +4770,7 @@ export const grade5CourseLessons: CourseLesson[] = [
     "color": "#ef8a75",
     "title": "Egyptian Villages",
     "sourceFile": "Prim 5 U4 L2.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg",
+    "image": "/course-images/grade5-learning-illustration.png",
     "cards": [
       {
         "id": "g5-4-2-1",
@@ -4781,7 +4781,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I live in a small village with green fields.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-2-2",
@@ -4792,7 +4792,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Farmers keep their animals in the barns.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-2-3",
@@ -4803,7 +4803,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I meet my friends and play games at the community center.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-2-4",
@@ -4814,7 +4814,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I live in a cozy cottage with my family.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-2-5",
@@ -4825,7 +4825,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I live in a small village with green fields.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-2-6",
@@ -4836,7 +4836,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The main square is the busiest place in my village.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-2-7",
@@ -4847,7 +4847,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I live in a small village with green fields, tall trees, and quiet hills.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-2-8",
@@ -4858,7 +4858,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about fresh air.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-2-9",
@@ -4869,7 +4869,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about busy.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-2-10",
@@ -4880,7 +4880,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about quiet / calm.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-2-11",
@@ -4891,7 +4891,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about peaceful.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-2-12",
@@ -4902,7 +4902,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I live in a cozy cottage with my family.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-2-13",
@@ -4913,7 +4913,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The main square is the busiest place in my village.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-2-14",
@@ -4924,7 +4924,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The people are friendly, and the village is full of life.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-2-15",
@@ -4935,7 +4935,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about surrounded by.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-2-16",
@@ -4946,7 +4946,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Farmers keep animals like cows, sheep, and chickens in the barns.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-2-17",
@@ -4957,7 +4957,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "shopped",
         "sentence": "The main square is the busiest place. On Saturdays, people meet there to shop at the market.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-2-18",
@@ -4968,7 +4968,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "shop",
         "sentence": "This lesson helps us learn about shopped.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-2-19",
@@ -4979,7 +4979,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "gathered",
         "sentence": "This lesson helps us learn about gather.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-2-20",
@@ -4990,7 +4990,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "gather",
         "sentence": "This lesson helps us learn about gathered.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-2-21",
@@ -5001,7 +5001,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "celebrated",
         "sentence": "This lesson helps us learn about celebrate.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-2-22",
@@ -5012,7 +5012,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "celebrate",
         "sentence": "This lesson helps us learn about celebrated.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-2-23",
@@ -5023,7 +5023,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "heard",
         "sentence": "Every morning, I hear birds singing and see farmers working in the fields.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-2-24",
@@ -5034,7 +5034,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "hear",
         "sentence": "This lesson helps us learn about heard.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-2-25",
@@ -5045,7 +5045,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "met",
         "sentence": "I meet my friends and play games at the community center.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-2-26",
@@ -5056,7 +5056,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "meet",
         "sentence": "This lesson helps us learn about met.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-2-27",
@@ -5067,7 +5067,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "fed",
         "sentence": "I visit my uncle's barn to help feed the animals.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-2-28",
@@ -5078,7 +5078,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "feed",
         "sentence": "This lesson helps us learn about fed.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       }
     ]
   },
@@ -5091,7 +5091,7 @@ export const grade5CourseLessons: CourseLesson[] = [
     "color": "#ef8a75",
     "title": "Lessons 4 & 5: Writing - Think and Create",
     "sourceFile": "Prim 5 U4 L4&5.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg",
+    "image": "/course-images/grade5-learning-illustration.png",
     "cards": [
       {
         "id": "g5-4-4-1",
@@ -5102,7 +5102,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The New Administrative Capital helps reduce crowding in Cairo.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-4-2",
@@ -5113,7 +5113,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The Iconic Tower is made of strong glass and steel.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-4-3",
@@ -5124,7 +5124,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The New Administrative Capital helps reduce crowding in Cairo.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-4-4",
@@ -5135,7 +5135,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "It has also government offices and important buildings.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-4-5",
@@ -5146,7 +5146,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The city is designed to be very smart.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-4-6",
@@ -5157,7 +5157,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The Iconic Tower is 385 meters high and has 80 floors.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-4-7",
@@ -5168,7 +5168,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Modern technology is used to manage roads, water, energy, and almost everything.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-4-8",
@@ -5179,7 +5179,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about platypus.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-4-9",
@@ -5190,7 +5190,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "It has also government offices and important buildings.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-4-10",
@@ -5201,7 +5201,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The Iconic Tower is made of strong glass and steel.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-4-11",
@@ -5212,7 +5212,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The city where I live has the tallest building in Africa, the Iconic Tower, and a new airport!",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-4-12",
@@ -5223,7 +5223,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The city has green areas everywhere.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-4-13",
@@ -5234,7 +5234,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Modern technology is used to manage roads, water, energy, and almost everything.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-4-14",
@@ -5245,7 +5245,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The Iconic Tower is made of strong glass and steel.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-4-15",
@@ -5256,7 +5256,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "From the top, I can see the whole city!",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-4-16",
@@ -5267,7 +5267,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "designed",
         "sentence": "The city is designed to be very smart.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-4-17",
@@ -5278,7 +5278,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "design",
         "sentence": "The city is designed to be very smart.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-4-18",
@@ -5289,7 +5289,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "managed",
         "sentence": "Modern technology is used to manage roads, water, energy, and almost everything.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-4-19",
@@ -5300,7 +5300,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "manage",
         "sentence": "This lesson helps us learn about managed.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-4-20",
@@ -5311,7 +5311,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "reduced",
         "sentence": "The New Administrative Capital helps reduce crowding in Cairo.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-4-21",
@@ -5322,7 +5322,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "reduce",
         "sentence": "This lesson helps us learn about reduced.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-4-22",
@@ -5333,7 +5333,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "built",
         "sentence": "Egypt builds new cities almost everywhere.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-4-23",
@@ -5344,7 +5344,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "build",
         "sentence": "This lesson helps us learn about built.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-4-24",
@@ -5355,7 +5355,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "found",
         "sentence": "People can find great jobs and have a peaceful life there.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-4-4-25",
@@ -5366,7 +5366,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "find",
         "sentence": "This lesson helps us learn about found.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-001-85bd03fde9_e02db51c.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       }
     ]
   },
@@ -5379,7 +5379,7 @@ export const grade5CourseLessons: CourseLesson[] = [
     "color": "#d9a7d0",
     "title": "The Gifts of Nature",
     "sourceFile": "Prim 5 U5 L1.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg",
+    "image": "/course-images/grade5-learning-illustration.png",
     "cards": [
       {
         "id": "g5-5-1-1",
@@ -5390,7 +5390,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about sunlight.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-2",
@@ -5401,7 +5401,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about fossil fuel.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-3",
@@ -5412,7 +5412,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The Nile River is the most important water resource in Egypt.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-4",
@@ -5423,7 +5423,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about soil.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-5",
@@ -5434,7 +5434,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Egypt's deserts contain gold, iron, and other minerals, as well.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-6",
@@ -5445,7 +5445,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about wind.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-7",
@@ -5456,7 +5456,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Oil and natural gas are used to make fuel and electricity.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-8",
@@ -5467,7 +5467,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Oil and natural gas are used to make fuel and electricity.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-9",
@@ -5478,7 +5478,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Excellent! The Nile is the most important water resource in Egypt. What other treasures does Egypt have?",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-10",
@@ -5489,7 +5489,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We grow cotton, wheat, and many kinds of fruit.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-11",
@@ -5500,7 +5500,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We grow cotton, wheat, and many kinds of fruit.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-12",
@@ -5511,7 +5511,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "They're used to make jewelry, make buildings, and help our country grow.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-13",
@@ -5522,7 +5522,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Egypt's deserts contain gold, iron, and other minerals, as well.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-14",
@@ -5533,7 +5533,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about copper.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-15",
@@ -5544,7 +5544,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The Nile River! It provides water for drinking and farming.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-16",
@@ -5555,7 +5555,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Oil and natural gas are used to make fuel and electricity.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-17",
@@ -5566,7 +5566,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about fabric.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-18",
@@ -5577,7 +5577,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Well done! The fertile land along the Nile and in the Delta region helps us grow food.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-19",
@@ -5588,7 +5588,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "They're used to make jewelry, make buildings, and help our country grow.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-20",
@@ -5599,7 +5599,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Well done! The fertile land along the Nile and in the Delta region helps us grow food.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-21",
@@ -5610,7 +5610,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Egypt's deserts contain gold, iron, and other minerals, as well.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-22",
@@ -5621,7 +5621,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about work for.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-23",
@@ -5632,7 +5632,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Well done! The fertile land along the Nile and in the Delta region helps us grow food.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-24",
@@ -5643,7 +5643,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about Well done! = Excellent.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-25",
@@ -5654,7 +5654,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "named",
         "sentence": "Very good! Natural resources help us in our daily lives. Can you name a natural resource we can find in Egypt?",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-26",
@@ -5665,7 +5665,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "name",
         "sentence": "This lesson helps us learn about named.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-27",
@@ -5676,7 +5676,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "powered",
         "sentence": "This lesson helps us learn about power.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-28",
@@ -5687,7 +5687,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "power",
         "sentence": "This lesson helps us learn about powered.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-29",
@@ -5698,7 +5698,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "provided",
         "sentence": "The Nile River! It provides water for drinking and farming.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-30",
@@ -5709,7 +5709,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "provide",
         "sentence": "This lesson helps us learn about provided.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-31",
@@ -5720,7 +5720,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "contained",
         "sentence": "Egypt's deserts contain gold, iron, and other minerals, as well.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-32",
@@ -5731,7 +5731,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "contain",
         "sentence": "This lesson helps us learn about contained.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-33",
@@ -5742,7 +5742,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "found",
         "sentence": "Natural resources are things we find in nature.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-34",
@@ -5753,7 +5753,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "find",
         "sentence": "This lesson helps us learn about found.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-35",
@@ -5764,7 +5764,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "grew",
         "sentence": "We grow cotton, wheat, and many kinds of fruit.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-36",
@@ -5775,7 +5775,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "grow",
         "sentence": "This lesson helps us learn about grew.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-37",
@@ -5786,7 +5786,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "gave",
         "sentence": "This lesson helps us learn about give.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-1-38",
@@ -5797,7 +5797,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "give",
         "sentence": "This lesson helps us learn about gave.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       }
     ]
   },
@@ -5810,7 +5810,7 @@ export const grade5CourseLessons: CourseLesson[] = [
     "color": "#d9a7d0",
     "title": "Metals and Minerals in Our World",
     "sourceFile": "Prim 5 U5 L2.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg",
+    "image": "/course-images/grade5-learning-illustration.png",
     "cards": [
       {
         "id": "g5-5-2-1",
@@ -5821,7 +5821,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Under the earth, we find precious mineral resources like gold, diamond, copper, and iron.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-2",
@@ -5832,7 +5832,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "People use it for coins and jewelry.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-3",
@@ -5843,7 +5843,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We must use minerals wisely because they are non-renewable.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-4",
@@ -5854,7 +5854,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Copper is great for making electrical wires.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-5",
@@ -5865,7 +5865,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Copper is a strong metal which we use for electrical wires, pipes, and tools.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-6",
@@ -5876,7 +5876,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Copper is a strong metal which we use for electrical wires, pipes, and tools.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-7",
@@ -5887,7 +5887,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "To get minerals, miners dig deep into the ground.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-8",
@@ -5898,7 +5898,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Minerals are precious materials that we find underground.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-9",
@@ -5909,7 +5909,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Diamond is a rare mineral-even more valuable than gold!",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-10",
@@ -5920,7 +5920,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about expensive.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-11",
@@ -5931,7 +5931,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about bright/shiny.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-12",
@@ -5942,7 +5942,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Diamond is a rare mineral-even more valuable than gold!",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-13",
@@ -5953,7 +5953,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Iron is super strong.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-14",
@@ -5964,7 +5964,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Gold is soft, shiny, perfect for jewelry.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-15",
@@ -5975,7 +5975,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Under the earth, we find precious mineral resources like gold, diamond, copper, and iron.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-16",
@@ -5986,7 +5986,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Copper is great for making electrical wires.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-17",
@@ -5997,7 +5997,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Iron is used to make cars, ships, airplanes and bridges.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-18",
@@ -6008,7 +6008,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I love gold rings!",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-19",
@@ -6019,7 +6019,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Iron is used to make cars, ships, airplanes and bridges.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-20",
@@ -6030,7 +6030,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about hidden treasures.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-21",
@@ -6041,7 +6041,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Minerals are precious materials that we find underground.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-22",
@@ -6052,7 +6052,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Iron is used to make cars, ships, airplanes and bridges.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-23",
@@ -6063,7 +6063,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "It's cheaper than gold.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-24",
@@ -6074,7 +6074,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Iron is used to make cars, ships, airplanes and bridges.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-25",
@@ -6085,7 +6085,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Egypt gets most of its copper and gold from the Eastern Desert.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-26",
@@ -6096,7 +6096,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "To get minerals, miners dig deep into the ground.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-27",
@@ -6107,7 +6107,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about use .... wisely.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-28",
@@ -6118,7 +6118,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Gold is soft, shiny, and easy to shape.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-29",
@@ -6129,7 +6129,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "But minerals are non-renewable - they take millions of years to form!",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-30",
@@ -6140,7 +6140,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "shaped",
         "sentence": "Gold is soft, shiny, and easy to shape.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-31",
@@ -6151,7 +6151,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "shape",
         "sentence": "This lesson helps us learn about shaped.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-32",
@@ -6162,7 +6162,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "formed",
         "sentence": "But minerals are non-renewable - they take millions of years to form!",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-33",
@@ -6173,7 +6173,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "form",
         "sentence": "This lesson helps us learn about formed.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-34",
@@ -6184,7 +6184,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "wasted",
         "sentence": "So we must use them wisely and never waste them.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-35",
@@ -6195,7 +6195,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "waste",
         "sentence": "This lesson helps us learn about wasted.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-36",
@@ -6206,7 +6206,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "dug",
         "sentence": "To get minerals, miners dig deep into the ground.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-37",
@@ -6217,7 +6217,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "dig",
         "sentence": "This lesson helps us learn about dug.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-38",
@@ -6228,7 +6228,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "cost",
         "sentence": "This lesson helps us learn about cost.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-39",
@@ -6239,7 +6239,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "got",
         "sentence": "Egypt gets most of its copper and gold from the Eastern Desert.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-2-40",
@@ -6250,7 +6250,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "get",
         "sentence": "This lesson helps us learn about got.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       }
     ]
   },
@@ -6263,7 +6263,7 @@ export const grade5CourseLessons: CourseLesson[] = [
     "color": "#d9a7d0",
     "title": "Story Time : 'Just Watch!' – a story by the Little Digger",
     "sourceFile": "Prim 5 U5 L3.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg",
+    "image": "/course-images/grade5-learning-illustration.png",
     "cards": [
       {
         "id": "g5-5-3-1",
@@ -6274,7 +6274,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about strength.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-2",
@@ -6285,7 +6285,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The little digger dug around the ship and cleared the mud.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-3",
@@ -6296,7 +6296,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "One morning, I watched the big ship come close to shore to load some cargo.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-4",
@@ -6307,7 +6307,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "One morning, the big ship got stuck in the thick, heavy mud.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-5",
@@ -6318,7 +6318,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The path was clear, and the big ship floated free!",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-6",
@@ -6329,7 +6329,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "One morning, I watched the big ship come close to shore to load some cargo.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-7",
@@ -6340,7 +6340,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "One morning, the big ship got stuck in the thick, heavy mud.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-8",
@@ -6351,7 +6351,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I was just a little digger on the shore - not big, not popular - but always ready to help.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-9",
@@ -6362,7 +6362,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "One morning, the big ship got stuck in the thick, heavy mud.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-10",
@@ -6373,7 +6373,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The ship was huge, and proud as it sailed across the ocean.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-11",
@@ -6384,7 +6384,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The big machines rushed to help, but none of them could pull it out.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-12",
@@ -6395,7 +6395,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I was just a little digger on the shore - not big, not popular - but always ready to help.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-13",
@@ -6406,7 +6406,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about deep.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-14",
@@ -6417,7 +6417,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The little digger dug around the ship and cleared the mud.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-15",
@@ -6428,7 +6428,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "The big ship was grateful and thanked the little digger.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-16",
@@ -6439,7 +6439,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Then I saw everyone starting to give up.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-17",
@@ -6450,7 +6450,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about doesn't matter.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-18",
@@ -6461,7 +6461,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about pull out.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-19",
@@ -6472,7 +6472,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I was just a little digger on the shore - not big, not popular - but always ready to help.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-20",
@@ -6483,7 +6483,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "But then, something went wrong.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-21",
@@ -6494,7 +6494,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about get stuck.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-22",
@@ -6505,7 +6505,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about take a long time.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-23",
@@ -6516,7 +6516,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "admired",
         "sentence": "Everyone admired the big ship.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-24",
@@ -6527,7 +6527,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "admire",
         "sentence": "Everyone admired the big ship.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-25",
@@ -6538,7 +6538,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "stared",
         "sentence": "The big machines stared at me and laughed.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-26",
@@ -6549,7 +6549,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "stare",
         "sentence": "The big machines stared at me and laughed.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-27",
@@ -6560,7 +6560,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "rushed",
         "sentence": "The big machines rushed to help, but none of them could pull it out.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-28",
@@ -6571,7 +6571,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "rush",
         "sentence": "The big machines rushed to help, but none of them could pull it out.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-29",
@@ -6582,7 +6582,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "bothered",
         "sentence": "But I didn't let that bother me.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-30",
@@ -6593,7 +6593,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "bother",
         "sentence": "This lesson helps us learn about bothered.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-31",
@@ -6604,7 +6604,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "floated",
         "sentence": "The path was clear, and the big ship floated free!",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-32",
@@ -6615,7 +6615,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "float",
         "sentence": "The path was clear, and the big ship floated free!",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-33",
@@ -6626,7 +6626,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "sailed",
         "sentence": "The ship was huge, and proud as it sailed across the ocean.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-3-34",
@@ -6637,7 +6637,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "sail",
         "sentence": "The ship was huge, and proud as it sailed across the ocean.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       }
     ]
   },
@@ -6650,7 +6650,7 @@ export const grade5CourseLessons: CourseLesson[] = [
     "color": "#d9a7d0",
     "title": "Lessons 4 & 5: Writing - I Am Water",
     "sourceFile": "Prim 5 U5 L4&5.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg",
+    "image": "/course-images/grade5-learning-illustration.png",
     "cards": [
       {
         "id": "g5-5-4-1",
@@ -6661,7 +6661,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "We see water in a glass, a river, a cloud, or a tear.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-4-2",
@@ -6672,7 +6672,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "But I never stop moving. I am always part of something greater - clouds, oceans, even sweat.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-4-3",
@@ -6683,7 +6683,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "People drink water, bathe in it and cry when they're hurt.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-4-4",
@@ -6694,7 +6694,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Water can be quiet and still, or wild and crashing.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-4-5",
@@ -6705,7 +6705,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "People drink me when they're thirsty, bathe in me when they're dirty and cry me when they're hurt.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-4-6",
@@ -6716,7 +6716,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "People drink me when they're thirsty, bathe in me when they're dirty and cry me when they're hurt.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-4-7",
@@ -6727,7 +6727,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Water can be quiet and still, or wild and crashing.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-4-8",
@@ -6738,7 +6738,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Water can shape the world.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-4-9",
@@ -6749,7 +6749,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I sleep in lakes and dance in the rain.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-4-10",
@@ -6760,7 +6760,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Water can be quiet and still, or wild and crashing.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-4-11",
@@ -6771,7 +6771,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "But I never stop moving. I am always part of something greater - clouds, oceans, even sweat.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-4-12",
@@ -6782,7 +6782,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "This lesson helps us learn about treasured.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-4-13",
@@ -6793,7 +6793,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Water can be quiet and still, or wild and crashing.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-4-14",
@@ -6804,7 +6804,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "I am water. I have no shape, but I can shape the world.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-4-15",
@@ -6815,7 +6815,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Plants need me, animals search for me, and without me-life would stop.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-4-16",
@@ -6826,7 +6826,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "But I never stop moving. I am always part of something greater - clouds, oceans, even sweat.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-4-17",
@@ -6837,7 +6837,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": null,
         "sentence": "Plants need me, animals search for me, and without me-life would stop.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-4-18",
@@ -6848,7 +6848,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "destroyed",
         "sentence": "Sometimes, water destroys, floods and freezes.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-4-19",
@@ -6859,7 +6859,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "destroy",
         "sentence": "This lesson helps us learn about destroyed.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-4-20",
@@ -6870,7 +6870,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "cried",
         "sentence": "People drink water, bathe in it and cry when they're hurt.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-4-21",
@@ -6881,7 +6881,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "cry",
         "sentence": "This lesson helps us learn about cried.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-4-22",
@@ -6892,7 +6892,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "danced",
         "sentence": "I sleep in lakes and dance in the rain.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-4-23",
@@ -6903,7 +6903,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "dance",
         "sentence": "This lesson helps us learn about danced.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-4-24",
@@ -6914,7 +6914,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "froze",
         "sentence": "Sometimes, water destroys, floods and freezes.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-4-25",
@@ -6925,7 +6925,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "freeze",
         "sentence": "This lesson helps us learn about froze.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-4-26",
@@ -6936,7 +6936,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "fell",
         "sentence": "Sometimes, I destroy. I flood. I freeze. I fall too hard.",
         "sentenceSource": "book-context",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       },
       {
         "id": "g5-5-4-27",
@@ -6947,7 +6947,7 @@ export const grade5CourseLessons: CourseLesson[] = [
         "pairedWith": "fall",
         "sentence": "This lesson helps us learn about fell.",
         "sentenceSource": "curriculum-fallback",
-        "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-009-382b145b28_4ca43883.jpeg"
+        "image": "/course-images/grade5-learning-illustration.png"
       }
     ]
   },
@@ -6960,7 +6960,7 @@ export const grade5CourseLessons: CourseLesson[] = [
     "color": "#f0a24b",
     "title": "The Beginning, Middle & End",
     "sourceFile": "Prim 5 U6 Story.html",
-    "image": "https://vocflashcard-frqdsfoi.manus.space/manus-storage/grade5-092-6f65ab636f_b52c22ad.jpeg",
+    "image": "/course-images/grade5-learning-illustration.png",
     "cards": []
   }
 ];

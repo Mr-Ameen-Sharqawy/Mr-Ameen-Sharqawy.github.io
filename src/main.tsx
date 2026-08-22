@@ -14,10 +14,10 @@ const courses: Record<Grade, CourseLesson[]> = {
   grade6: grade6CourseLessons,
 };
 
-const gradeMeta: Record<Grade, { title: string; english: string; accent: string; description: string }> = {
-  grade4: { title: "الصف الرابع", english: "Grade 4", accent: "gold", description: "بطاقات وصور واختبارات" },
-  grade5: { title: "الصف الخامس", english: "Grade 5", accent: "mint", description: "مفردات وقصص ورحلات" },
-  grade6: { title: "الصف السادس", english: "Grade 6", accent: "violet", description: "مفردات ومراجعة واختبارات" },
+const gradeMeta: Record<Grade, { title: string; english: string; accent: string; description: string; note: string }> = {
+  grade4: { title: "الصف الرابع", english: "Grade 4", accent: "gold", description: "20 درسًا · بطاقات وصور واختبارات", note: "رحلة مفردات هادئة ومنظمة لكل وحدة." },
+  grade5: { title: "الصف الخامس", english: "Grade 5", accent: "mint", description: "20 درسًا · 609 مفردة وعبارة", note: "بطاقات وصور كرتونية واختبارات لكل وحدة." },
+  grade6: { title: "الصف السادس", english: "Grade 6", accent: "violet", description: "20 درسًا · 609 مفردة وعبارة", note: "بطاقات وصور مراجَعة واختبارات لكل وحدة." },
 };
 
 function say(term: string) {
@@ -30,7 +30,7 @@ function say(term: string) {
 }
 
 function GradeHome({ onSelect }: { onSelect: (grade: Grade) => void }) {
-  return <main className="grade-home"><header className="public-header"><div className="brand"><BookOpen size={22} /><span>VOCABULARY JOURNEY</span></div><span className="public-chip">تعلم مباشر من دون تسجيل دخول</span></header><section className="intro"><div className="intro-icon"><Sparkles size={29} /></div><p>اختر رحلتك التعليمية</p><h1>أي صف ستتعلم اليوم؟</h1><span>استكشف المفردات والبطاقات التفاعلية في أي وقت.</span></section><section className="grade-grid">{(Object.keys(gradeMeta) as Grade[]).map((grade) => <article className={`grade-card ${gradeMeta[grade].accent}`} key={grade}><div className="grade-card-icon"><BookOpen size={26} /></div><p>{gradeMeta[grade].title}</p><h2>{gradeMeta[grade].english}</h2><span>{courses[grade].length} درسًا · {gradeMeta[grade].description}</span><button onClick={() => onSelect(grade)}>ابدأ {gradeMeta[grade].english}<ArrowLeft size={17} /></button></article>)}</section><p className="static-note">هذه نسخة عامة من المنصة للتعلم الذاتي؛ لا تحفظ بيانات الدخول أو التقدم على خادم.</p></main>;
+  return <main className="grade-home"><header className="public-header"><div className="brand"><span>VOCABULARY JOURNEY</span><strong>اختيار الصف</strong></div><span className="public-chip">بوابة الطلاب</span></header><section className="intro"><div className="intro-icon"><BookOpen size={29} /></div><p>اختر رحلتك التعليمية</p><h1>أي صف ستتعلم اليوم؟</h1><span>يُحفظ تقدمك المحلي منفصلًا لكل صف ووحدة.</span></section><section className="grade-grid">{(Object.keys(gradeMeta) as Grade[]).map((grade) => <article className={`grade-card ${gradeMeta[grade].accent}`} key={grade}><div className="grade-card-icon">{grade === "grade5" ? <BookOpen size={26} /> : <Sparkles size={26} />}</div><p>{grade === "grade4" ? "PRIMARY 4" : grade === "grade5" ? "PRIMARY 5" : "PRIMARY 6"}</p><h2>{gradeMeta[grade].english}</h2><span>{gradeMeta[grade].description}</span><small>{gradeMeta[grade].note}</small><button onClick={() => onSelect(grade)}>ابدأ {gradeMeta[grade].english}<ArrowLeft size={17} /></button></article>)}</section><p className="static-note">هذه نسخة عامة من المنصة للتعلم الذاتي؛ لا تحفظ بيانات الدخول أو التقدم على خادم.</p></main>;
 }
 
 function LessonExplorer({ grade, onBack }: { grade: Grade; onBack: () => void }) {
