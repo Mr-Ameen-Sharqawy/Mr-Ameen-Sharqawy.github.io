@@ -4,6 +4,7 @@ import { ArrowLeft, ArrowRight, BookOpen, ChevronRight, Headphones, Home, Rotate
 import { courseLessons, type CourseCard, type CourseLesson } from "./data/course";
 import { grade5CourseLessons } from "./data/grade5-course";
 import { grade6CourseLessons } from "./data/grade6-course";
+import { suppliedImagesByGrade } from "./data/supplied-course-images";
 import "./style.css";
 
 type Grade = "grade4" | "grade5" | "grade6";
@@ -29,6 +30,10 @@ function say(term: string) {
   window.speechSynthesis.speak(utterance);
 }
 
+function normalizeTerm(term: string) {
+  return term.toLowerCase().replace(/\([^)]*\)/g, "").replace(/[^a-z0-9]+/g, " ").trim();
+}
+
 function GradeHome({ onSelect }: { onSelect: (grade: Grade) => void }) {
   return <main className="grade-home"><header className="public-header"><div className="brand"><span>VOCABULARY JOURNEY</span><strong>اختيار الصف</strong></div><span className="public-chip">بوابة الطلاب</span></header><section className="intro"><div className="intro-icon"><BookOpen size={29} /></div><p>اختر رحلتك التعليمية</p><h1>أي صف ستتعلم اليوم؟</h1><span>يُحفظ تقدمك المحلي منفصلًا لكل صف ووحدة.</span></section><section className="grade-grid">{(Object.keys(gradeMeta) as Grade[]).map((grade) => <article className={`grade-card ${gradeMeta[grade].accent}`} key={grade}><div className="grade-card-icon">{grade === "grade5" ? <BookOpen size={26} /> : <Sparkles size={26} />}</div><p>{grade === "grade4" ? "PRIMARY 4" : grade === "grade5" ? "PRIMARY 5" : "PRIMARY 6"}</p><h2>{gradeMeta[grade].english}</h2><span>{gradeMeta[grade].description}</span><small>{gradeMeta[grade].note}</small><button onClick={() => onSelect(grade)}>ابدأ {gradeMeta[grade].english}<ArrowLeft size={17} /></button></article>)}</section><p className="static-note">هذه نسخة عامة من المنصة للتعلم الذاتي؛ لا تحفظ بيانات الدخول أو التقدم على خادم.</p></main>;
 }
@@ -40,7 +45,7 @@ function LessonExplorer({ grade, onBack }: { grade: Grade; onBack: () => void })
   const [meaningVisible, setMeaningVisible] = useState(false);
   const lesson = lessons[lessonIndex];
   const card: CourseCard = lesson.cards[cardIndex];
-  const lessonIllustration = `/course-images/lessons/${grade}-lesson${String(lessonIndex + 1).padStart(2, "0")}.jpg`;
+  const lessonIllustration = suppliedImagesByGrade[grade][normalizeTerm(card.sourceTerm || card.term)] ?? `/course-images/lessons/${grade}-lesson${String(lessonIndex + 1).padStart(2, "0")}.jpg`;
   const key = `vocflashcard-public-${grade}-${lesson.id}`;
   const [knownCards, setKnownCards] = useState<string[]>(() => JSON.parse(localStorage.getItem(key) ?? "[]"));
 
