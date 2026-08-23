@@ -7,6 +7,7 @@ import { grade6CourseUnits, grade6InteractiveLessons } from "./data/grade6-cours
 import { suppliedImagesByGrade } from "./data/supplied-course-images";
 import { newBatchImagesByGrade } from "./data/new-batch-supplied-course-images";
 import { googleDriveBatchImagesByGrade } from "./data/google-drive-batch-course-images";
+import { googleDriveAug23ImagesByGrade } from "./data/google-drive-aug23-course-images";
 import { semanticFallbackImagesByGrade } from "./data/semantic-fallback-course-images";
 import { speakNaturally } from "./lib/natural-speech";
 import { firebaseAuth, onAuthStateChanged, registerStudentDeviceAndLoadAccess, signInWithUsername, signOutStudent, StudentAccessError, type StudentAccess, usernameFromFirebaseEmail } from "./lib/firebase-auth";
@@ -129,7 +130,7 @@ function StudentCourse({ grade, onBack, studentUsername, onSignOut }: { grade: G
   }, 0);
   const cardImageKey = normalizeTerm(card.term);
   const sourceImageKey = normalizeTerm(card.sourceTerm || card.term);
-  const image = googleDriveBatchImagesByGrade[grade][cardImageKey] ?? googleDriveBatchImagesByGrade[grade][sourceImageKey] ?? newBatchImagesByGrade[grade][cardImageKey] ?? newBatchImagesByGrade[grade][sourceImageKey] ?? suppliedImagesByGrade[grade][cardImageKey] ?? suppliedImagesByGrade[grade][sourceImageKey] ?? semanticFallbackImagesByGrade[grade][cardImageKey] ?? semanticFallbackImagesByGrade[grade][sourceImageKey] ?? selectedLesson.image;
+  const image = googleDriveAug23ImagesByGrade[grade][cardImageKey] ?? googleDriveAug23ImagesByGrade[grade][sourceImageKey] ?? googleDriveBatchImagesByGrade[grade][cardImageKey] ?? googleDriveBatchImagesByGrade[grade][sourceImageKey] ?? newBatchImagesByGrade[grade][cardImageKey] ?? newBatchImagesByGrade[grade][sourceImageKey] ?? suppliedImagesByGrade[grade][cardImageKey] ?? suppliedImagesByGrade[grade][sourceImageKey] ?? semanticFallbackImagesByGrade[grade][cardImageKey] ?? semanticFallbackImagesByGrade[grade][sourceImageKey] ?? selectedLesson.image;
 
   const resetReveal = () => { setIsCardFlipped(false); setHasHeardWord(false); };
   const selectLesson = (lessonId: string) => { setSelectedLessonId(lessonId); setIsRailOpen(false); };
