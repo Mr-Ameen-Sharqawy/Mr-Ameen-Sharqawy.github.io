@@ -971,6 +971,7 @@ export const suppliedGrade6Images: Record<string, string> = {
   "fossils": "/course-images/vocabulary/grade6/0075-fossils.jpg",
   "full of": "/course-images/vocabulary/grade6/0076-full-of.jpg",
   "furniture": "/course-images/vocabulary/grade6/0077-furniture.jpg",
+  "make furniture": "/course-images/vocabulary/grade6/0077-furniture.jpg",
   "gate": "/course-images/vocabulary/grade6/0078-gate.jpg",
   "get dressed": "/course-images/vocabulary/grade6/0079-get-dressed.jpg",
   "good soil": "/course-images/vocabulary/grade6/0080-good-soil.jpg",

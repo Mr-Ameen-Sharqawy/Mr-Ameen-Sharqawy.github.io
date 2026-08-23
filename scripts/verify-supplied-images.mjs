@@ -26,7 +26,7 @@ function countMapEntries(source, prefix, grade) {
 
 assert.equal(countMapEntries(mapSource, 'supplied', 'Grade4'), 361);
 assert.equal(countMapEntries(mapSource, 'supplied', 'Grade5'), 524);
-assert.equal(countMapEntries(mapSource, 'supplied', 'Grade6'), 238);
+assert.equal(countMapEntries(mapSource, 'supplied', 'Grade6'), 239);
 assert.equal(countMapEntries(newBatchMapSource, 'newBatch', 'Grade4'), 10);
 assert.equal(countMapEntries(newBatchMapSource, 'newBatch', 'Grade5'), 0);
 assert.equal(countMapEntries(newBatchMapSource, 'newBatch', 'Grade6'), 96);
@@ -41,6 +41,7 @@ assert.equal(countMapEntries(semanticFallbackMapSource, 'semanticFallback', 'Gra
 assert.equal(newBatchManifest.items.length, 106);
 assert.equal(semanticFallbackManifest.items.length, 11);
 assert.equal(manifest.items.length, 1242);
+assert.match(mapSource, /"make furniture": "\/course-images\/vocabulary\/grade6\/0077-furniture\.jpg"/);
 assert.match(grade6CartoonMapSource, /"make furniture": "\/course-images\/vocabulary\/grade6\/0077-furniture\.jpg"/);
 assert.match(grade6CartoonMapSource, /"furniture": "\/course-images\/vocabulary\/grade6\/0077-furniture\.jpg"/);
 assert.match(appSource, /const cardImageKey = normalizeTerm\(card\.term\)/);
