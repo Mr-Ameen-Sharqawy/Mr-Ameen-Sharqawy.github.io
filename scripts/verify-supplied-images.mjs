@@ -39,8 +39,12 @@ assert.match(appSource, /googleDriveBatchImagesByGrade\[grade\]\[cardImageKey\] 
 assert.match(appSource, /function StudentLogin\(\)/);
 assert.match(appSource, /الحسابات ينشئها المعلم فقط/);
 assert.match(appSource, /onAuthStateChanged\(firebaseAuth/);
+assert.match(appSource, /allowedGrades\.includes\(grade\)/);
+assert.match(appSource, /وصل هذا الحساب إلى الحد الأقصى للأجهزة/);
 assert.match(firebaseAuthSource, /signInWithEmailAndPassword/);
 assert.match(firebaseAuthSource, /STUDENT_EMAIL_DOMAIN/);
+assert.match(firebaseAuthSource, /registerStudentDeviceAndLoadAccess/);
+assert.match(firebaseAuthSource, /runTransaction/);
 assert.match(appSource, /grade5InteractiveLessons/);
 assert.match(appSource, /sf-course-nav/);
 assert.match(appSource, /sf-flip-stage/);
