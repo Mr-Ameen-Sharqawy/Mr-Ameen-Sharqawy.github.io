@@ -1,0 +1,753 @@
+{
+  "schemaVersion": 1,
+  "generatedFrom": "new-batch-approved-mappings.json",
+  "mappedTermsByGrade": {
+    "grade4": 10,
+    "grade6": 96
+  },
+  "uniqueImages": 101,
+  "items": [
+    {
+      "grade": "grade4",
+      "term": "character",
+      "assetPath": "course-images/vocabulary/grade4/new-001-character.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Cartoon_character_eating_apple_202608222023.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade4",
+      "term": "daily",
+      "assetPath": "course-images/vocabulary/grade4/new-002-daily.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Kid_doing_daily_routine_202608222119.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade4",
+      "term": "face",
+      "assetPath": "course-images/vocabulary/grade4/new-003-face.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Cartoon_tablet_with_smiling_face_202608222119.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade4",
+      "term": "fix",
+      "assetPath": "course-images/vocabulary/grade4/new-004-fix.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Tools_helping_robot_fix_toy_202608222119.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade4",
+      "term": "leaves",
+      "assetPath": "course-images/vocabulary/grade4/new-005-leaves.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Person_sweeping_leaves_on_sidewalk_202608222032.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade4",
+      "term": "pollution",
+      "assetPath": "course-images/vocabulary/grade4/new-006-pollution.jpg",
+      "sourceRelativePath": "extracted/download9/Pollution_from_factory_and_trash_202608222111.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade4",
+      "term": "real",
+      "assetPath": "course-images/vocabulary/grade4/new-007-real.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Finger_pointing_at_real_apple_202608222030.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade4",
+      "term": "sea animals",
+      "assetPath": "course-images/vocabulary/grade4/new-008-sea-animals.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Cartoon_sea_animals_smiling_202608222006.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade4",
+      "term": "street",
+      "assetPath": "course-images/vocabulary/grade4/new-009-street.jpg",
+      "sourceRelativePath": "standalone/City_street_with_traffic_congestion_202608220319.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade4",
+      "term": "traffic",
+      "assetPath": "course-images/vocabulary/grade4/new-009-street.jpg",
+      "sourceRelativePath": "standalone/City_street_with_traffic_congestion_202608220319.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "a bundle of sticks",
+      "assetPath": "course-images/vocabulary/grade6/new-001-a-bundle-of-sticks.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Bundle_of_sticks_tied_202608222201.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "alabaster",
+      "assetPath": "course-images/vocabulary/grade6/new-002-alabaster.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Alabaster_vase_illustration_202608222201.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "amulet",
+      "assetPath": "course-images/vocabulary/grade6/new-003-amulet.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Magical_golden_amulet_glowing_202608222039.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "award",
+      "assetPath": "course-images/vocabulary/grade6/new-004-award.jpg",
+      "sourceRelativePath": "extracted/download9/Golden_award_trophy_with_star_202608222111.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "bin",
+      "assetPath": "course-images/vocabulary/grade6/new-005-bin.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Green_recycling_bin_in_classroom_202608222035.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "biography",
+      "assetPath": "course-images/vocabulary/grade6/new-006-biography.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Books_showing_biography_story_202608222035.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "bricks",
+      "assetPath": "course-images/vocabulary/grade6/new-007-bricks.jpg",
+      "sourceRelativePath": "extracted/download9/Stack_of_red_bricks_202608222111.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "brochure",
+      "assetPath": "course-images/vocabulary/grade6/new-008-brochure.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Brochure_showing_animals_and_parks_202608222155.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "bundle",
+      "assetPath": "course-images/vocabulary/grade6/new-009-bundle.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Colorful_bundle_wrapped_simply_202608222201.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "cable car",
+      "assetPath": "course-images/vocabulary/grade6/new-010-cable-car.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Cable_car_moving_over_mountain_202608222157.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "cactus",
+      "assetPath": "course-images/vocabulary/grade6/new-011-cactus.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Green_cactus_in_sandy_desert_202608222035.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "cancer",
+      "assetPath": "course-images/vocabulary/grade6/new-012-cancer.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Yellow_ribbon_for_cancer_awareness_202608222035.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "clay",
+      "assetPath": "course-images/vocabulary/grade6/new-013-clay.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Colorful_clay_pots_on_shelf_202608222039.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "colored stones",
+      "assetPath": "course-images/vocabulary/grade6/new-014-colored-stones.jpg",
+      "sourceRelativePath": "extracted/download9/Pile_of_colored_stones_202608222111.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "covered in",
+      "assetPath": "course-images/vocabulary/grade6/new-015-covered-in.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Character_covered_in_autumn_leaves_202608222035.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "device",
+      "assetPath": "course-images/vocabulary/grade6/new-016-device.jpg",
+      "sourceRelativePath": "extracted/download9/Tablet_representing_device_202608222111.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "Egyptian",
+      "assetPath": "course-images/vocabulary/grade6/new-017-egyptian.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Ancient_Egyptian_temple_illustra…_202608222040.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "exhibition",
+      "assetPath": "course-images/vocabulary/grade6/new-018-exhibition.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Museum_dinosaur_exhibition_illus…_202608222156.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "factories",
+      "assetPath": "course-images/vocabulary/grade6/new-019-factories.jpg",
+      "sourceRelativePath": "extracted/download9/Factories_and_trash_pollute_river_202608222111.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "fisherman",
+      "assetPath": "course-images/vocabulary/grade6/new-020-fisherman.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Cartoon_fisherman_sitting_by_lake_202608222202.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "flax",
+      "assetPath": "course-images/vocabulary/grade6/new-021-flax.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Flax_plants_swaying_in_breeze_202608222039.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "fly",
+      "assetPath": "course-images/vocabulary/grade6/new-022-fly.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Fly_buzzing_near_flower_202608222155.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "fossil museum",
+      "assetPath": "course-images/vocabulary/grade6/new-023-fossil-museum.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Cartoon_fossil_museum_building_i…_202608222030.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "garbage",
+      "assetPath": "course-images/vocabulary/grade6/new-024-garbage.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Child_carrying_garbage_bag_202608222035.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "garbage bags",
+      "assetPath": "course-images/vocabulary/grade6/new-025-garbage-bags.jpg",
+      "sourceRelativePath": "extracted/download9/Garbage_bags_tied_up_202608222111.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "gas",
+      "assetPath": "course-images/vocabulary/grade6/new-026-gas.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Cartoon_gas_pump_filling_car_202608222119.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "gently",
+      "assetPath": "course-images/vocabulary/grade6/new-027-gently.jpg",
+      "sourceRelativePath": "extracted/download9/Hand_stroking_cat_gently_202608222111.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "gift shop",
+      "assetPath": "course-images/vocabulary/grade6/new-028-gift-shop.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Gift_shop_inside_museum_202608222157.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "gold",
+      "assetPath": "course-images/vocabulary/grade6/new-029-gold.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Wooden_chest_with_gold_coins_202608222118.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "gold particles",
+      "assetPath": "course-images/vocabulary/grade6/new-030-gold-particles.jpg",
+      "sourceRelativePath": "extracted/download9/Gold_particles_sparkling_on_surface_202608222111.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "golden",
+      "assetPath": "course-images/vocabulary/grade6/new-031-golden.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Egyptian_structure_with_golden_e…_202608222205.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "government",
+      "assetPath": "course-images/vocabulary/grade6/new-032-government.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/People_meeting_at_government_bui…_202608222202.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "grain",
+      "assetPath": "course-images/vocabulary/grade6/new-033-grain.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Bird_eating_golden_grain_202608222040.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "granite",
+      "assetPath": "course-images/vocabulary/grade6/new-034-granite.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Cartoon_granite_block_illustration_202608222040.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "handle",
+      "assetPath": "course-images/vocabulary/grade6/new-035-handle.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Hand_turning_door_handle_202608222205.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "hat",
+      "assetPath": "course-images/vocabulary/grade6/new-036-hat.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Sun_hat_on_wooden_bench_202608222026.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "hero",
+      "assetPath": "course-images/vocabulary/grade6/new-037-hero.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Cartoon_hero_wearing_cape_202608222202.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "hotel room",
+      "assetPath": "course-images/vocabulary/grade6/new-038-hotel-room.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Cozy_cartoon_hotel_room_interior_202608222157.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "information desk",
+      "assetPath": "course-images/vocabulary/grade6/new-039-information-desk.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Person_at_information_desk_202608222156.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "iron",
+      "assetPath": "course-images/vocabulary/grade6/new-040-iron.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Cartoon_steam_iron_pressing_shirt_202608222118.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "Lake Nasser",
+      "assetPath": "course-images/vocabulary/grade6/new-041-lake-nasser.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Lake_Nasser_with_High_Dam_202608222156.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "light",
+      "assetPath": "course-images/vocabulary/grade6/new-042-light.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Cars_waiting_at_traffic_light_202608222035.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "linen",
+      "assetPath": "course-images/vocabulary/grade6/new-043-linen.jpg",
+      "sourceRelativePath": "extracted/download9/Folded_white_linen_cloth_202608222110.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "liquid",
+      "assetPath": "course-images/vocabulary/grade6/new-044-liquid.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Cartoon_flower_damaged_by_liquid_202608222119.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "lotus flower",
+      "assetPath": "course-images/vocabulary/grade6/new-045-lotus-flower.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Blue_lotus_flower_cup_shaped_202608222205.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "mask",
+      "assetPath": "course-images/vocabulary/grade6/new-046-mask.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Cartoon_mask_smiling_202608222157.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "medal",
+      "assetPath": "course-images/vocabulary/grade6/new-047-medal.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Gold_medal_with_blue_ribbon_202608222039.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "Mediterranean Sea",
+      "assetPath": "course-images/vocabulary/grade6/new-048-mediterranean-sea.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Cartoon_map_of_Mediterranean_Sea_202608222202.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "mountain",
+      "assetPath": "course-images/vocabulary/grade6/new-010-cable-car.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Cable_car_moving_over_mountain_202608222157.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "mummies",
+      "assetPath": "course-images/vocabulary/grade6/new-049-mummies.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Cartoon_mummies_waving_happily_202608222157.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "mummy",
+      "assetPath": "course-images/vocabulary/grade6/new-050-mummy.jpg",
+      "sourceRelativePath": "extracted/download9/Friendly_mummy_wrapped_in_bandages_202608222110.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "nanoparticles",
+      "assetPath": "course-images/vocabulary/grade6/new-051-nanoparticles.jpg",
+      "sourceRelativePath": "extracted/download9/Cartoon_depicting_nanoparticles_…_202608222111.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "national",
+      "assetPath": "course-images/vocabulary/grade6/new-052-national.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Children_waving_national_flag_202608222040.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "newspaper",
+      "assetPath": "course-images/vocabulary/grade6/new-053-newspaper.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Newspaper_sitting_on_wooden_table_202608222156.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "notebook",
+      "assetPath": "course-images/vocabulary/grade6/new-054-notebook.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Spiral_notebook_with_pencil_202608222156.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "objects",
+      "assetPath": "course-images/vocabulary/grade6/new-055-objects.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Cartoon_metal_objects_smiling_202608222119.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "oil",
+      "assetPath": "course-images/vocabulary/grade6/new-056-oil.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Oil_drop_sitting_on_surface_202608222119.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "ornament",
+      "assetPath": "course-images/vocabulary/grade6/new-057-ornament.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Christmas_tree_ornament_shaped_ball_202608222039.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "palm trees",
+      "assetPath": "course-images/vocabulary/grade6/new-058-palm-trees.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Palm_trees_on_sunny_beach_202608222030.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "papyrus",
+      "assetPath": "course-images/vocabulary/grade6/new-059-papyrus.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Papyrus_plants_growing_by_river_202608222040.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "papyrus scroll",
+      "assetPath": "course-images/vocabulary/grade6/new-060-papyrus-scroll.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Papyrus_scroll_with_ancient_symbols_202608222039.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "passport",
+      "assetPath": "course-images/vocabulary/grade6/new-061-passport.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Passport_with_airplane_icon_202608222155.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "petals",
+      "assetPath": "course-images/vocabulary/grade6/new-062-petals.jpg",
+      "sourceRelativePath": "extracted/download9/Flower_petals_falling_202608222111.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "plateau",
+      "assetPath": "course-images/vocabulary/grade6/new-063-plateau.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Goat_standing_on_plateau_landscape_202608222201.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "pollute",
+      "assetPath": "course-images/vocabulary/grade6/new-019-factories.jpg",
+      "sourceRelativePath": "extracted/download9/Factories_and_trash_pollute_river_202608222111.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "posters",
+      "assetPath": "course-images/vocabulary/grade6/new-064-posters.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Child_hanging_educational_posters_202608222035.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "pots",
+      "assetPath": "course-images/vocabulary/grade6/new-065-pots.jpg",
+      "sourceRelativePath": "extracted/download9/Clay_pots_in_garden_202608222111.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "principal",
+      "assetPath": "course-images/vocabulary/grade6/new-066-principal.jpg",
+      "sourceRelativePath": "extracted/download9/Adult_standing_by_principal_office_202608222110.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "pyramid",
+      "assetPath": "course-images/vocabulary/grade6/new-067-pyramid.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Golden_pyramid_under_smiling_sun_202608222039.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "rough",
+      "assetPath": "course-images/vocabulary/grade6/new-068-rough.jpg",
+      "sourceRelativePath": "extracted/download9/Sandpaper_demonstrating_rough_te…_202608222111.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "school supplies",
+      "assetPath": "course-images/vocabulary/grade6/new-069-school-supplies.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Backpack_with_school_supplies_202608222156.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "science",
+      "assetPath": "course-images/vocabulary/grade6/new-070-science.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Science_tools_on_table_202608222024.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "sculptures",
+      "assetPath": "course-images/vocabulary/grade6/new-071-sculptures.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Cartoon_sculptures_displayed_in_…_202608222039.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "seasons",
+      "assetPath": "course-images/vocabulary/grade6/new-072-seasons.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Tree_showing_four_seasons_202608222035.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "shiny",
+      "assetPath": "course-images/vocabulary/grade6/new-073-shiny.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Cartoon_jewelry_with_shiny_gems_202608222040.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "soft",
+      "assetPath": "course-images/vocabulary/grade6/new-074-soft.jpg",
+      "sourceRelativePath": "extracted/download9/Child_touching_soft_white_cloud_202608222110.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "Solar Boat",
+      "assetPath": "course-images/vocabulary/grade6/new-075-solar-boat.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Solar_boat_sailing_on_river_202608222157.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "solar panels",
+      "assetPath": "course-images/vocabulary/grade6/new-076-solar-panels.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Sun_touching_solar_panels_202608222205.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "statues",
+      "assetPath": "course-images/vocabulary/grade6/new-077-statues.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Cartoon_Egyptian_statues_on_pede…_202608222157.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "steel",
+      "assetPath": "course-images/vocabulary/grade6/new-078-steel.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Cartoon_steel_beams_forming_stru…_202608222119.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "sticks",
+      "assetPath": "course-images/vocabulary/grade6/new-001-a-bundle-of-sticks.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Bundle_of_sticks_tied_202608222201.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "suitcases",
+      "assetPath": "course-images/vocabulary/grade6/new-079-suitcases.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Colorful_suitcases_with_travel_s…_202608222156.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "The High Dam",
+      "assetPath": "course-images/vocabulary/grade6/new-080-the-high-dam.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Aswan_High_Dam_illustration_202608222119.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "ticket",
+      "assetPath": "course-images/vocabulary/grade6/new-081-ticket.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Cartoon_museum_ticket_with_pyramid_202608222157.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "tiny",
+      "assetPath": "course-images/vocabulary/grade6/new-082-tiny.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Tiny_house_on_green_hill_202608222032.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "together",
+      "assetPath": "course-images/vocabulary/grade6/new-083-together.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Vibrant_colors_mixing_together_202608222005.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "tourists",
+      "assetPath": "course-images/vocabulary/grade6/new-084-tourists.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Family_of_tourists_smiling_202608222157.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "traffic",
+      "assetPath": "course-images/vocabulary/grade6/new-042-light.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Cars_waiting_at_traffic_light_202608222035.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "transportation links",
+      "assetPath": "course-images/vocabulary/grade6/new-085-transportation-links.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Transportation_links_at_central_…_202608222202.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "travel plan",
+      "assetPath": "course-images/vocabulary/grade6/new-086-travel-plan.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Calendar_showing_travel_plan_202608222156.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "walls",
+      "assetPath": "course-images/vocabulary/grade6/new-087-walls.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Colorful_murals_on_walls_202608222156.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "waste water",
+      "assetPath": "course-images/vocabulary/grade6/new-088-waste-water.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Faucet_overflowing_waste_water_202608222035.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "waterfall",
+      "assetPath": "course-images/vocabulary/grade6/new-089-waterfall.jpg",
+      "sourceRelativePath": "extracted/download9/Blue_waterfall_cascading_down_rocks_202608222110.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "wet",
+      "assetPath": "course-images/vocabulary/grade6/new-090-wet.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Warning_sign_on_wet_floor_202608222026.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "wind turbines",
+      "assetPath": "course-images/vocabulary/grade6/new-091-wind-turbines.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Wind_turbines_spinning_in_field_202608222119.jpeg",
+      "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade6",
+      "term": "wood",
+      "assetPath": "course-images/vocabulary/grade6/new-092-wood.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Person_bending_wood_bundle_202608222202.jpeg",
+      "reviewConfidence": "high"
+    }
+  ]
+}

@@ -5,6 +5,7 @@ import { buildWordOptions, courseLessons, courseUnits, sentenceWithBlank, type C
 import { grade5CourseUnits, grade5InteractiveLessons } from "./data/grade5-course";
 import { grade6CourseUnits, grade6InteractiveLessons } from "./data/grade6-course";
 import { suppliedImagesByGrade } from "./data/supplied-course-images";
+import { newBatchImagesByGrade } from "./data/new-batch-supplied-course-images";
 import "./style.css";
 
 type Grade = "grade4" | "grade5" | "grade6";
@@ -76,7 +77,7 @@ function StudentCourse({ grade, onBack }: { grade: Grade; onBack: () => void }) 
     const lesson = lessons.find((item) => item.id === lessonId);
     return sum + Object.entries(value).filter(([cardId, answer]) => lesson?.cards.some((item) => item.id === cardId && item.term === answer)).length;
   }, 0);
-  const image = suppliedImagesByGrade[grade][normalizeTerm(card.sourceTerm || card.term)] ?? selectedLesson.image;
+  const image = newBatchImagesByGrade[grade][normalizeTerm(card.sourceTerm || card.term)] ?? suppliedImagesByGrade[grade][normalizeTerm(card.sourceTerm || card.term)] ?? selectedLesson.image;
 
   const resetReveal = () => { setIsCardFlipped(false); setHasHeardWord(false); };
   const selectLesson = (lessonId: string) => { setSelectedLessonId(lessonId); setIsRailOpen(false); };
