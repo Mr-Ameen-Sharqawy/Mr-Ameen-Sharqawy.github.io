@@ -1,0 +1,19 @@
+.public-user-actions{display:flex;align-items:center;gap:8px}
+.public-logout,.sf-signout{border:1px solid rgba(207,95,88,.28);border-radius:999px;padding:8px 12px;color:#a74641;background:#fff7f5;font:800 11px/1 "Noto Kufi Arabic",sans-serif}
+.sf-user-name{max-width:120px;overflow:hidden;color:#426581;font:800 11px/1 "Noto Kufi Arabic",sans-serif;text-overflow:ellipsis;white-space:nowrap}
+.auth-page{display:grid;min-height:100vh;place-items:center;padding:24px;background:radial-gradient(circle at 8% 8%,#ffe8a8 0 120px,transparent 122px),radial-gradient(circle at 92% 88%,#d7f2e8 0 170px,transparent 172px),linear-gradient(135deg,#f7f7f2 0%,#edf7fb 55%,#fff9ed 100%)}
+.auth-card{width:min(100%,430px);padding:36px;border:1px solid rgba(45,107,170,.16);border-radius:28px;background:rgba(255,255,252,.94);box-shadow:0 24px 48px rgba(31,54,84,.14);text-align:center}
+.auth-icon{display:grid;place-items:center;width:58px;height:58px;margin:0 auto 16px;border-radius:19px 9px 19px 9px;color:var(--ink-deep);background:linear-gradient(135deg,#ffe18a,#ffc857)}
+.auth-kicker{margin:0;color:#b77b1d;font:900 10px/1 "Nunito Sans",sans-serif;letter-spacing:.16em}
+.auth-card h1{margin:10px 0 8px;color:var(--ink-deep);font-size:30px}
+.auth-copy,.auth-note{color:var(--muted);font-size:12px;line-height:2}
+.auth-form{display:grid;gap:14px;margin-top:23px;text-align:right}
+.auth-form label{display:grid;gap:7px;color:#426581;font-size:11px;font-weight:800}
+.auth-form input{width:100%;padding:12px 13px;border:1px solid #cbd9e5;border-radius:11px;color:var(--ink-deep);background:#fff;font:600 15px/1.4 "Nunito Sans",sans-serif;outline:0}
+.auth-form input:focus{border-color:var(--blue);box-shadow:0 0 0 3px rgba(57,120,198,.13)}
+.auth-form button{min-height:45px;border:0;border-radius:12px;color:#fff;background:linear-gradient(135deg,#3978c6,#245b9b);box-shadow:0 10px 18px rgba(36,91,155,.2);font-weight:800}
+.auth-form button:disabled{opacity:.62;cursor:wait}
+.auth-error{margin:0;color:#a74641;background:#fff0ed;border-radius:9px;padding:9px;font-size:11px;line-height:1.7}
+.auth-note{margin:19px 0 0}
+.auth-loading{padding:15px 19px;border-radius:14px;color:var(--ink);background:#fffefa;box-shadow:0 14px 28px rgba(31,54,84,.12);font-weight:800}
+@media(max-width:650px){.public-user-actions{gap:5px}.public-chip{display:inline-block}.public-logout{padding:7px 10px}.sf-user-name,.sf-signout{display:none}.auth-card{padding:29px 22px}}
