@@ -75,7 +75,9 @@ function StudentCourse({ grade, onBack }: { grade: Grade; onBack: () => void }) 
     const lesson = lessons.find((item) => item.id === lessonId);
     return sum + Object.entries(value).filter(([cardId, answer]) => lesson?.cards.some((item) => item.id === cardId && item.term === answer)).length;
   }, 0);
-  const image = googleDriveBatchImagesByGrade[grade][normalizeTerm(card.sourceTerm || card.term)] ?? newBatchImagesByGrade[grade][normalizeTerm(card.sourceTerm || card.term)] ?? suppliedImagesByGrade[grade][normalizeTerm(card.sourceTerm || card.term)] ?? semanticFallbackImagesByGrade[grade][normalizeTerm(card.sourceTerm || card.term)] ?? selectedLesson.image;
+  const cardImageKey = normalizeTerm(card.term);
+  const sourceImageKey = normalizeTerm(card.sourceTerm || card.term);
+  const image = googleDriveBatchImagesByGrade[grade][cardImageKey] ?? googleDriveBatchImagesByGrade[grade][sourceImageKey] ?? newBatchImagesByGrade[grade][cardImageKey] ?? newBatchImagesByGrade[grade][sourceImageKey] ?? suppliedImagesByGrade[grade][cardImageKey] ?? suppliedImagesByGrade[grade][sourceImageKey] ?? semanticFallbackImagesByGrade[grade][cardImageKey] ?? semanticFallbackImagesByGrade[grade][sourceImageKey] ?? selectedLesson.image;
 
   const resetReveal = () => { setIsCardFlipped(false); setHasHeardWord(false); };
   const selectLesson = (lessonId: string) => { setSelectedLessonId(lessonId); setIsRailOpen(false); };

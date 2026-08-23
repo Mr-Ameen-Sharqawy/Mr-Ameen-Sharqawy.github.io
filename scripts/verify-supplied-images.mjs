@@ -33,7 +33,8 @@ assert.equal(countMapEntries(semanticFallbackMapSource, 'semanticFallback', 'Gra
 assert.equal(newBatchManifest.items.length, 106);
 assert.equal(semanticFallbackManifest.items.length, 11);
 assert.equal(manifest.items.length, 1242);
-assert.match(appSource, /googleDriveBatchImagesByGrade\[grade\]\[normalizeTerm\(card\.sourceTerm \|\| card\.term\)\] \?\? newBatchImagesByGrade\[grade\].*semanticFallbackImagesByGrade/);
+assert.match(appSource, /const cardImageKey = normalizeTerm\(card\.term\)/);
+assert.match(appSource, /googleDriveBatchImagesByGrade\[grade\]\[cardImageKey\] \?\? googleDriveBatchImagesByGrade\[grade\]\[sourceImageKey\]/);
 assert.match(appSource, /grade5InteractiveLessons/);
 assert.match(appSource, /sf-course-nav/);
 assert.match(appSource, /sf-flip-stage/);
