@@ -38,17 +38,22 @@
   const analytics = getAnalytics(app);
 </script>
 
-<!-- نموذج دخول الطلاب -->
-<div id="student-login-box" style="text-align: center; max-width: 300px; margin: 20px auto;">
-  <h3>تسجيل دخول الطالب</h3>
-  <input type="text" id="student-code" placeholder="كود الطالب (مثال: student101)" style="width: 100%; padding: 8px; margin-bottom: 10px;">
-  <input type="password" id="student-pass" placeholder="كلمة السر" style="width: 100%; padding: 8px; margin-bottom: 10px;">
-  <button onclick="loginStudent()" style="width: 100%; padding: 10px; cursor: pointer;">دخول</button>
-</div>
+<!-- نموذج دخول الطلاب (ثابت ومضمون الظهور) -->
+<div id="auth-wrapper" style="text-align: center; max-width: 320px; margin: 30px auto; padding: 20px; background: #f9f9f9; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+  
+  <div id="student-login-box">
+    <h3 style="margin-bottom: 15px; color: #333;">تسجيل دخول الطالب</h3>
+    <input type="text" id="student-code" placeholder="كود الطالب (مثال: student101)" style="width: 100%; padding: 10px; margin-bottom: 10px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 4px;">
+    <input type="password" id="student-pass" placeholder="كلمة السر" style="width: 100%; padding: 10px; margin-bottom: 15px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 4px;">
+    <button onclick="loginStudent()" style="width: 100%; padding: 10px; background: #007bff; color: white; border: none; border-radius: 4px; cursor: pointer; font-weight: bold;">دخول</button>
+  </div>
 
-<div id="welcome-box" style="display:none; text-align: center;">
-  <h3>أهلاً بك يا بطل!</h3>
-  <button onclick="logout()">تسجيل الخروج</button>
+  <div id="welcome-box" style="display: none;">
+    <h3 style="color: #28a745; margin-bottom: 10px;">أهلاً بك يا بطل!</h3>
+    <p id="user-display-email" style="color: #666; font-size: 14px; margin-bottom: 15px;"></p>
+    <button onclick="logout()" style="width: 100%; padding: 10px; background: #dc3545; color: white; border: none; border-radius: 4px; cursor: pointer; font-weight: bold;">تسجيل الخروج</button>
+  </div>
+
 </div>
 
 <script type="module">
@@ -67,7 +72,7 @@
   const app = initializeApp(firebaseConfig);
   const auth = getAuth(app);
 
-  // دالة دخول الطالب باستخدام الكود والباسورد
+  // دالة تسجيل الدخول
   window.loginStudent = function() {
     const code = document.getElementById("student-code").value.trim();
     const pass = document.getElementById("student-pass").value;
@@ -77,7 +82,6 @@
       return;
     }
 
-    // نحول الكود إلى إيميل تلقائياً
     const email = code + "@sharqawy.com";
 
     signInWithEmailAndPassword(auth, email, pass)
@@ -85,23 +89,30 @@
         alert("تم تسجيل الدخول بنجاح!");
       })
       .catch((error) => {
-        alert("كود الطالب أو كلمة السر غير صحيحة");
+        alert("خطأ: كود الطالب أو كلمة السر غير صحيحة");
       });
   };
 
-  // دالة الخروج
+  // دالة تسجيل الخروج
   window.logout = function() {
-    signOut(auth);
+    signOut(auth).then(() => {
+      alert("تم تسجيل الخروج");
+    });
   };
 
-  // متابعة حالة الدخول
+  // متابعة حالة الدخول بانتظام وتحديث الواجهة
   onAuthStateChanged(auth, (user) => {
+    const loginBox = document.getElementById("student-login-box");
+    const welcomeBox = document.getElementById("welcome-box");
+    const displayEmail = document.getElementById("user-display-email");
+
     if (user) {
-      document.getElementById("student-login-box").style.display = "none";
-      document.getElementById("welcome-box").style.display = "block";
+      if(loginBox) loginBox.style.display = "none";
+      if(welcomeBox) welcomeBox.style.display = "block";
+      if(displayEmail) displayEmail.textContent = "الحساب: " + user.email;
     } else {
-      document.getElementById("student-login-box").style.display = "block";
-      document.getElementById("welcome-box").style.display = "none";
+      if(loginBox) loginBox.style.display = "block";
+      if(welcomeBox) welcomeBox.style.display = "none";
     }
   });
 </script>
