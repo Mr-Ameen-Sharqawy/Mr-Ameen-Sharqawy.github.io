@@ -9,6 +9,7 @@ const googleDriveBatchMapSource = readFileSync(resolve(root, 'src/data/google-dr
 const googleDriveAug23MapSource = readFileSync(resolve(root, 'src/data/google-drive-aug23-course-images.ts'), 'utf8');
 const approximateMapSource = readFileSync(resolve(root, 'src/data/approximate-course-images.ts'), 'utf8');
 const semanticFallbackMapSource = readFileSync(resolve(root, 'src/data/semantic-fallback-course-images.ts'), 'utf8');
+const grade6CartoonMapSource = readFileSync(resolve(root, 'src/data/grade6-cartoon-images.ts'), 'utf8');
 const appSource = readFileSync(resolve(root, 'src/main.tsx'), 'utf8');
 const firebaseAuthSource = readFileSync(resolve(root, 'src/lib/firebase-auth.ts'), 'utf8');
 const teacherAccessSource = readFileSync(resolve(root, 'src/lib/teacher-access.ts'), 'utf8');
@@ -40,6 +41,8 @@ assert.equal(countMapEntries(semanticFallbackMapSource, 'semanticFallback', 'Gra
 assert.equal(newBatchManifest.items.length, 106);
 assert.equal(semanticFallbackManifest.items.length, 11);
 assert.equal(manifest.items.length, 1242);
+assert.match(grade6CartoonMapSource, /"make furniture": "\/course-images\/vocabulary\/grade6\/0077-furniture\.jpg"/);
+assert.match(grade6CartoonMapSource, /"furniture": "\/course-images\/vocabulary\/grade6\/0077-furniture\.jpg"/);
 assert.match(appSource, /const cardImageKey = normalizeTerm\(card\.term\)/);
 assert.match(appSource, /googleDriveAug23ImagesByGrade\[grade\]\[cardImageKey\] \?\? googleDriveAug23ImagesByGrade\[grade\]\[sourceImageKey\]/);
 assert.match(appSource, /approximateImagesByGrade\[grade\]\[cardImageKey\] \?\? approximateImagesByGrade\[grade\]\[sourceImageKey\]/);
@@ -69,6 +72,7 @@ assert.match(styleSource, /\.sf-unit-group\.is-active/);
 assert.ok(existsSync(resolve(root, 'public/course-images/vocabulary/grade4/0001-acts-of-kindness.jpg')));
 assert.ok(existsSync(resolve(root, 'public/course-images/vocabulary/grade5/0006-admire.jpg')));
 assert.ok(existsSync(resolve(root, 'public/course-images/vocabulary/grade6/0001-a-great-place-to.jpg')));
+assert.ok(existsSync(resolve(root, 'public/course-images/vocabulary/grade6/0077-furniture.jpg')));
 assert.ok(existsSync(resolve(root, 'public/course-images/vocabulary/grade4/new-009-street.jpg')));
 assert.ok(existsSync(resolve(root, 'public/course-images/vocabulary/grade6/new-001-a-bundle-of-sticks.jpg')));
 assert.ok(existsSync(resolve(root, 'public/course-images/vocabulary/grade4/semantic-001-safely.jpg')));
