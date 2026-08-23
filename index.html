@@ -37,6 +37,76 @@
   const app = initializeApp(firebaseConfig);
   const analytics = getAnalytics(app);
 </script>
+
+<!-- نموذج دخول الطلاب -->
+<div id="student-login-box" style="text-align: center; max-width: 300px; margin: 20px auto;">
+  <h3>تسجيل دخول الطالب</h3>
+  <input type="text" id="student-code" placeholder="كود الطالب (مثال: student101)" style="width: 100%; padding: 8px; margin-bottom: 10px;">
+  <input type="password" id="student-pass" placeholder="كلمة السر" style="width: 100%; padding: 8px; margin-bottom: 10px;">
+  <button onclick="loginStudent()" style="width: 100%; padding: 10px; cursor: pointer;">دخول</button>
+</div>
+
+<div id="welcome-box" style="display:none; text-align: center;">
+  <h3>أهلاً بك يا بطل!</h3>
+  <button onclick="logout()">تسجيل الخروج</button>
+</div>
+
+<script type="module">
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-app.js";
+  import { getAuth, signInWithEmailAndPassword, signOut, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-auth.js";
+
+  const firebaseConfig = {
+    apiKey: "AIzaSyD2DspjY_SmVWTyl4GmlV25mv3RvJlu778",
+    authDomain: "vocabulary-479b7.firebaseapp.com",
+    projectId: "vocabulary-479b7",
+    storageBucket: "vocabulary-479b7.firebasestorage.app",
+    messagingSenderId: "872231679220",
+    appId: "1:872231679220:web:41ccbdd1d687738a791aa1"
+  };
+
+  const app = initializeApp(firebaseConfig);
+  const auth = getAuth(app);
+
+  // دالة دخول الطالب باستخدام الكود والباسورد
+  window.loginStudent = function() {
+    const code = document.getElementById("student-code").value.trim();
+    const pass = document.getElementById("student-pass").value;
+
+    if(!code || !pass) {
+      alert("يرجى إدخال كود الطالب وكلمة السر");
+      return;
+    }
+
+    // نحول الكود إلى إيميل تلقائياً
+    const email = code + "@sharqawy.com";
+
+    signInWithEmailAndPassword(auth, email, pass)
+      .then((userCredential) => {
+        alert("تم تسجيل الدخول بنجاح!");
+      })
+      .catch((error) => {
+        alert("كود الطالب أو كلمة السر غير صحيحة");
+      });
+  };
+
+  // دالة الخروج
+  window.logout = function() {
+    signOut(auth);
+  };
+
+  // متابعة حالة الدخول
+  onAuthStateChanged(auth, (user) => {
+    if (user) {
+      document.getElementById("student-login-box").style.display = "none";
+      document.getElementById("welcome-box").style.display = "block";
+    } else {
+      document.getElementById("student-login-box").style.display = "block";
+      document.getElementById("welcome-box").style.display = "none";
+    }
+  });
+</script>
+
+
     
   </body>
 </html>
