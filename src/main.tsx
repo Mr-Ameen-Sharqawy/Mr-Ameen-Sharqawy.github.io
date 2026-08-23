@@ -7,6 +7,7 @@ import { grade6CourseUnits, grade6InteractiveLessons } from "./data/grade6-cours
 import { suppliedImagesByGrade } from "./data/supplied-course-images";
 import { newBatchImagesByGrade } from "./data/new-batch-supplied-course-images";
 import { semanticFallbackImagesByGrade } from "./data/semantic-fallback-course-images";
+import { speakNaturally } from "./lib/natural-speech";
 import "./style.css";
 
 type Grade = "grade4" | "grade5" | "grade6";
@@ -29,12 +30,7 @@ function normalizeTerm(term: string) {
 }
 
 function say(term: string) {
-  if (!window.speechSynthesis) return;
-  window.speechSynthesis.cancel();
-  const utterance = new SpeechSynthesisUtterance(term.replace(/[!?.]/g, ""));
-  utterance.lang = "en-US";
-  utterance.rate = 0.78;
-  window.speechSynthesis.speak(utterance);
+  speakNaturally(term);
 }
 
 function GradeHome({ onSelect }: { onSelect: (grade: Grade) => void }) {
