@@ -6,6 +6,7 @@ import { grade5CourseUnits, grade5InteractiveLessons } from "./data/grade5-cours
 import { grade6CourseUnits, grade6InteractiveLessons } from "./data/grade6-course";
 import { suppliedImagesByGrade } from "./data/supplied-course-images";
 import { newBatchImagesByGrade } from "./data/new-batch-supplied-course-images";
+import { googleDriveBatchImagesByGrade } from "./data/google-drive-batch-course-images";
 import { semanticFallbackImagesByGrade } from "./data/semantic-fallback-course-images";
 import { speakNaturally } from "./lib/natural-speech";
 import "./style.css";
@@ -74,7 +75,7 @@ function StudentCourse({ grade, onBack }: { grade: Grade; onBack: () => void }) 
     const lesson = lessons.find((item) => item.id === lessonId);
     return sum + Object.entries(value).filter(([cardId, answer]) => lesson?.cards.some((item) => item.id === cardId && item.term === answer)).length;
   }, 0);
-  const image = newBatchImagesByGrade[grade][normalizeTerm(card.sourceTerm || card.term)] ?? suppliedImagesByGrade[grade][normalizeTerm(card.sourceTerm || card.term)] ?? semanticFallbackImagesByGrade[grade][normalizeTerm(card.sourceTerm || card.term)] ?? selectedLesson.image;
+  const image = googleDriveBatchImagesByGrade[grade][normalizeTerm(card.sourceTerm || card.term)] ?? newBatchImagesByGrade[grade][normalizeTerm(card.sourceTerm || card.term)] ?? suppliedImagesByGrade[grade][normalizeTerm(card.sourceTerm || card.term)] ?? semanticFallbackImagesByGrade[grade][normalizeTerm(card.sourceTerm || card.term)] ?? selectedLesson.image;
 
   const resetReveal = () => { setIsCardFlipped(false); setHasHeardWord(false); };
   const selectLesson = (lessonId: string) => { setSelectedLessonId(lessonId); setIsRailOpen(false); };
