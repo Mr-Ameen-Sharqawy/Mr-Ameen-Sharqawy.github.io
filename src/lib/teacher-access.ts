@@ -5,6 +5,7 @@ import { firebaseConfig, firebaseDb, type StudentGrade, usernameToFirebaseEmail 
 
 export const TEACHER_UID = "4gDzRFRfacN8SpB9zv6iigSmQGD3";
 export const MANAGEABLE_GRADES: StudentGrade[] = ["grade4", "grade5", "grade6"];
+export const PRACTICAL_TEST_DEVICE_LIMIT = 1000;
 
 export type ManagedStudent = {
   uid: string;
@@ -65,7 +66,7 @@ export async function createManagedStudent(teacherUid: string, draft: StudentDra
   const username = draft.username.trim().toLowerCase();
   const allowedGrades = sanitizeGrades(draft.allowedGrades);
   if (!allowedGrades.length) throw new Error("اختر صفًا واحدًا على الأقل.");
-  if (!Number.isInteger(draft.maxDevices) || draft.maxDevices < 1 || draft.maxDevices > 20) throw new Error("عدد الأجهزة يجب أن يكون من 1 إلى 20.");
+  if (!Number.isInteger(draft.maxDevices) || draft.maxDevices < 1 || draft.maxDevices > PRACTICAL_TEST_DEVICE_LIMIT) throw new Error(`عدد الأجهزة يجب أن يكون من 1 إلى ${PRACTICAL_TEST_DEVICE_LIMIT}.`);
   if (draft.password.length < 6) throw new Error("كلمة المرور يجب أن تكون 6 أحرف على الأقل.");
 
   const auth = provisioningAuth();
@@ -93,7 +94,7 @@ export async function updateManagedStudent(teacherUid: string, student: Pick<Man
   assertTeacher(teacherUid);
   const allowedGrades = sanitizeGrades(student.allowedGrades);
   if (!allowedGrades.length) throw new Error("اختر صفًا واحدًا على الأقل.");
-  if (!Number.isInteger(student.maxDevices) || student.maxDevices < 1 || student.maxDevices > 20) throw new Error("عدد الأجهزة يجب أن يكون من 1 إلى 20.");
+  if (!Number.isInteger(student.maxDevices) || student.maxDevices < 1 || student.maxDevices > PRACTICAL_TEST_DEVICE_LIMIT) throw new Error(`عدد الأجهزة يجب أن يكون من 1 إلى ${PRACTICAL_TEST_DEVICE_LIMIT}.`);
   await updateDoc(doc(firebaseDb, "studentAccess", student.uid), {
     active: student.active,
     maxDevices: student.maxDevices,

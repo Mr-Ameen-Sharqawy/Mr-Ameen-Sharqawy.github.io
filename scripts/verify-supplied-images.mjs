@@ -51,6 +51,8 @@ assert.match(appSource, /حساب المعلم: ameen/);
 assert.match(teacherAccessSource, /TEACHER_UID/);
 assert.match(teacherAccessSource, /createManagedStudent/);
 assert.match(teacherAccessSource, /clearManagedStudentDevices/);
+assert.match(teacherAccessSource, /PRACTICAL_TEST_DEVICE_LIMIT = 1000/);
+assert.match(appSource, /حساب تجريبي لعدد كبير من الطلاب/);
 assert.match(appSource, /grade5InteractiveLessons/);
 assert.match(appSource, /sf-course-nav/);
 assert.match(appSource, /sf-flip-stage/);
