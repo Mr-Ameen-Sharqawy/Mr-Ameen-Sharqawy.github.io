@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import { getAuth, onAuthStateChanged, signInWithEmailAndPassword, signOut } from "firebase/auth";
 import { doc, getFirestore, runTransaction } from "firebase/firestore";
 
-const firebaseConfig = {
+export const firebaseConfig = {
   apiKey: "AIzaSyD2DspjY_SmVWTyl4GmlV25mv3RvJlu778",
   authDomain: "vocabulary-479b7.firebaseapp.com",
   projectId: "vocabulary-479b7",
