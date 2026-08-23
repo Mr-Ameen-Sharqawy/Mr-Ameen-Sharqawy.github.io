@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedFrom": "course-asset-map.json + new-batch-approved-mappings.json",
+  "generatedFrom": "course-asset-map.json + reviewed Dropbox exact and semantic fallback maps",
   "mappedTermsByGrade": {
-    "grade4": 371,
+    "grade4": 372,
     "grade5": 526,
-    "grade6": 334
+    "grade6": 344
   },
-  "uniqueImages": 1156,
+  "uniqueImages": 1166,
   "items": [
     {
       "grade": "grade4",
@@ -8624,6 +8624,83 @@
       "assetPath": "course-images/vocabulary/grade6/new-092-wood.jpg",
       "sourceRelativePath": "extracted/all_photos/temp_extracted/Person_bending_wood_bundle_202608222202.jpeg",
       "reviewConfidence": "high"
+    },
+    {
+      "grade": "grade4",
+      "term": "safely",
+      "assetPath": "course-images/vocabulary/grade4/semantic-001-safely.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Child_crossing_road_safely_202608222035.jpeg",
+      "fallbackKind": "contextual"
+    },
+    {
+      "grade": "grade6",
+      "term": "at the entrance",
+      "assetPath": "course-images/vocabulary/grade6/semantic-001-at-the-entrance.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Cartoon_museum_entrance_welcomin…_202608222157.jpeg",
+      "fallbackKind": "contextual"
+    },
+    {
+      "grade": "grade6",
+      "term": "grew weaker",
+      "assetPath": "course-images/vocabulary/grade6/semantic-002-grew-weaker.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Battery_illustrating_grew_weaker_202608222201.jpeg",
+      "fallbackKind": "conceptual"
+    },
+    {
+      "grade": "grade6",
+      "term": "learning",
+      "assetPath": "course-images/vocabulary/grade6/semantic-003-learning.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Child_sitting_on_books_learning_202608222039.jpeg",
+      "fallbackKind": "contextual"
+    },
+    {
+      "grade": "grade6",
+      "term": "peaceful",
+      "assetPath": "course-images/vocabulary/grade6/semantic-004-peaceful.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Flowers_and_peaceful_monument_202608222201.jpeg",
+      "fallbackKind": "contextual"
+    },
+    {
+      "grade": "grade6",
+      "term": "research",
+      "assetPath": "course-images/vocabulary/grade6/semantic-005-research.jpg",
+      "sourceRelativePath": "extracted/download9/Child_taking_notes_doing_research_202608222111.jpeg",
+      "fallbackKind": "contextual"
+    },
+    {
+      "grade": "grade6",
+      "term": "safely",
+      "assetPath": "course-images/vocabulary/grade4/semantic-001-safely.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Child_crossing_road_safely_202608222035.jpeg",
+      "fallbackKind": "contextual"
+    },
+    {
+      "grade": "grade6",
+      "term": "smart",
+      "assetPath": "course-images/vocabulary/grade6/semantic-006-smart.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Child_pointing_at_smart_screen_202608222157.jpeg",
+      "fallbackKind": "contextual"
+    },
+    {
+      "grade": "grade6",
+      "term": "tied together",
+      "assetPath": "course-images/vocabulary/grade6/semantic-007-tied-together.jpg",
+      "sourceRelativePath": "extracted/all_photos/temp_extracted/Colorful_pencils_tied_together_202608222201.jpeg",
+      "fallbackKind": "contextual"
+    },
+    {
+      "grade": "grade6",
+      "term": "university",
+      "assetPath": "course-images/vocabulary/grade6/semantic-008-university.jpg",
+      "sourceRelativePath": "extracted/download9/Students_graduating_at_university_202608222111.jpeg",
+      "fallbackKind": "contextual"
+    },
+    {
+      "grade": "grade6",
+      "term": "weak",
+      "assetPath": "course-images/vocabulary/grade6/semantic-009-weak.jpg",
+      "sourceRelativePath": "extracted/download9/Wilting_plant_representing_weak_202608222111.jpeg",
+      "fallbackKind": "conceptual"
     }
   ]
 }

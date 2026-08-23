@@ -5,10 +5,12 @@ import { resolve } from 'node:path';
 const root = resolve(import.meta.dirname, '..');
 const mapSource = readFileSync(resolve(root, 'src/data/supplied-course-images.ts'), 'utf8');
 const newBatchMapSource = readFileSync(resolve(root, 'src/data/new-batch-supplied-course-images.ts'), 'utf8');
+const semanticFallbackMapSource = readFileSync(resolve(root, 'src/data/semantic-fallback-course-images.ts'), 'utf8');
 const appSource = readFileSync(resolve(root, 'src/main.tsx'), 'utf8');
 const styleSource = readFileSync(resolve(root, 'src/style.css'), 'utf8');
 const manifest = JSON.parse(readFileSync(resolve(root, 'public/course-images/vocabulary/manifest.json'), 'utf8'));
 const newBatchManifest = JSON.parse(readFileSync(resolve(root, 'public/course-images/vocabulary/new-batch-manifest.json'), 'utf8'));
+const semanticFallbackManifest = JSON.parse(readFileSync(resolve(root, 'public/course-images/vocabulary/semantic-fallback-manifest.json'), 'utf8'));
 
 function countMapEntries(source, prefix, grade) {
   const section = source.match(new RegExp(`export const ${prefix}${grade}Images: Record<string, string> = \\{([\\s\\S]*?)\\n\\};`));
@@ -22,9 +24,13 @@ assert.equal(countMapEntries(mapSource, 'supplied', 'Grade6'), 238);
 assert.equal(countMapEntries(newBatchMapSource, 'newBatch', 'Grade4'), 10);
 assert.equal(countMapEntries(newBatchMapSource, 'newBatch', 'Grade5'), 0);
 assert.equal(countMapEntries(newBatchMapSource, 'newBatch', 'Grade6'), 96);
+assert.equal(countMapEntries(semanticFallbackMapSource, 'semanticFallback', 'Grade4'), 1);
+assert.equal(countMapEntries(semanticFallbackMapSource, 'semanticFallback', 'Grade5'), 0);
+assert.equal(countMapEntries(semanticFallbackMapSource, 'semanticFallback', 'Grade6'), 10);
 assert.equal(newBatchManifest.items.length, 106);
-assert.equal(manifest.items.length, 1231);
-assert.match(appSource, /newBatchImagesByGrade\[grade\]\[normalizeTerm\(card\.sourceTerm \|\| card\.term\)\] \?\? suppliedImagesByGrade/);
+assert.equal(semanticFallbackManifest.items.length, 11);
+assert.equal(manifest.items.length, 1242);
+assert.match(appSource, /newBatchImagesByGrade\[grade\]\[normalizeTerm\(card\.sourceTerm \|\| card\.term\)\] \?\? suppliedImagesByGrade\[grade\].*semanticFallbackImagesByGrade/);
 assert.match(appSource, /grade5InteractiveLessons/);
 assert.match(appSource, /sf-course-nav/);
 assert.match(appSource, /sf-flip-stage/);
@@ -37,5 +43,7 @@ assert.ok(existsSync(resolve(root, 'public/course-images/vocabulary/grade5/0006-
 assert.ok(existsSync(resolve(root, 'public/course-images/vocabulary/grade6/0001-a-great-place-to.jpg')));
 assert.ok(existsSync(resolve(root, 'public/course-images/vocabulary/grade4/new-009-street.jpg')));
 assert.ok(existsSync(resolve(root, 'public/course-images/vocabulary/grade6/new-001-a-bundle-of-sticks.jpg')));
+assert.ok(existsSync(resolve(root, 'public/course-images/vocabulary/grade4/semantic-001-safely.jpg')));
+assert.ok(existsSync(resolve(root, 'public/course-images/vocabulary/grade6/semantic-007-tied-together.jpg')));
 
-console.log('Verified 1,231 term-to-image links, the new Dropbox batch, local vocabulary assets, and the original-style student interface hooks.');
+console.log('Verified 1,242 term-to-image links, the exact and semantic Dropbox maps, local vocabulary assets, and the original-style student interface hooks.');
