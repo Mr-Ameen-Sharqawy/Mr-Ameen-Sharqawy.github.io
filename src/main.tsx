@@ -14,7 +14,6 @@ import { speakNaturally } from "./lib/natural-speech";
 import { firebaseAuth, onAuthStateChanged, registerStudentDeviceAndLoadAccess, signInWithUsername, signOutStudent, StudentAccessError, type StudentAccess, usernameFromFirebaseEmail } from "./lib/firebase-auth";
 import { clearManagedStudentDevices, createManagedStudent, isTeacher, listManagedStudents, MANAGEABLE_GRADES, PRACTICAL_TEST_DEVICE_LIMIT, type ManagedStudent, updateManagedStudent } from "./lib/teacher-access";
 import "./style.css";
-import "./training-question-copy.css";
 import "./firebase-auth.css";
 import "./teacher-dashboard.css";
 
@@ -120,6 +119,10 @@ function StudentCourse({ grade, onBack, studentUsername, onSignOut }: { grade: G
   const card = deck[currentIndex] ?? selectedLesson.cards[0];
   const options = useMemo(() => buildWordOptions(deck, card), [deck, card]);
   const sentence = useMemo(() => sentenceWithBlank(card), [card]);
+  useEffect(() => {
+    document.querySelector(".sf-question-label")?.replaceChildren("Choose the best answer");
+    document.querySelector(".sf-question-ar")?.replaceChildren("اختَر الكلمة الأنسب يا بطل.");
+  });
   const lessonAnswers = answers[selectedLesson.id] ?? {};
   const selectedAnswer = lessonAnswers[card.id];
   const hasAnswered = selectedAnswer !== undefined;

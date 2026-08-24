@@ -12,7 +12,6 @@ const semanticFallbackMapSource = readFileSync(resolve(root, 'src/data/semantic-
 const grade6CartoonMapSource = readFileSync(resolve(root, 'src/data/grade6-cartoon-images.ts'), 'utf8');
 const courseSource = readFileSync(resolve(root, 'src/data/course.ts'), 'utf8');
 const appSource = readFileSync(resolve(root, 'src/main.tsx'), 'utf8');
-const trainingQuestionCopySource = readFileSync(resolve(root, 'src/training-question-copy.css'), 'utf8');
 const firebaseAuthSource = readFileSync(resolve(root, 'src/lib/firebase-auth.ts'), 'utf8');
 const teacherAccessSource = readFileSync(resolve(root, 'src/lib/teacher-access.ts'), 'utf8');
 const styleSource = readFileSync(resolve(root, 'src/style.css'), 'utf8');
@@ -49,9 +48,8 @@ assert.match(grade6CartoonMapSource, /"furniture": "\/course-images\/vocabulary\
 assert.match(courseSource, /This lesson helps us learn about\\s\+/);
 assert.match(courseSource, /Which English word means “\$\{card\.arabic\}”\?/);
 assert.match(courseSource, /Choose the word that matches this meaning/);
-assert.match(appSource, /import "\.\/training-question-copy\.css"/);
-assert.match(trainingQuestionCopySource, /Choose the best answer/);
-assert.match(trainingQuestionCopySource, /اختَر الكلمة الأنسب يا بطل/);
+assert.match(appSource, /replaceChildren\("Choose the best answer"\)/);
+assert.match(appSource, /replaceChildren\("اختَر الكلمة الأنسب يا بطل\."\)/);
 assert.match(appSource, /const cardImageKey = normalizeTerm\(card\.term\)/);
 assert.match(appSource, /googleDriveAug23ImagesByGrade\[grade\]\[cardImageKey\] \?\? googleDriveAug23ImagesByGrade\[grade\]\[sourceImageKey\]/);
 assert.match(appSource, /approximateImagesByGrade\[grade\]\[cardImageKey\] \?\? approximateImagesByGrade\[grade\]\[sourceImageKey\]/);
