@@ -5780,7 +5780,22 @@ export function buildWordOptions(cards: CourseCard[], card: CourseCard) {
 }
 
 export function sentenceWithBlank(card: CourseCard) {
-  const position = card.sentence.toLowerCase().indexOf(card.term.toLowerCase());
-  if (position < 0) return card.sentence;
-  return card.sentence.slice(0, position) + '_____' + card.sentence.slice(position + card.term.length);
+  if (/^This lesson helps us learn about\s+/i.test(card.sentence)) {
+    const prompts = [
+      `Which English word means “${card.arabic}”?`,
+      `Choose the word that matches this meaning: “${card.arabic}”.`,
+      `Find the English word for: “${card.arabic}”.`,
+      `Which word matches “${card.arabic}” in English?`,
+    ];
+    const promptIndex = card.id.split("").reduce((total, character) => total + character.charCodeAt(0), 0) % prompts.length;
+    return prompts[promptIndex];
+  }
+  const candidateTerms = [card.term, card.sourceTerm]
+    .map((term) => term.replace(/\s*\([^)]*\)/g, "").trim())
+    .filter((term, index, values) => term && values.indexOf(term) === index);
+  const match = candidateTerms
+    .map((term) => ({ term, position: card.sentence.toLowerCase().indexOf(term.toLowerCase()) }))
+    .find(({ position }) => position >= 0);
+  if (!match) return card.sentence;
+  return card.sentence.slice(0, match.position) + '_____' + card.sentence.slice(match.position + match.term.length);
 }

@@ -10,6 +10,7 @@ const googleDriveAug23MapSource = readFileSync(resolve(root, 'src/data/google-dr
 const approximateMapSource = readFileSync(resolve(root, 'src/data/approximate-course-images.ts'), 'utf8');
 const semanticFallbackMapSource = readFileSync(resolve(root, 'src/data/semantic-fallback-course-images.ts'), 'utf8');
 const grade6CartoonMapSource = readFileSync(resolve(root, 'src/data/grade6-cartoon-images.ts'), 'utf8');
+const courseSource = readFileSync(resolve(root, 'src/data/course.ts'), 'utf8');
 const appSource = readFileSync(resolve(root, 'src/main.tsx'), 'utf8');
 const firebaseAuthSource = readFileSync(resolve(root, 'src/lib/firebase-auth.ts'), 'utf8');
 const teacherAccessSource = readFileSync(resolve(root, 'src/lib/teacher-access.ts'), 'utf8');
@@ -44,6 +45,9 @@ assert.equal(manifest.items.length, 1242);
 assert.match(mapSource, /"make furniture": "\/course-images\/vocabulary\/grade6\/0077-furniture\.jpg"/);
 assert.match(grade6CartoonMapSource, /"make furniture": "\/course-images\/vocabulary\/grade6\/0077-furniture\.jpg"/);
 assert.match(grade6CartoonMapSource, /"furniture": "\/course-images\/vocabulary\/grade6\/0077-furniture\.jpg"/);
+assert.match(courseSource, /This lesson helps us learn about\\s\+/);
+assert.match(courseSource, /Which English word means “\$\{card\.arabic\}”\?/);
+assert.match(courseSource, /Choose the word that matches this meaning/);
 assert.match(appSource, /const cardImageKey = normalizeTerm\(card\.term\)/);
 assert.match(appSource, /googleDriveAug23ImagesByGrade\[grade\]\[cardImageKey\] \?\? googleDriveAug23ImagesByGrade\[grade\]\[sourceImageKey\]/);
 assert.match(appSource, /approximateImagesByGrade\[grade\]\[cardImageKey\] \?\? approximateImagesByGrade\[grade\]\[sourceImageKey\]/);
