@@ -14,6 +14,7 @@ import { speakNaturally } from "./lib/natural-speech";
 import { firebaseAuth, onAuthStateChanged, registerStudentDeviceAndLoadAccess, signInWithUsername, signOutStudent, StudentAccessError, type StudentAccess, usernameFromFirebaseEmail } from "./lib/firebase-auth";
 import { clearManagedStudentDevices, createManagedStudent, isTeacher, listManagedStudents, MANAGEABLE_GRADES, PRACTICAL_TEST_DEVICE_LIMIT, type ManagedStudent, updateManagedStudent } from "./lib/teacher-access";
 import "./style.css";
+import "./training-question-copy.css";
 import "./firebase-auth.css";
 import "./teacher-dashboard.css";
 
